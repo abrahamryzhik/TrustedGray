@@ -1,0 +1,518 @@
+<div class="panel_ panel-present" id="prod_cat-stock">
+ <div class="container container-edge">
+  <div class="panel_head">
+   <h2>
+    Currently In Stock
+   </h2>
+   <h3 class="subheading">
+    <span>
+     4 Matches Found
+    </span>
+   </h3>
+  </div>
+  <div class="products_ prods-sm-stacked group">
+   <div class="cols-center owl-carousel">
+    <div class="col-prod col-md-3">
+     <script>
+      items.push({
+            'item_id': '222294',
+            'item_name': 'Rolex Explorer II 16570',
+            'item_brand': 'Rolex',
+            'item_collection': 'Explorer II',
+            'item_variant': '16570',
+            'item_category': 'watch',
+            'price': '9200',
+            'currency': 'USD',
+            'quantity': '1',
+            'item_material_case': 'Steel',
+            'item_material_strap': 'Steel (Oyster)',
+            'item_dial': 'White',
+            'item_size': '40',
+            'item_box': 'False',
+            'item_papers': 'False',
+            'item_special_edition': 'False',
+            'item_available': 'instock',
+            'item_sellable': 'sellable',
+            'item_year': '2002',
+            'item_tags': '',
+            'item_category5': ''
+            });
+     </script>
+     <div class="prods_item prods_item-stock" data-compare-target="prods_222294" id="prods_222294">
+      <div class="row cols-edge prods_item-card">
+       <div class="col-5 col-md-12 prods_image-frame">
+        <div class="prod_new-price-tag fill-primary">
+         <span class="icon-icon_price-tag">
+         </span>
+         New Price
+        </div>
+        <div class="prods_image">
+         <a class="redirect" href="/Rolex/Explorer II/16570/1780/item/222294">
+          <picture>
+           <!--[if IE 9]><video style="display: none;"><![endif]-->
+           <source media="(min-width: 960px)" srcset="https://images.watchfinder.co.uk/imgv2/stock/222294/Rolex-ExplorerII-16570-222294-2-221221-170236.jpg;quality=95;h=275, https://images.watchfinder.co.uk/imgv2/stock/222294/Rolex-ExplorerII-16570-222294-2-221221-170236.jpg;quality=55;h=550 2x"/>
+           <source media="(min-width: 768px)" srcset="https://images.watchfinder.co.uk/imgv2/stock/222294/Rolex-ExplorerII-16570-222294-2-221221-170236.jpg;quality=95;h=250, https://images.watchfinder.co.uk/imgv2/stock/222294/Rolex-ExplorerII-16570-222294-2-221221-170236.jpg;quality=55;h=500 2x"/>
+           <!--[if IE 9]></video><![endif]-->
+           <img alt="Rolex Explorer II 16570" height="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" srcset="https://images.watchfinder.co.uk/imgv2/stock/222294/Rolex-ExplorerII-16570-222294-2-221221-170236.jpg;quality=90;h=160, https://images.watchfinder.co.uk/imgv2/stock/222294/Rolex-ExplorerII-16570-222294-2-221221-170236.jpg;quality=55;h=320 2x" width=""/>
+          </picture>
+         </a>
+        </div>
+        <div class="prods_actions">
+         <button aria-label="Product menu actions" aria-pressed="false" class="toggle_actions-menu-btn toggle-circle" data-menu="toggle_actions-menu-222294" id="toggle_222294" role="button">
+          <div class="dot">
+          </div>
+         </button>
+         <div class="toggle_actions-menu toggle_actions-menu-222294">
+          <ul class="list-unstyled">
+           <li>
+            <div class="btn-compare btn-compare-add btn-compare-actions" data-brand="Rolex" data-catalogue-id="1780" data-id="222294" data-model="16570" data-series="Explorer II">
+             Compare
+            </div>
+            <div class="btn-compare btn-compare-remove btn-compare-actions" data-id="222294">
+             Remove from compare
+            </div>
+           </li>
+           <li>
+            <a class="crumb view-series redirect" href="/Rolex/Explorer%20II/watches">
+             View Series
+            </a>
+           </li>
+           <li>
+            <a class="crumb view-model redirect" href="/Rolex/Explorer%20II/16570/watches">
+             View Model
+            </a>
+           </li>
+           <li>
+            <a class="crumb view-watch redirect" href="/Rolex/Explorer II/16570/1780/item/222294">
+             View Watch
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class="col-push-5 col-7 col-md-12 prods_content">
+        <a class="prods_name redirect" href="/Rolex/Explorer II/16570/1780/item/222294">
+         <div class="prods_brand ellipsis">
+          Rolex
+         </div>
+         <div class="prods_series ellipsis">
+          Explorer II
+         </div>
+         <div class="prods_model ellipsis">
+          16570
+         </div>
+        </a>
+        <div class="prods_prices notranslate">
+         <div class="align-middle">
+          <div class="prods_price notranslate">
+           <span class="prods_price">
+            $9,200
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="prods_additions">
+         <span class="prods_box group-text">
+          <strong>
+           Box:
+          </strong>
+          No
+         </span>
+         <span class="prods_papers group-text">
+          <strong>
+           Papers:
+          </strong>
+          No
+         </span>
+         <div class="prods_age ellipsis">
+          <span class="inline">
+           <strong>
+            Year:
+           </strong>
+          </span>
+          Approx.  2002
+         </div>
+        </div>
+        <div class="prods_usps">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="col-prod col-md-3">
+     <script>
+      items.push({
+            'item_id': '238999',
+            'item_name': 'Rolex Explorer II 16570',
+            'item_brand': 'Rolex',
+            'item_collection': 'Explorer II',
+            'item_variant': '16570',
+            'item_category': 'watch',
+            'price': '10455',
+            'currency': 'USD',
+            'quantity': '1',
+            'item_material_case': 'Steel',
+            'item_material_strap': 'Steel (Oyster)',
+            'item_dial': 'White',
+            'item_size': '40',
+            'item_box': 'True',
+            'item_papers': 'True',
+            'item_special_edition': 'False',
+            'item_available': 'instock',
+            'item_sellable': 'sellable',
+            'item_year': '2000',
+            'item_tags': '',
+            'item_category5': ''
+            });
+     </script>
+     <div class="prods_item prods_item-stock" data-compare-target="prods_238999" id="prods_238999">
+      <div class="row cols-edge prods_item-card">
+       <div class="col-5 col-md-12 prods_image-frame">
+        <div class="prods_image">
+         <a class="redirect" href="/Rolex/Explorer II/16570/1780/item/238999">
+          <picture>
+           <!--[if IE 9]><video style="display: none;"><![endif]-->
+           <source media="(min-width: 960px)" srcset="https://images.watchfinder.co.uk/imgv2/stock/233763/Rolex-ExplorerII-16570-233763-1-221202-144522.jpg;quality=95;h=275, https://images.watchfinder.co.uk/imgv2/stock/233763/Rolex-ExplorerII-16570-233763-1-221202-144522.jpg;quality=55;h=550 2x"/>
+           <source media="(min-width: 768px)" srcset="https://images.watchfinder.co.uk/imgv2/stock/233763/Rolex-ExplorerII-16570-233763-1-221202-144522.jpg;quality=95;h=250, https://images.watchfinder.co.uk/imgv2/stock/233763/Rolex-ExplorerII-16570-233763-1-221202-144522.jpg;quality=55;h=500 2x"/>
+           <!--[if IE 9]></video><![endif]-->
+           <img alt="Rolex Explorer II 16570" height="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" srcset="https://images.watchfinder.co.uk/imgv2/stock/233763/Rolex-ExplorerII-16570-233763-1-221202-144522.jpg;quality=90;h=160, https://images.watchfinder.co.uk/imgv2/stock/233763/Rolex-ExplorerII-16570-233763-1-221202-144522.jpg;quality=55;h=320 2x" width=""/>
+          </picture>
+         </a>
+        </div>
+        <div class="prods_actions">
+         <button aria-label="Product menu actions" aria-pressed="false" class="toggle_actions-menu-btn toggle-circle" data-menu="toggle_actions-menu-238999" id="toggle_238999" role="button">
+          <div class="dot">
+          </div>
+         </button>
+         <div class="toggle_actions-menu toggle_actions-menu-238999">
+          <ul class="list-unstyled">
+           <li>
+            <div class="btn-compare btn-compare-add btn-compare-actions" data-brand="Rolex" data-catalogue-id="1780" data-id="238999" data-model="16570" data-series="Explorer II">
+             Compare
+            </div>
+            <div class="btn-compare btn-compare-remove btn-compare-actions" data-id="238999">
+             Remove from compare
+            </div>
+           </li>
+           <li>
+            <a class="crumb view-series redirect" href="/Rolex/Explorer%20II/watches">
+             View Series
+            </a>
+           </li>
+           <li>
+            <a class="crumb view-model redirect" href="/Rolex/Explorer%20II/16570/watches">
+             View Model
+            </a>
+           </li>
+           <li>
+            <a class="crumb view-watch redirect" href="/Rolex/Explorer II/16570/1780/item/238999">
+             View Watch
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class="col-push-5 col-7 col-md-12 prods_content">
+        <a class="prods_name redirect" href="/Rolex/Explorer II/16570/1780/item/238999">
+         <div class="prods_brand ellipsis">
+          Rolex
+         </div>
+         <div class="prods_series ellipsis">
+          Explorer II
+         </div>
+         <div class="prods_model ellipsis">
+          16570
+         </div>
+        </a>
+        <div class="prods_prices notranslate">
+         <div class="align-middle">
+          <div class="prods_price notranslate">
+           <span class="prods_price">
+            $10,455
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="prods_additions">
+         <span class="prods_box group-text">
+          <strong>
+           Box:
+          </strong>
+          Yes
+         </span>
+         <span class="prods_papers group-text">
+          <strong>
+           Papers:
+          </strong>
+          Yes
+         </span>
+         <div class="prods_age ellipsis">
+          <span class="inline">
+           <strong>
+            Year:
+           </strong>
+          </span>
+          2000
+         </div>
+        </div>
+        <div class="prods_usps">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="col-prod col-md-3">
+     <script>
+      items.push({
+            'item_id': '232242',
+            'item_name': 'Rolex Explorer II 16570',
+            'item_brand': 'Rolex',
+            'item_collection': 'Explorer II',
+            'item_variant': '16570',
+            'item_category': 'watch',
+            'price': '9365',
+            'currency': 'USD',
+            'quantity': '1',
+            'item_material_case': 'Steel',
+            'item_material_strap': 'Steel (Oyster)',
+            'item_dial': 'White',
+            'item_size': '40',
+            'item_box': 'False',
+            'item_papers': 'False',
+            'item_special_edition': 'False',
+            'item_available': 'instock',
+            'item_sellable': 'sellable',
+            'item_year': '2007',
+            'item_tags': '',
+            'item_category5': ''
+            });
+     </script>
+     <div class="prods_item prods_item-stock" data-compare-target="prods_232242" id="prods_232242">
+      <div class="row cols-edge prods_item-card">
+       <div class="col-5 col-md-12 prods_image-frame">
+        <div class="prods_image">
+         <a class="redirect" href="/Rolex/Explorer II/16570/1780/item/232242">
+          <picture>
+           <!--[if IE 9]><video style="display: none;"><![endif]-->
+           <source media="(min-width: 960px)" srcset="https://images.watchfinder.co.uk/imgv2/stock/232242/Rolex-ExplorerII-16570-232242-1-221115-121132.jpg;quality=95;h=275, https://images.watchfinder.co.uk/imgv2/stock/232242/Rolex-ExplorerII-16570-232242-1-221115-121132.jpg;quality=55;h=550 2x"/>
+           <source media="(min-width: 768px)" srcset="https://images.watchfinder.co.uk/imgv2/stock/232242/Rolex-ExplorerII-16570-232242-1-221115-121132.jpg;quality=95;h=250, https://images.watchfinder.co.uk/imgv2/stock/232242/Rolex-ExplorerII-16570-232242-1-221115-121132.jpg;quality=55;h=500 2x"/>
+           <!--[if IE 9]></video><![endif]-->
+           <img alt="Rolex Explorer II 16570" height="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" srcset="https://images.watchfinder.co.uk/imgv2/stock/232242/Rolex-ExplorerII-16570-232242-1-221115-121132.jpg;quality=90;h=160, https://images.watchfinder.co.uk/imgv2/stock/232242/Rolex-ExplorerII-16570-232242-1-221115-121132.jpg;quality=55;h=320 2x" width=""/>
+          </picture>
+         </a>
+        </div>
+        <div class="prods_actions">
+         <button aria-label="Product menu actions" aria-pressed="false" class="toggle_actions-menu-btn toggle-circle" data-menu="toggle_actions-menu-232242" id="toggle_232242" role="button">
+          <div class="dot">
+          </div>
+         </button>
+         <div class="toggle_actions-menu toggle_actions-menu-232242">
+          <ul class="list-unstyled">
+           <li>
+            <div class="btn-compare btn-compare-add btn-compare-actions" data-brand="Rolex" data-catalogue-id="1780" data-id="232242" data-model="16570" data-series="Explorer II">
+             Compare
+            </div>
+            <div class="btn-compare btn-compare-remove btn-compare-actions" data-id="232242">
+             Remove from compare
+            </div>
+           </li>
+           <li>
+            <a class="crumb view-series redirect" href="/Rolex/Explorer%20II/watches">
+             View Series
+            </a>
+           </li>
+           <li>
+            <a class="crumb view-model redirect" href="/Rolex/Explorer%20II/16570/watches">
+             View Model
+            </a>
+           </li>
+           <li>
+            <a class="crumb view-watch redirect" href="/Rolex/Explorer II/16570/1780/item/232242">
+             View Watch
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class="col-push-5 col-7 col-md-12 prods_content">
+        <a class="prods_name redirect" href="/Rolex/Explorer II/16570/1780/item/232242">
+         <div class="prods_brand ellipsis">
+          Rolex
+         </div>
+         <div class="prods_series ellipsis">
+          Explorer II
+         </div>
+         <div class="prods_model ellipsis">
+          16570
+         </div>
+        </a>
+        <div class="prods_prices notranslate">
+         <div class="align-middle">
+          <div class="prods_price notranslate">
+           <span class="prods_price">
+            $9,365
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="prods_additions">
+         <span class="prods_box group-text">
+          <strong>
+           Box:
+          </strong>
+          No
+         </span>
+         <span class="prods_papers group-text">
+          <strong>
+           Papers:
+          </strong>
+          No
+         </span>
+         <div class="prods_age ellipsis">
+          <span class="inline">
+           <strong>
+            Year:
+           </strong>
+          </span>
+          Approx.  2007
+         </div>
+        </div>
+        <div class="prods_usps">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="col-prod col-md-3">
+     <script>
+      items.push({
+            'item_id': '234410',
+            'item_name': 'Rolex Explorer II 16570',
+            'item_brand': 'Rolex',
+            'item_collection': 'Explorer II',
+            'item_variant': '16570',
+            'item_category': 'watch',
+            'price': '10060',
+            'currency': 'USD',
+            'quantity': '1',
+            'item_material_case': 'Steel',
+            'item_material_strap': 'Steel (Oyster)',
+            'item_dial': 'White',
+            'item_size': '40',
+            'item_box': 'True',
+            'item_papers': 'True',
+            'item_special_edition': 'False',
+            'item_available': 'instock',
+            'item_sellable': 'sellable',
+            'item_year': '1994',
+            'item_tags': '',
+            'item_category5': ''
+            });
+     </script>
+     <div class="prods_item prods_item-stock" data-compare-target="prods_234410" id="prods_234410">
+      <div class="row cols-edge prods_item-card">
+       <div class="col-5 col-md-12 prods_image-frame">
+        <div class="prods_image">
+         <a class="redirect" href="/Rolex/Explorer II/16570/1780/item/234410">
+          <picture>
+           <!--[if IE 9]><video style="display: none;"><![endif]-->
+           <source media="(min-width: 960px)" srcset="https://images.watchfinder.co.uk/imgv2/stock/234410/Rolex-ExplorerII-16570-234410-2-221205-102623.jpg;quality=95;h=275, https://images.watchfinder.co.uk/imgv2/stock/234410/Rolex-ExplorerII-16570-234410-2-221205-102623.jpg;quality=55;h=550 2x"/>
+           <source media="(min-width: 768px)" srcset="https://images.watchfinder.co.uk/imgv2/stock/234410/Rolex-ExplorerII-16570-234410-2-221205-102623.jpg;quality=95;h=250, https://images.watchfinder.co.uk/imgv2/stock/234410/Rolex-ExplorerII-16570-234410-2-221205-102623.jpg;quality=55;h=500 2x"/>
+           <!--[if IE 9]></video><![endif]-->
+           <img alt="Rolex Explorer II 16570" height="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" srcset="https://images.watchfinder.co.uk/imgv2/stock/234410/Rolex-ExplorerII-16570-234410-2-221205-102623.jpg;quality=90;h=160, https://images.watchfinder.co.uk/imgv2/stock/234410/Rolex-ExplorerII-16570-234410-2-221205-102623.jpg;quality=55;h=320 2x" width=""/>
+          </picture>
+         </a>
+        </div>
+        <div class="prods_actions">
+         <button aria-label="Product menu actions" aria-pressed="false" class="toggle_actions-menu-btn toggle-circle" data-menu="toggle_actions-menu-234410" id="toggle_234410" role="button">
+          <div class="dot">
+          </div>
+         </button>
+         <div class="toggle_actions-menu toggle_actions-menu-234410">
+          <ul class="list-unstyled">
+           <li>
+            <div class="btn-compare btn-compare-add btn-compare-actions" data-brand="Rolex" data-catalogue-id="1780" data-id="234410" data-model="16570" data-series="Explorer II">
+             Compare
+            </div>
+            <div class="btn-compare btn-compare-remove btn-compare-actions" data-id="234410">
+             Remove from compare
+            </div>
+           </li>
+           <li>
+            <a class="crumb view-series redirect" href="/Rolex/Explorer%20II/watches">
+             View Series
+            </a>
+           </li>
+           <li>
+            <a class="crumb view-model redirect" href="/Rolex/Explorer%20II/16570/watches">
+             View Model
+            </a>
+           </li>
+           <li>
+            <a class="crumb view-watch redirect" href="/Rolex/Explorer II/16570/1780/item/234410">
+             View Watch
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class="col-push-5 col-7 col-md-12 prods_content">
+        <a class="prods_name redirect" href="/Rolex/Explorer II/16570/1780/item/234410">
+         <div class="prods_brand ellipsis">
+          Rolex
+         </div>
+         <div class="prods_series ellipsis">
+          Explorer II
+         </div>
+         <div class="prods_model ellipsis">
+          16570
+         </div>
+        </a>
+        <div class="prods_prices notranslate">
+         <div class="align-middle">
+          <div class="prods_price notranslate">
+           <span class="prods_price">
+            $10,060
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="prods_additions">
+         <span class="prods_box group-text">
+          <strong>
+           Box:
+          </strong>
+          Yes
+         </span>
+         <span class="prods_papers group-text">
+          <strong>
+           Papers:
+          </strong>
+          Yes
+         </span>
+         <div class="prods_age ellipsis">
+          <span class="inline">
+           <strong>
+            Year:
+           </strong>
+          </span>
+          1994
+         </div>
+        </div>
+        <div class="prods_usps">
+         <div class="prods_usp">
+          Vintage
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
