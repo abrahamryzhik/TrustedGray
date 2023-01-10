@@ -103,7 +103,7 @@ print(today_avg)
 
 
 with open("price_history.txt", "a") as f:
-    # f.write('\n')
+    f.write('\n')
     f.write(str(date.today()) + "," + str(today_avg)) 
 
 
