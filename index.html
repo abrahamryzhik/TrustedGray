@@ -7,17 +7,22 @@
 
 <div><object data="today_summary.txt"></object></div>
 
-<div id="summary"></div>
+<div id="summary">Pow</div>
 
-<script type="text/javascript"
+<!-- <script type="text/javascript">
+	var txtFile = new XMLHttpReque
+	document.getElementById('summary').innerHTML = "Boom";
+</script> -->
+
+<script type="text/javascript">
 	var txtFile = new XMLHttpRequest();
 	txtFile.open("GET", "https://abrahamryzhik.github.io/TrustedGray/prices.txt", true);
 	txtFile.onreadystatechange = function() {
 	  if (txtFile.readyState === 4 && txtFile.status == 200) {
 	     allText = txtFile.responseText;
 	  }
-	document.getElementById('summary').innerHTML = allText;
-></script>
+	document.getElementById('summary').innerHTML = "Boom";
+</script>
 
 
 
