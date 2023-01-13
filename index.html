@@ -1,1 +1,25 @@
-"Hello World"
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Tracking trusted gray market sellers!</h1>
+<p>The goal of this website is to track prices across trusted sellers only and give you access to the best prices avilable.</p>
+
+<div><object data="today_summary.txt"></object></div>
+
+<div id="summary"></div>
+
+<script type="text/javascript"
+	var txtFile = new XMLHttpRequest();
+	txtFile.open("GET", "https://abrahamryzhik.github.io/TrustedGray/prices.txt", true);
+	txtFile.onreadystatechange = function() {
+	  if (txtFile.readyState === 4 && txtFile.status == 200) {
+	     allText = txtFile.responseText;
+	  }
+	document.getElementById('summary').innerHTML = allText;
+></script>
+
+
+
+</body>
+</html>
