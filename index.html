@@ -23,7 +23,7 @@
 	  if (txtFile.readyState === 4 && txtFile.status == 200) {
 	     allText = txtFile.responseText;
 	  }
-	  document.getElementById('summary').innerHTML = "boom \n pow";
+	  document.getElementById('summary').innerHTML = allText;
 	};
 	txtFile.send();
 	
