@@ -21,7 +21,7 @@
 	txtFile.onreadystatechange = function() {
 	  var allText = "Not loaded";
 	  if (txtFile.readyState === 4 && txtFile.status == 200) {
-	     allText = txtFile.innerText;
+	     allText = txtFile.responseText;
 	  }
 	  document.getElementById('summary').innerHTML = allText;
 	};
