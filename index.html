@@ -19,12 +19,14 @@
 	var txtFile = new XMLHttpRequest();
 	txtFile.open("GET", "https://abrahamryzhik.github.io/TrustedGray/prices.txt", true);
 	txtFile.onreadystatechange = function() {
+	  var allText = "Not loaded";
 	  if (txtFile.readyState === 4 && txtFile.status == 200) {
 	     allText = txtFile.responseText;
 	  }
+	  document.getElementById('summary').innerHTML = allText;
 	};
 	txtFile.send();
-	document.getElementById('summary').innerHTML = allText;
+	
 </script>
 
 
