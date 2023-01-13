@@ -5,7 +5,7 @@
 <h1>Tracking trusted gray market sellers!</h1>
 <p>The goal of this website is to track prices across trusted sellers only and give you access to the best prices avilable.</p>
 
-<div><object data="today_summary.txt"></object></div>
+<!-- <div><object data="today_summary.txt"></object></div> -->
 
 <div id="summary">Pow</div>
 
@@ -21,7 +21,7 @@
 	txtFile.onreadystatechange = function() {
 	  var allText = "Not loaded";
 	  if (txtFile.readyState === 4 && txtFile.status == 200) {
-	     allText = txtFile.responseText;
+	     allText = txtFile.innerText;
 	  }
 	  document.getElementById('summary').innerHTML = allText;
 	};
