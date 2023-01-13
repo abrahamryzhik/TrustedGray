@@ -116,8 +116,8 @@ with open("price_history.txt", "a") as f:
     f.write(str(date.today()) + "," + str(today_avg)) 
 
 with open("today_summary.txt", "w") as f:
-    f.write("The average price of a 16570 today is $" + str(today_avg) + "\n")
-    f.write("The cheapest 16570 today is $" + str(min_price) + "\n")
+    f.write("The average price of a 16570 today is $" + str(today_avg) + ". <br>")
+    f.write("The cheapest 16570 today is $" + str(min_price) + ". <br>")
     f.write("It is available at " + min_link)
 
 
