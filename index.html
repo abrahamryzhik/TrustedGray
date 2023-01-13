@@ -15,7 +15,7 @@
 </script> -->
 
 <script type="text/javascript">
-	document.getElementById('summary').innerHTML = "Boom";
+	// document.getElementById('summary').innerHTML = "Boom";
 	var txtFile = new XMLHttpRequest();
 	txtFile.open("GET", "https://abrahamryzhik.github.io/TrustedGray/prices.txt", true);
 	txtFile.onreadystatechange = function() {
@@ -24,7 +24,7 @@
 	  }
 	};
 	txtFile.send()
-	document.getElementById('summary').innerHTML = "Boom";
+	document.getElementById('summary').innerHTML = allText;
 </script>
 
 
