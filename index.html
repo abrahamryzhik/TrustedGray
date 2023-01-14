@@ -9,6 +9,8 @@
 
 <div id="summary">Pow</div>
 
+<div id="isolated-link">Link here</div>
+
 <!-- <script type="text/javascript">
 	var txtFile = new XMLHttpReque
 	document.getElementById('summary').innerHTML = "Boom";
@@ -23,7 +25,9 @@
 	  if (txtFile.readyState === 4 && txtFile.status == 200) {
 	     allText = txtFile.responseText;
 	  }
+	  var linksArray = txtFile.split("available at ");
 	  document.getElementById('summary').innerHTML = allText;
+	  document.getElementById('isolated-link').innerHTML = linksArray[1];
 	};
 	txtFile.send();
 	
