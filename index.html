@@ -25,7 +25,7 @@
 	  if (txtFile.readyState === 4 && txtFile.status == 200) {
 	     allText = txtFile.responseText;
 	  }
-	  var linksArray = txtFile.split("available at ");
+	  var linksArray = allText.split("available at ");
 	  document.getElementById('summary').innerHTML = allText;
 	  document.getElementById('isolated-link').innerHTML = linksArray[1];
 	};
