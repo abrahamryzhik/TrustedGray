@@ -10,7 +10,7 @@
 <span id="summary">Pow</span>
 <span id="link here"> LINK WILL GO HERE </span>
 
-<div id="isolated-link">Link here</div>
+<div>available <a id="isolated-link" href="watchfinder.com">here</a></div>
 
 <!-- <script type="text/javascript">
 	var txtFile = new XMLHttpReque
@@ -27,8 +27,8 @@
 	     allText = txtFile.responseText;
 	  }
 	  var linksArray = allText.split("available at ");
-	  document.getElementById('summary').innerHTML = allText;
-	  document.getElementById('isolated-link').innerHTML = linksArray[1];
+	  document.getElementById('summary').innerHTML = linksArray[0];
+	  document.getElementById('isolated-link').href = linksArray[1];
 	};
 	txtFile.send();
 	
