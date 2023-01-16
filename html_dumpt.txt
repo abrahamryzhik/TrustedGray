@@ -290,7 +290,7 @@
         <a class="item top-brand-link ga4-header_link" data-en-name="Rolex" data-image="rolex" href="/Rolex/watches">
          Rolex
          <span class="count">
-          (1053)
+          (1049)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Panerai" data-image="panerai" href="/Panerai/watches">
@@ -308,19 +308,19 @@
         <a class="item top-brand-link ga4-header_link" data-en-name="Breitling" data-image="breitling" href="/Breitling/watches">
          Breitling
          <span class="count">
-          (201)
+          (196)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Omega" data-image="omega" href="/Omega/watches">
          Omega
          <span class="count">
-          (168)
+          (166)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Tag Heuer" data-image="tag-heuer" href="/Tag%20Heuer/watches">
          Tag Heuer
          <span class="count">
-          (156)
+          (155)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Hublot" data-image="hublot" href="/Hublot/watches">
@@ -332,19 +332,19 @@
         <a class="item top-brand-link ga4-header_link" data-en-name="Cartier" data-image="cartier" href="/Cartier/watches">
          Cartier
          <span class="count">
-          (124)
+          (123)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Tudor" data-image="tudor" href="/Tudor/watches">
          Tudor
          <span class="count">
-          (119)
+          (117)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Jaeger-LeCoultre" data-image="jaeger-lecoultre" href="/Jaeger-LeCoultre/watches">
          Jaeger-LeCoultre
          <span class="count">
-          (53)
+          (52)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Patek Philippe" data-image="patek-philippe" href="/Patek%20Philippe/watches">
@@ -612,7 +612,7 @@
      <a class="item" href="/Rolex/watches">
       Rolex
       <span class="count">
-       (1053)
+       (1048)
       </span>
      </a>
     </li>
@@ -636,7 +636,7 @@
      <a class="item" href="/Breitling/watches">
       Breitling
       <span class="count">
-       (201)
+       (196)
       </span>
      </a>
     </li>
@@ -644,7 +644,7 @@
      <a class="item" href="/Omega/watches">
       Omega
       <span class="count">
-       (168)
+       (166)
       </span>
      </a>
     </li>
@@ -652,7 +652,7 @@
      <a class="item" href="/Tag%20Heuer/watches">
       Tag Heuer
       <span class="count">
-       (156)
+       (155)
       </span>
      </a>
     </li>
@@ -668,7 +668,7 @@
      <a class="item" href="/Cartier/watches">
       Cartier
       <span class="count">
-       (124)
+       (123)
       </span>
      </a>
     </li>
@@ -676,7 +676,7 @@
      <a class="item" href="/Tudor/watches">
       Tudor
       <span class="count">
-       (119)
+       (117)
       </span>
      </a>
     </li>
@@ -684,7 +684,7 @@
      <a class="item" href="/Jaeger-LeCoultre/watches">
       Jaeger-LeCoultre
       <span class="count">
-       (53)
+       (52)
       </span>
      </a>
     </li>
@@ -1149,7 +1149,7 @@
            </button>
           </div>
           <div class="text-md font-light 2xl:order-1 w-36" data-testid="resultCountContainerDesktop">
-           Results (8)
+           Results (7)
           </div>
           <div class="relative 2xl:order-3 w-36">
            <button class="inline-block flex items-center outline-none h-btn-height float-right hover:lg:text-teal" data-overlay-control="" data-testid="sortBtn" type="button">
@@ -1468,82 +1468,6 @@
          <!-- -->
         </div>
         <div class="bg-wf-white msm:w-48 mb-8 relative group" data-testid="watchItem">
-         <a class="flex justify-center items-center gap-2 msm:block" data-testid="watchLink" href="/Rolex/Explorer II/16570/1780/item/222294">
-          <div class="relative flex msm:h-60">
-           <picture>
-            <!-- -->
-            <img alt="Pre-Owned Rolex Explorer II 16570 Watch" class="w-[188px] mx-auto mb-2 min-w-[100px] text-tiny v-lazy-image v-lazy-image-loaded" height="240" src="https://images.watchfinder.co.uk/imgv2/stock/222294/Rolex-ExplorerII-16570-222294-2-221221-170236.jpg;quality=85;w=188;h=240" srcset="https://images.watchfinder.co.uk/imgv2/stock/222294/Rolex-ExplorerII-16570-222294-2-221221-170236.jpg;quality=85;w=188;h=240, https://images.watchfinder.co.uk/imgv2/stock/222294/Rolex-ExplorerII-16570-222294-2-221221-170236.jpg;quality=85;w=376;h=480 2x" title="Pre-Owned Rolex Explorer II 16570 Watch" width="188"/>
-           </picture>
-           <!-- -->
-           <div class="leading-none absolute text-white text-center text-tiny top-0 left-0 pr-1 msm:ml-3">
-            <div class="py-2 px-3 mb-0.5 rounded float-left clear-both bg-wf-red">
-             <svg class="-ml-0.5 -mt-0.5 mr-1" color="currentColor" style="display: inline-block; stroke: currentcolor; fill: currentcolor; width: 12px; height: 12px;" viewbox="0 0 1024 1024">
-              <path d="M376.868 263.81c0 29.984-11.91 58.741-33.114 79.945s-49.961 33.114-79.945 33.114c-29.986 0-58.743-11.91-79.946-33.114s-33.114-49.961-33.114-79.945c0-29.986 11.911-58.743 33.114-79.946s49.96-33.114 79.946-33.114c29.984 0 58.741 11.911 79.945 33.114s33.114 49.96 33.114 79.946v0zM301.495 263.81c0-9.997-3.97-19.582-11.038-26.65s-16.653-11.038-26.647-11.038c-9.997 0-19.582 3.97-26.65 11.038s-11.038 16.653-11.038 26.65c0 9.995 3.97 19.58 11.038 26.647s16.653 11.038 26.65 11.038c9.995 0 19.58-3.97 26.647-11.038s11.038-16.653 11.038-26.647z">
-              </path>
-              <path d="M75.373 0h345.66c19.989 0.004 39.157 7.948 53.289 22.084l527.612 527.61c14.129 14.135 22.067 33.303 22.067 53.289 0 19.987-7.938 39.155-22.067 53.289l-345.662 345.662c-14.133 14.129-33.301 22.067-53.289 22.067-19.985 0-39.153-7.938-53.289-22.067l-527.61-527.612c-14.136-14.131-22.080-33.299-22.084-53.289v-345.66c0-19.99 7.941-39.161 22.076-53.297s33.307-22.076 53.297-22.076v0zM75.373 421.033l527.61 527.61 345.66-345.66-527.61-527.61h-345.66v345.66z">
-              </path>
-              <!-- -->
-             </svg>
-             New Price
-            </div>
-           </div>
-          </div>
-          <div class="flex-shrink-0 flex-grow-0 w-24 xs:w-36 sm:w-44 msm:w-auto">
-           <div class="font-semibold text-xs sm:text-sm" data-testid="watchBrand">
-            Rolex
-           </div>
-           <div class="text-xs sm:text-sm pb-1 font-light truncate" data-testid="watchSeries">
-            Explorer II
-           </div>
-           <div class="text-tiny sm:text-xs pt-2 pb-1 border-t border-wf-grey font-light truncate" data-testid="watchModelNumber">
-            16570
-           </div>
-           <div class="font-semibold text-xs sm:text-sm md:text-base" data-testid="watchPrice">
-            $9,200
-           </div>
-           <!-- -->
-           <!-- -->
-           <!-- -->
-           <!-- -->
-           <div class="flex flex-row text-tiny sm:text-xs pt-1 font-semibold">
-            <span data-testid="watchBoxLabel">
-             Box:
-            </span>
-            <span class="pl-1 pr-2 font-light" data-testid="watchBoxValue">
-             No
-            </span>
-            <span data-testid="watchPapersLabel">
-             Papers:
-            </span>
-            <span class="pl-1 font-light" data-testid="watchPapersValue">
-             No
-            </span>
-           </div>
-           <div class="flex flex-row text-tiny font-semibold sm:text-xs">
-            <span data-testid="watchYearLabel">
-             Year:
-            </span>
-            <span class="pl-1 font-light" data-testid="watchYearValue">
-             Approx.  2002
-            </span>
-            <div class="js-search-location-flag absolute right-0" data-flagurl="https://images.watchfinder.co.uk/images/watchfinderimages/media/views/0/2022/12/02/United-Kingdom.png" data-stocktag="UK">
-             <img alt="UK" src="https://images.watchfinder.co.uk/images/watchfinderimages/media/views/0/2022/12/02/United-Kingdom.png" title="UK" width="20"/>
-            </div>
-           </div>
-           <!-- -->
-          </div>
-         </a>
-         <button aria-label="Product menu actions" class="leading-none absolute top-0 right-3 w-7 h-7 border border-solid border-light-grey rounded-full transition-all duration-300 group z-result-actions outline-none border-light-grey group-hover:border-wf-red" data-overlay-control="" data-testid="watchActionsBtn" data-v-9cb2dc96="" data-vue="">
-          <span class="block absolute w-1 h-1 -mt-1.5 top-[calc(50%-0.125rem)] left-[calc(50%-0.125rem)] bg-light-grey rounded-full transition-all duration-300 animation-fill-forwards group-hover:bg-wf-red" data-v-9cb2dc96="">
-          </span>
-          <span class="block absolute w-1 h-1 top-[calc(50%-0.125rem)] left-[calc(50%-0.125rem)] bg-light-grey rounded-full transition-all duration-300 group-hover:bg-wf-red" data-v-9cb2dc96="">
-          </span>
-          <span class="block absolute w-1 h-1 mt-1.5 top-[calc(50%-0.125rem)] left-[calc(50%-0.125rem)] bg-light-grey rounded-full transition-all duration-300 animation-fill-forwards group-hover:bg-wf-red" data-v-9cb2dc96="">
-          </span>
-         </button>
-         <!-- -->
-        </div>
-        <div class="bg-wf-white msm:w-48 mb-8 relative group" data-testid="watchItem">
          <a class="flex justify-center items-center gap-2 msm:block" data-testid="watchLink" href="/Rolex/Explorer II/16570/1780/item/238999">
           <div class="relative flex msm:h-60">
            <picture>
@@ -1610,8 +1534,7 @@
          <a class="flex justify-center items-center gap-2 msm:block" data-testid="watchLink" href="/Rolex/Explorer II/16570/1780/item/232242">
           <div class="relative flex msm:h-60">
            <picture>
-            <!-- -->
-            <img alt="Pre-Owned Rolex Explorer II 16570 Watch" class="w-[188px] mx-auto mb-2 min-w-[100px] text-tiny v-lazy-image v-lazy-image-loaded" height="240" src="https://images.watchfinder.co.uk/imgv2/stock/232242/Rolex-ExplorerII-16570-232242-1-221115-121132.jpg;quality=85;w=188;h=240" srcset="https://images.watchfinder.co.uk/imgv2/stock/232242/Rolex-ExplorerII-16570-232242-1-221115-121132.jpg;quality=85;w=188;h=240, https://images.watchfinder.co.uk/imgv2/stock/232242/Rolex-ExplorerII-16570-232242-1-221115-121132.jpg;quality=85;w=376;h=480 2x" title="Pre-Owned Rolex Explorer II 16570 Watch" width="188"/>
+            <img alt="Pre-Owned Rolex Explorer II 16570 Watch" class="w-[188px] mx-auto mb-2 min-w-[100px] text-tiny v-lazy-image v-lazy-image-loaded" height="240" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" title="Pre-Owned Rolex Explorer II 16570 Watch" width="188"/>
            </picture>
            <!-- -->
            <!-- -->
@@ -1673,8 +1596,7 @@
          <a class="flex justify-center items-center gap-2 msm:block" data-testid="watchLink" href="/Rolex/Explorer II/16570/1780/item/234410">
           <div class="relative flex msm:h-60">
            <picture>
-            <!-- -->
-            <img alt="Pre-Owned Rolex Explorer II 16570 Watch" class="w-[188px] mx-auto mb-2 min-w-[100px] text-tiny v-lazy-image v-lazy-image-loaded" height="240" src="https://images.watchfinder.co.uk/imgv2/stock/234410/Rolex-ExplorerII-16570-234410-2-221205-102623.jpg;quality=85;w=188;h=240" srcset="https://images.watchfinder.co.uk/imgv2/stock/234410/Rolex-ExplorerII-16570-234410-2-221205-102623.jpg;quality=85;w=188;h=240, https://images.watchfinder.co.uk/imgv2/stock/234410/Rolex-ExplorerII-16570-234410-2-221205-102623.jpg;quality=85;w=376;h=480 2x" title="Pre-Owned Rolex Explorer II 16570 Watch" width="188"/>
+            <img alt="Pre-Owned Rolex Explorer II 16570 Watch" class="w-[188px] mx-auto mb-2 min-w-[100px] text-tiny v-lazy-image v-lazy-image-loaded" height="240" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" title="Pre-Owned Rolex Explorer II 16570 Watch" width="188"/>
            </picture>
            <!-- -->
            <!-- -->
@@ -1759,7 +1681,7 @@
        </div>
       </div>
      </div>
-     <input id="stock_search_scroll" type="hidden" value="187"/>
+     <input id="stock_search_scroll" type="hidden"/>
     </div>
    </div>
    <div class="modal_ modal-panel modal-panel-sm" id="modal_international-stock">
@@ -2561,7 +2483,7 @@ window.adalyserTracker("create",{campaignCookieTimeout:15552E3,conversionCookieT
 <div id="criteo-tags-div" style="display: none;">
  <iframe frameborder="0" height="0" id="criteo-syncframe-onetag" src='https://gum.criteo.com/syncframe?topUrl=www.watchfinder.com&amp;origin=onetag#{"bundle":{"origin":0,"value":null},"cw":true,"optout":{"origin":0,"value":null},"origin":"onetag","pm":0,"sid":{"origin":0,"value":null},"tld":"watchfinder.com","topUrl":"www.watchfinder.com","version":"5_12_3","ifa":{"origin":0,"value":null},"lsw":true}' style="border-width:0px; margin:0px; display:none" title="Criteo GUM iframe" width="0">
  </iframe>
- <script async="true" src="https://sslwidget.criteo.com/event?a=99495&amp;v=5.12.3&amp;p0=e%3Dexd%26site_type%3Dd&amp;p1=e%3Dvl%26tms%3Dgtm-template%26p%3D%255B230050%252C216068%252C235967%252C233065%252C222294%252C238999%252C232242%252C234410%255D&amp;p2=e%3Ddis&amp;adce=1&amp;bundle=hvMLE190aUJwV1FaRGNRZzhQYUR5WnZSTjJXQUVldmlrUXZzWlFJcFZDTmc4b3VuTk11TkR5ejB1TVRDWXM3UnpFeTVza3pKQngxdE5JYWpQZVlJNkNDNkIwYjZYUWNpSzNzV0hqZjBzJTJGVEhwYUZpWVpGOGxiJTJCWDVrUk9mODdXU21EcVIlMkIzUWdTSXlpcVA3TTFnVEMySE5WJTJGNSUyRkNtTSUyQlNPNU41ZTdIZUVnJTJCUFpIOTl3N0ExdHJUN3N3bFgwbzBadWRKWjliaG1XMSUyQmhiODUlMkZ2cGElMkZscnlmbHclM0QlM0Q&amp;tld=watchfinder.com&amp;dy=1&amp;fu=https%253A%252F%252Fwww.watchfinder.com%252FRolex%252FExplorer%252520II%252F16570%252Fwatches%253FfilterDial%253DWhite&amp;dtycbr=79538" type="text/javascript">
+ <script async="true" src="https://sslwidget.criteo.com/event?a=99495&amp;v=5.12.3&amp;p0=e%3Dexd%26site_type%3Dd&amp;p1=e%3Dvl%26tms%3Dgtm-template%26p%3D%255B230050%252C216068%252C235967%252C233065%252C238999%252C232242%252C234410%255D&amp;p2=e%3Ddis&amp;adce=1&amp;bundle=RsgraV9kckpCNjJGJTJGSGczZkpOR1pKZEh5SFZldDY5M0xqcUxGUVFlN0ozNTUlMkIza08lMkJDaWR1a2lLZzBnWllGeU00OTZGS2M5dmZoQWxrdks0T3lVQ1B4a0QlMkJ3aVoweUVBZDlsVFM1TnlLcHl3TkF3bVVlbXliMnJXSXc5azF2NHRSTXh2SW00NTdPNHF5T3NVRjhLcVRHOGVsZyUzRCUzRA&amp;tld=watchfinder.com&amp;dy=1&amp;fu=https%253A%252F%252Fwww.watchfinder.com%252FRolex%252FExplorer%252520II%252F16570%252Fwatches%253FfilterDial%253DWhite&amp;dtycbr=2782" type="text/javascript">
  </script>
 </div>
 <iframe height="0" style="display: none;" title="Criteo DIS iframe" width="0">
