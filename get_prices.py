@@ -107,7 +107,7 @@ for i in range(1, len(watch_prices)):
         min_price = cur_price
         min_link = watch_links[i]
 
-print("The avergae price of a 16570 today is $" + str(today_avg))
+print("The avergae price of a 16570 today is $" + str(round(today_avg, 2)))
 print("The cheapest 16570 today is $" + str(min_price))
 print("It is available at " + min_link)
 
@@ -116,7 +116,7 @@ with open("price_history.txt", "a") as f:
     f.write(str(date.today()) + "," + str(today_avg)) 
 
 with open("today_summary.txt", "w") as f:
-    f.write("The average price of a 16570 today is $" + str(today_avg) + ". <br>")
+    f.write("The average price of a 16570 today is $" + str(round(today_avg, 2)) + ". <br>")
     f.write("The cheapest 16570 today is $" + str(min_price) + ". <br>")
     f.write("It is available at " + min_link)
 
