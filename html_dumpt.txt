@@ -225,17 +225,6 @@
         </div>
         <div class="owl-item active" style="width: 183.333px;">
          <div class="point">
-          <a class="ga4-header_link" data-en-name="Price Promise" href="/price-promise">
-           <span class="icon icon-price-promise1">
-           </span>
-           <span class="description">
-            Price Promise
-           </span>
-          </a>
-         </div>
-        </div>
-        <div class="owl-item active" style="width: 183.333px;">
-         <div class="point">
           <a class="ga4-header_link" data-en-name="Warranty" href="/services/warranty" id="warrantyusp">
            <span class="icon icon-one-year-warranty">
            </span>
@@ -243,6 +232,15 @@
             24 months warranty
            </span>
           </a>
+         </div>
+        </div>
+        <div class="owl-item active" style="width: 183.333px;">
+         <div class="point">
+          <span class="icon icon-next-day-delivery">
+          </span>
+          <span class="description">
+           Free delivery
+          </span>
          </div>
         </div>
        </div>
@@ -290,43 +288,49 @@
         <a class="item top-brand-link ga4-header_link" data-en-name="Rolex" data-image="rolex" href="/Rolex/watches">
          Rolex
          <span class="count">
-          (1049)
+          (1081)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Panerai" data-image="panerai" href="/Panerai/watches">
          Panerai
          <span class="count">
-          (415)
+          (418)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="IWC" data-image="iwc" href="/IWC/watches">
          IWC
          <span class="count">
-          (390)
+          (400)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Breitling" data-image="breitling" href="/Breitling/watches">
          Breitling
          <span class="count">
-          (196)
+          (199)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Omega" data-image="omega" href="/Omega/watches">
          Omega
          <span class="count">
-          (166)
+          (170)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Tag Heuer" data-image="tag-heuer" href="/Tag%20Heuer/watches">
          Tag Heuer
          <span class="count">
-          (155)
+          (160)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Hublot" data-image="hublot" href="/Hublot/watches">
          Hublot
          <span class="count">
-          (153)
+          (157)
+         </span>
+        </a>
+        <a class="item top-brand-link ga4-header_link" data-en-name="Tudor" data-image="tudor" href="/Tudor/watches">
+         Tudor
+         <span class="count">
+          (126)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Cartier" data-image="cartier" href="/Cartier/watches">
@@ -335,16 +339,10 @@
           (123)
          </span>
         </a>
-        <a class="item top-brand-link ga4-header_link" data-en-name="Tudor" data-image="tudor" href="/Tudor/watches">
-         Tudor
-         <span class="count">
-          (117)
-         </span>
-        </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Jaeger-LeCoultre" data-image="jaeger-lecoultre" href="/Jaeger-LeCoultre/watches">
          Jaeger-LeCoultre
          <span class="count">
-          (52)
+          (54)
          </span>
         </a>
         <a class="item top-brand-link ga4-header_link" data-en-name="Patek Philippe" data-image="patek-philippe" href="/Patek%20Philippe/watches">
@@ -411,17 +409,17 @@
         <!--[if IE 9]></video><![endif]-->
         <img alt="Hublot" class="lazyload" data-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
        </picture>
-       <picture class="menu-image menu-image-cartier active">
-        <!--[if IE 9]><video style="display: none;"><![endif]-->
-        <source data-src="https://images.watchfinder.co.uk/images/watchfinderimages/media/views/Brands_380x380px_Cartier-2017-11-21-10-02-58-194.jpg;quality=90;h=380, https://images.watchfinder.co.uk/images/watchfinderimages/media/views/Brands_380x380px_Cartier-2017-11-21-10-02-58-194.jpg;quality=55;h=760 2x" data-srcset="https://images.watchfinder.co.uk/images/watchfinderimages/media/views/Brands_380x380px_Cartier-2017-11-21-10-02-58-194.jpg;quality=90;h=380, https://images.watchfinder.co.uk/images/watchfinderimages/media/views/Brands_380x380px_Cartier-2017-11-21-10-02-58-194.jpg;quality=55;h=760 2x" media="(min-width: 768px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        <!--[if IE 9]></video><![endif]-->
-        <img alt="Cartier" class="lazyload" data-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-       </picture>
        <picture class="menu-image menu-image-tudor active">
         <!--[if IE 9]><video style="display: none;"><![endif]-->
         <source data-src="https://images.watchfinder.co.uk/images/watchfinderimages/media/views/shop-tudor-2020-02-10-05-25-47-178.jpg;quality=90;h=380, https://images.watchfinder.co.uk/images/watchfinderimages/media/views/shop-tudor-2020-02-10-05-25-47-178.jpg;quality=55;h=760 2x" data-srcset="https://images.watchfinder.co.uk/images/watchfinderimages/media/views/shop-tudor-2020-02-10-05-25-47-178.jpg;quality=90;h=380, https://images.watchfinder.co.uk/images/watchfinderimages/media/views/shop-tudor-2020-02-10-05-25-47-178.jpg;quality=55;h=760 2x" media="(min-width: 768px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         <!--[if IE 9]></video><![endif]-->
         <img alt="Tudor" class="lazyload" data-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+       </picture>
+       <picture class="menu-image menu-image-cartier active">
+        <!--[if IE 9]><video style="display: none;"><![endif]-->
+        <source data-src="https://images.watchfinder.co.uk/images/watchfinderimages/media/views/Brands_380x380px_Cartier-2017-11-21-10-02-58-194.jpg;quality=90;h=380, https://images.watchfinder.co.uk/images/watchfinderimages/media/views/Brands_380x380px_Cartier-2017-11-21-10-02-58-194.jpg;quality=55;h=760 2x" data-srcset="https://images.watchfinder.co.uk/images/watchfinderimages/media/views/Brands_380x380px_Cartier-2017-11-21-10-02-58-194.jpg;quality=90;h=380, https://images.watchfinder.co.uk/images/watchfinderimages/media/views/Brands_380x380px_Cartier-2017-11-21-10-02-58-194.jpg;quality=55;h=760 2x" media="(min-width: 768px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+        <!--[if IE 9]></video><![endif]-->
+        <img alt="Cartier" class="lazyload" data-src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
        </picture>
        <picture class="menu-image menu-image-jaeger-lecoultre active">
         <!--[if IE 9]><video style="display: none;"><![endif]-->
@@ -612,7 +610,7 @@
      <a class="item" href="/Rolex/watches">
       Rolex
       <span class="count">
-       (1048)
+       (1081)
       </span>
      </a>
     </li>
@@ -620,7 +618,7 @@
      <a class="item" href="/Panerai/watches">
       Panerai
       <span class="count">
-       (415)
+       (418)
       </span>
      </a>
     </li>
@@ -628,7 +626,7 @@
      <a class="item" href="/IWC/watches">
       IWC
       <span class="count">
-       (390)
+       (400)
       </span>
      </a>
     </li>
@@ -636,7 +634,7 @@
      <a class="item" href="/Breitling/watches">
       Breitling
       <span class="count">
-       (196)
+       (199)
       </span>
      </a>
     </li>
@@ -644,7 +642,7 @@
      <a class="item" href="/Omega/watches">
       Omega
       <span class="count">
-       (166)
+       (170)
       </span>
      </a>
     </li>
@@ -652,7 +650,7 @@
      <a class="item" href="/Tag%20Heuer/watches">
       Tag Heuer
       <span class="count">
-       (155)
+       (161)
       </span>
      </a>
     </li>
@@ -660,7 +658,15 @@
      <a class="item" href="/Hublot/watches">
       Hublot
       <span class="count">
-       (153)
+       (157)
+      </span>
+     </a>
+    </li>
+    <li>
+     <a class="item" href="/Tudor/watches">
+      Tudor
+      <span class="count">
+       (126)
       </span>
      </a>
     </li>
@@ -673,18 +679,10 @@
      </a>
     </li>
     <li>
-     <a class="item" href="/Tudor/watches">
-      Tudor
-      <span class="count">
-       (117)
-      </span>
-     </a>
-    </li>
-    <li>
      <a class="item" href="/Jaeger-LeCoultre/watches">
       Jaeger-LeCoultre
       <span class="count">
-       (52)
+       (54)
       </span>
      </a>
     </li>
@@ -1975,7 +1973,7 @@
        </a>
       </div>
       <a class="subscribe-info ga4-footer_link" data-en-name="Youtube Subscribe" href="https://www.youtube.com/user/watchfinder?sub_confirmation=1" rel="nofollow noopener" target="_blank">
-       Subscribe 847k+
+       Subscribe 848k+
       </a>
      </div>
      <span class="visible-lg inline">
@@ -2358,23 +2356,6 @@
 </script>
 <script src="/webpack/vendor.a412780418144d78f907.js">
 </script>
-<script id="" type="text/javascript">
- !function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","539865064099638");
-</script>
-<script id="" type="text/javascript">
- fbq("track","PageView");
-</script>
-<noscript>
- <img height="1" src="https://www.facebook.com/tr?id=539865064099638&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
-</noscript>
-<script id="" type="text/javascript">
- (function(){var b={"@context":"https://schema.org","@type":"Organization",name:"Watchfinder",url:"https://www.watchfinder.com",logo:"https://images.watchfinder.co.uk/images/watchfinderimages/media/IT/logo_plain_wfandco-2018-08-13-01-48-13-370.png",sameAs:"https://www.facebook.com/Watchfinder https://instagram.com/WatchfinderOfficial/ https://twitter.com/Watchfinder https://www.youtube.com/user/watchfinder https://plus.google.com/+watchfinder https://www.linkedin.com/company/Watchfinder https://watchfinderofficial.tumblr.com/".split(" "),
-aggregateRating:{"@type":"AggregateRating",ratingValue:"4.6",reviewCount:"247",bestRating:"5"}},a=document.createElement("script");a.type="application/ld+json";a.innerHTML=JSON.stringify(b);document.head.appendChild(a)})();
-</script>
-<script id="" type="text/javascript">
- (function(a,c,b){if(!a[b]){a.GlobalAdalyserNamespace=a.GlobalAdalyserNamespace||[];a.GlobalAdalyserNamespace.push(b);a[b]=function(){(a[b].q=a[b].q||[]).push(arguments)};a[b].q=a[b].q||[];var d=c.createElement("script");c=c.getElementsByTagName("script")[0];d.async=1;d.src="//c0.adalyser.com/adalyser.js?cid\x3dwatchfinderie";c.parentNode.insertBefore(d,c)}})(window,document,"adalyserTracker");
-window.adalyserTracker("create",{campaignCookieTimeout:15552E3,conversionCookieTimeout:604800,clientId:"watchfinderus",trafficSourceInternalReferrers:["^(.*\\.)?watchfinder.com$"]});window.adalyserTracker("trackSession","lce1",{});for(var enquiryID=null,enquiryType=null,uid=null,i=Math.min(dataLayer.length-1,300);0<=i;i--)"undefined"!=typeof dataLayer[i].enquiryType&&(enquiryType=dataLayer[i].enquiryType);null!=enquiryType&&window.adalyserTracker("trackEvent","lce3",{a4:enquiryType});
-</script>
 <script src="/webpack/stockSearch.f01a583495be7e5a1533.js">
 </script>
 <script>
@@ -2480,11 +2461,24 @@ window.adalyserTracker("create",{campaignCookieTimeout:15552E3,conversionCookieT
 
     registerServiceWorker();
 </script>
+<script id="" type="text/javascript">
+ !function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","539865064099638");
+</script>
+<script id="" type="text/javascript">
+ fbq("track","PageView");
+</script>
+<noscript>
+ <img height="1" src="https://www.facebook.com/tr?id=539865064099638&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+</noscript>
+<script id="" type="text/javascript">
+ (function(){var b={"@context":"https://schema.org","@type":"Organization",name:"Watchfinder",url:"https://www.watchfinder.com",logo:"https://images.watchfinder.co.uk/images/watchfinderimages/media/IT/logo_plain_wfandco-2018-08-13-01-48-13-370.png",sameAs:"https://www.facebook.com/Watchfinder https://instagram.com/WatchfinderOfficial/ https://twitter.com/Watchfinder https://www.youtube.com/user/watchfinder https://plus.google.com/+watchfinder https://www.linkedin.com/company/Watchfinder https://watchfinderofficial.tumblr.com/".split(" "),
+aggregateRating:{"@type":"AggregateRating",ratingValue:"4.6",reviewCount:"247",bestRating:"5"}},a=document.createElement("script");a.type="application/ld+json";a.innerHTML=JSON.stringify(b);document.head.appendChild(a)})();
+</script>
+<script id="" type="text/javascript">
+ (function(a,c,b){if(!a[b]){a.GlobalAdalyserNamespace=a.GlobalAdalyserNamespace||[];a.GlobalAdalyserNamespace.push(b);a[b]=function(){(a[b].q=a[b].q||[]).push(arguments)};a[b].q=a[b].q||[];var d=c.createElement("script");c=c.getElementsByTagName("script")[0];d.async=1;d.src="//c0.adalyser.com/adalyser.js?cid\x3dwatchfinderie";c.parentNode.insertBefore(d,c)}})(window,document,"adalyserTracker");
+window.adalyserTracker("create",{campaignCookieTimeout:15552E3,conversionCookieTimeout:604800,clientId:"watchfinderus",trafficSourceInternalReferrers:["^(.*\\.)?watchfinder.com$"]});window.adalyserTracker("trackSession","lce1",{});for(var enquiryID=null,enquiryType=null,uid=null,i=Math.min(dataLayer.length-1,300);0<=i;i--)"undefined"!=typeof dataLayer[i].enquiryType&&(enquiryType=dataLayer[i].enquiryType);null!=enquiryType&&window.adalyserTracker("trackEvent","lce3",{a4:enquiryType});
+</script>
 <div id="criteo-tags-div" style="display: none;">
  <iframe frameborder="0" height="0" id="criteo-syncframe-onetag" src='https://gum.criteo.com/syncframe?topUrl=www.watchfinder.com&amp;origin=onetag#{"bundle":{"origin":0,"value":null},"cw":true,"optout":{"origin":0,"value":null},"origin":"onetag","pm":0,"sid":{"origin":0,"value":null},"tld":"watchfinder.com","topUrl":"www.watchfinder.com","version":"5_12_3","ifa":{"origin":0,"value":null},"lsw":true}' style="border-width:0px; margin:0px; display:none" title="Criteo GUM iframe" width="0">
  </iframe>
- <script async="true" src="https://sslwidget.criteo.com/event?a=99495&amp;v=5.12.3&amp;p0=e%3Dexd%26site_type%3Dd&amp;p1=e%3Dvl%26tms%3Dgtm-template%26p%3D%255B230050%252C216068%252C235967%252C233065%252C238999%252C232242%252C234410%255D&amp;p2=e%3Ddis&amp;adce=1&amp;bundle=RsgraV9kckpCNjJGJTJGSGczZkpOR1pKZEh5SFZldDY5M0xqcUxGUVFlN0ozNTUlMkIza08lMkJDaWR1a2lLZzBnWllGeU00OTZGS2M5dmZoQWxrdks0T3lVQ1B4a0QlMkJ3aVoweUVBZDlsVFM1TnlLcHl3TkF3bVVlbXliMnJXSXc5azF2NHRSTXh2SW00NTdPNHF5T3NVRjhLcVRHOGVsZyUzRCUzRA&amp;tld=watchfinder.com&amp;dy=1&amp;fu=https%253A%252F%252Fwww.watchfinder.com%252FRolex%252FExplorer%252520II%252F16570%252Fwatches%253FfilterDial%253DWhite&amp;dtycbr=2782" type="text/javascript">
- </script>
 </div>
-<iframe height="0" style="display: none;" title="Criteo DIS iframe" width="0">
-</iframe>
