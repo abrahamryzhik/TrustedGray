@@ -32,3 +32,9 @@ class WatchFinder:
             price_and_link_list.append((price_int, link))
 
         return price_and_link_list
+
+
+class AISWatches:
+
+    def get_prices_links(self, url, browser):
+        browser.get(url)

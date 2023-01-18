@@ -21,64 +21,24 @@ from datetime import date
 from gray_sellers import WatchFinder
 
 
-#url = "https://www.watchfinder.com/find/Rolex/Explorer%20II/16570/1780"
 url = "https://www.watchfinder.com/Rolex/Explorer%20II/16570/watches?filterDial=White"
 
 
-# innerHTML = requests.get(url).text
 
 browser = webdriver.Chrome(os.path.join(os.getcwd(), 'chromedriver'))
 
-
-
-# browser.get(url)
-
-# time.sleep(10)
-
-# innerHTML = browser.execute_script("return document.body.innerHTML")
 
 watchfinder = WatchFinder()
 
 price_and_link_list = watchfinder.get_prices_links(url, browser)
 
-print("here we go")
-print(price_and_link_list)
-print("phew")
+# print("here we go")
+# print(price_and_link_list)
+# print("phew")
 
 browser.quit()
 
-"""
-soup = BeautifulSoup(innerHTML, 'html.parser')
 
-watches = soup.find_all('div', attrs={'data-testid': 'watchItem'})
-
-watch_links = []
-watch_prices = []
-
-for watch in watches:
-    link = watch.find('a', attrs={'data-testid': 'watchLink'}).get("href")
-    try: 
-        price = watch.find('div', attrs={'data-testid': 'watchPrice'}).string
-    except:
-        price = watch.find('span', attrs={'data-testid': 'watchPrice'}).string
-
-    watch_links.append("https://www.watchfinder.com" + str(link))
-    watch_prices.append(price)
-
-
-print(watch_links)
-print(len(watch_links))
-print(watch_prices)
-print(len(watch_prices))
-
-
-
-with open("html_dumpt.txt", 'w') as f:
-    f.write(soup.prettify())
-
-with open("prices.txt", "w") as f:
-    f.write('\n'.join(watch_prices))
-"""
 with open("prices_with_link.txt", "w") as f:
     f.write('\n'.join([str(price_and_link_list[i][0]) + " " + price_and_link_list[i][1] for i in range(len(price_and_link_list))]))
     #f.write('\n'.join([watch_prices[i] + " " + watch_links[i] for i in range(len(watch_links))]))
@@ -86,19 +46,10 @@ with open("prices_with_link.txt", "w") as f:
 
 
 
-# prices_list = watch_prices
-
-# with open("prices.txt", "w") as f:
-#     f.write('\n'.join(prices_list))
-
 
 today_avg = 0
 
-# p_list = [watch_prices[i].replace(",", "").replace("$","") for i in range(len(watch_prices))]
-# #print(p_list)
-# sum_prices = sum([int(p) for p in p_list])
 
-# num_prices = len(watch_prices)
 
 
 sum_prices = sum([entry[0] for entry in price_and_link_list])
@@ -113,21 +64,14 @@ except:
     today_avg = 0
 
 
-# min_price = int(watch_prices[0].replace(",", "").replace("$",""))
 
-# min_link = watch_links[0]
 
 min_entry = min(price_and_link_list, key = lambda x : x[0])
 
 min_price = min_entry[0]
 min_link = min_entry[1]
 
-# for i in range(1, len(watch_prices)):
-#     cur_price = int(watch_prices[i].replace(",", "").replace("$",""))
 
-#     if cur_price < min_price:
-#         min_price = cur_price
-#         min_link = watch_links[i]
 
 print("The avergae price of a 16570 today is $" + str(round(today_avg, 2)))
 print("The cheapest 16570 today is $" + str(min_price))
