@@ -1,7 +1,7 @@
-$10,680 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/230050
-$11,030 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/216068
-$11,235 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/235967
-$10,530 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/233065
-$10,455 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/238999
-$9,365 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/232242
-$10,060 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/234410
+10680 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/230050
+11030 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/216068
+11235 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/235967
+10530 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/233065
+10455 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/238999
+9365 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/232242
+10060 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/234410

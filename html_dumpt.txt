@@ -1532,7 +1532,8 @@
          <a class="flex justify-center items-center gap-2 msm:block" data-testid="watchLink" href="/Rolex/Explorer II/16570/1780/item/232242">
           <div class="relative flex msm:h-60">
            <picture>
-            <img alt="Pre-Owned Rolex Explorer II 16570 Watch" class="w-[188px] mx-auto mb-2 min-w-[100px] text-tiny v-lazy-image v-lazy-image-loaded" height="240" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" title="Pre-Owned Rolex Explorer II 16570 Watch" width="188"/>
+            <!-- -->
+            <img alt="Pre-Owned Rolex Explorer II 16570 Watch" class="w-[188px] mx-auto mb-2 min-w-[100px] text-tiny v-lazy-image v-lazy-image-loaded" height="240" src="https://images.watchfinder.co.uk/imgv2/stock/232242/Rolex-ExplorerII-16570-232242-1-221115-121132.jpg;quality=85;w=188;h=240" srcset="https://images.watchfinder.co.uk/imgv2/stock/232242/Rolex-ExplorerII-16570-232242-1-221115-121132.jpg;quality=85;w=188;h=240, https://images.watchfinder.co.uk/imgv2/stock/232242/Rolex-ExplorerII-16570-232242-1-221115-121132.jpg;quality=85;w=376;h=480 2x" title="Pre-Owned Rolex Explorer II 16570 Watch" width="188"/>
            </picture>
            <!-- -->
            <!-- -->
@@ -1594,7 +1595,8 @@
          <a class="flex justify-center items-center gap-2 msm:block" data-testid="watchLink" href="/Rolex/Explorer II/16570/1780/item/234410">
           <div class="relative flex msm:h-60">
            <picture>
-            <img alt="Pre-Owned Rolex Explorer II 16570 Watch" class="w-[188px] mx-auto mb-2 min-w-[100px] text-tiny v-lazy-image v-lazy-image-loaded" height="240" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" title="Pre-Owned Rolex Explorer II 16570 Watch" width="188"/>
+            <!-- -->
+            <img alt="Pre-Owned Rolex Explorer II 16570 Watch" class="w-[188px] mx-auto mb-2 min-w-[100px] text-tiny v-lazy-image v-lazy-image-loaded" height="240" src="https://images.watchfinder.co.uk/imgv2/stock/234410/Rolex-ExplorerII-16570-234410-2-221205-102623.jpg;quality=85;w=188;h=240" srcset="https://images.watchfinder.co.uk/imgv2/stock/234410/Rolex-ExplorerII-16570-234410-2-221205-102623.jpg;quality=85;w=188;h=240, https://images.watchfinder.co.uk/imgv2/stock/234410/Rolex-ExplorerII-16570-234410-2-221205-102623.jpg;quality=85;w=376;h=480 2x" title="Pre-Owned Rolex Explorer II 16570 Watch" width="188"/>
            </picture>
            <!-- -->
            <!-- -->
@@ -1679,7 +1681,7 @@
        </div>
       </div>
      </div>
-     <input id="stock_search_scroll" type="hidden"/>
+     <input id="stock_search_scroll" type="hidden" value="1004.5"/>
     </div>
    </div>
    <div class="modal_ modal-panel modal-panel-sm" id="modal_international-stock">
@@ -2344,6 +2346,16 @@
 </div>
 <script src="/bundles/js/core?v=hhS4-2UCoweuZn9BPM78_PnJYexEROh7-lzRnJzlB2A1">
 </script>
+<script defer="" src="/bundles/js/core-defer?v=xPImLhzbffkDZjuxjNqauwS2r8Jzi5utQ0FN5InRkvY1">
+</script>
+<script defer="" src="/Scripts/owl.carousel/owl.carousel.min.js">
+</script>
+<script defer="defer" src="/webpack/vendor.a412780418144d78f907.js">
+</script>
+<script defer="defer" src="/webpack/main.ceb8d94f1fb96ec183ec.js">
+</script>
+<script src="/bundles/js/delayed-scroll-polyfill?v=1AQ7Ty67YET6Mtb9sGlIAeZA2HT3Nni7NdmQB8gl28U1">
+</script>
 <script id="" type="text/javascript">
  !function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","539865064099638");
 </script>
@@ -2361,24 +2373,8 @@ aggregateRating:{"@type":"AggregateRating",ratingValue:"4.6",reviewCount:"247",b
  (function(a,c,b){if(!a[b]){a.GlobalAdalyserNamespace=a.GlobalAdalyserNamespace||[];a.GlobalAdalyserNamespace.push(b);a[b]=function(){(a[b].q=a[b].q||[]).push(arguments)};a[b].q=a[b].q||[];var d=c.createElement("script");c=c.getElementsByTagName("script")[0];d.async=1;d.src="//c0.adalyser.com/adalyser.js?cid\x3dwatchfinderie";c.parentNode.insertBefore(d,c)}})(window,document,"adalyserTracker");
 window.adalyserTracker("create",{campaignCookieTimeout:15552E3,conversionCookieTimeout:604800,clientId:"watchfinderus",trafficSourceInternalReferrers:["^(.*\\.)?watchfinder.com$"]});window.adalyserTracker("trackSession","lce1",{});for(var enquiryID=null,enquiryType=null,uid=null,i=Math.min(dataLayer.length-1,300);0<=i;i--)"undefined"!=typeof dataLayer[i].enquiryType&&(enquiryType=dataLayer[i].enquiryType);null!=enquiryType&&window.adalyserTracker("trackEvent","lce3",{a4:enquiryType});
 </script>
-<script defer="" src="/bundles/js/core-defer?v=xPImLhzbffkDZjuxjNqauwS2r8Jzi5utQ0FN5InRkvY1">
-</script>
-<script defer="" src="/Scripts/owl.carousel/owl.carousel.min.js">
-</script>
-<script defer="defer" src="/webpack/vendor.a412780418144d78f907.js">
-</script>
-<script defer="defer" src="/webpack/main.ceb8d94f1fb96ec183ec.js">
-</script>
-<script src="/bundles/js/delayed-scroll-polyfill?v=1AQ7Ty67YET6Mtb9sGlIAeZA2HT3Nni7NdmQB8gl28U1">
-</script>
 <script src="/webpack/vendor.a412780418144d78f907.js">
 </script>
-<div id="criteo-tags-div" style="display: none;">
- <iframe frameborder="0" height="0" id="criteo-syncframe-onetag" src='https://gum.criteo.com/syncframe?topUrl=www.watchfinder.com&amp;origin=onetag#{"bundle":{"origin":0,"value":null},"cw":true,"optout":{"origin":0,"value":null},"origin":"onetag","pm":0,"sid":{"origin":0,"value":null},"tld":"watchfinder.com","topUrl":"www.watchfinder.com","version":"5_12_3","ifa":{"origin":0,"value":null},"lsw":true}' style="border-width:0px; margin:0px; display:none" title="Criteo GUM iframe" width="0">
- </iframe>
- <script async="true" src="https://sslwidget.criteo.com/event?a=99495&amp;v=5.12.3&amp;p0=e%3Dexd%26site_type%3Dd&amp;p1=e%3Dvl%26tms%3Dgtm-template%26p%3D%255B230050%252C216068%252C235967%252C233065%252C238999%252C232242%252C234410%255D&amp;p2=e%3Ddis&amp;adce=1&amp;bundle=kbE5i19hc1ZQMDQ0YnpvV01paXhPYnlIVWQ4b0UzdzEwUGZpUDlrUnlkd2J1RG9ZVzFnaGhSeThnVlhzTDRJWUlROUJGWnRCWHp1aGIlMkZGNTY3dUlHQzg0cUJuTkdYUmtwa1ZmeWlNUVN2Y0Y2a2liSzdSWng1NWFKYnFkJTJGb2lsa2clMkZGY3d3R0lMYXU3THROam44RDdQeU00S3g3cUhhOHkzMXg1SHZERlZpNnRpaiUyQnFNeiUyQk1RMENKVGVqNyUyRnB6VzNMdEVDbjd3QllRMG5nd1Z1VmNWUjY0eU5BJTNEJTNE&amp;tld=watchfinder.com&amp;dy=1&amp;fu=https%253A%252F%252Fwww.watchfinder.com%252FRolex%252FExplorer%252520II%252F16570%252Fwatches%253FfilterDial%253DWhite&amp;dtycbr=4300" type="text/javascript">
- </script>
-</div>
 <script src="/webpack/stockSearch.f01a583495be7e5a1533.js">
 </script>
 <script>
@@ -2484,5 +2480,11 @@ window.adalyserTracker("create",{campaignCookieTimeout:15552E3,conversionCookieT
 
     registerServiceWorker();
 </script>
+<div id="criteo-tags-div" style="display: none;">
+ <iframe frameborder="0" height="0" id="criteo-syncframe-onetag" src='https://gum.criteo.com/syncframe?topUrl=www.watchfinder.com&amp;origin=onetag#{"bundle":{"origin":0,"value":null},"cw":true,"optout":{"origin":0,"value":null},"origin":"onetag","pm":0,"sid":{"origin":0,"value":null},"tld":"watchfinder.com","topUrl":"www.watchfinder.com","version":"5_12_3","ifa":{"origin":0,"value":null},"lsw":true}' style="border-width:0px; margin:0px; display:none" title="Criteo GUM iframe" width="0">
+ </iframe>
+ <script async="true" src="https://sslwidget.criteo.com/event?a=99495&amp;v=5.12.3&amp;p0=e%3Dexd%26site_type%3Dd&amp;p1=e%3Dvl%26tms%3Dgtm-template%26p%3D%255B230050%252C216068%252C235967%252C233065%252C238999%252C232242%252C234410%255D&amp;p2=e%3Ddis&amp;adce=1&amp;bundle=3NyX_183Y0UxMkZ2WVVwQmJsNGNITW5jcWFyczZ6WGtpNk9rNTRzQ01pTURtbjBFT2Y1Y0xVT2RnMGs4cE43MFltJTJCJTJGcEsyOVBrQlNaN0xWTGhYbiUyRnU1Wmdzek1Hb05yMDJqQ1ZsamNOdjNsbzl6cjJ0Zm9vT2JLNjAybXdNNyUyQldBNCUyQnc0a2JJaVhiY0tGSnduM015TTVVQ3FnJTNEJTNE&amp;tld=watchfinder.com&amp;dy=1&amp;fu=https%253A%252F%252Fwww.watchfinder.com%252FRolex%252FExplorer%252520II%252F16570%252Fwatches%253FfilterDial%253DWhite&amp;dtycbr=24162" type="text/javascript">
+ </script>
+</div>
 <iframe height="0" style="display: none;" title="Criteo DIS iframe" width="0">
 </iframe>
