@@ -6,7 +6,7 @@ class WatchFinder:
 
     def get_prices_links(self, browser):
 
-        url = "https://www.watchfinder.com/Rolex/Explorer%20II/16570/watches?filterDial=White"
+        url = "https://www.watchfinder.com/Rolex/Explorer%20II/16570/watches?filterDial=White&filterBracelet=Bracelet"
 
         browser.get(url)
 
