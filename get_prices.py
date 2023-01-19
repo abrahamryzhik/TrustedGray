@@ -21,7 +21,7 @@ from datetime import date
 from gray_sellers import WatchFinder, AISWatches
 
 
-url = "https://www.watchfinder.com/Rolex/Explorer%20II/16570/watches?filterDial=White"
+# url = "https://www.watchfinder.com/Rolex/Explorer%20II/16570/watches?filterDial=White"
 
 
 
