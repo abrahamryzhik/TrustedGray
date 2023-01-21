@@ -1,0 +1,2362 @@
+<div aria-describedby="cookieconsent:desc" aria-label="cookieconsent" aria-live="polite" class="cc-window cc-banner cc-type-info cc-theme-classic cc-bottom cc-color-override-1703987162" role="dialog" style="">
+ <!--googleoff: all-->
+ <span class="cc-message" id="cookieconsent:desc">
+  This website uses cookies to ensure you get the best experience on our website.
+  <a aria-label="learn more about cookies" class="cc-link" href="/privacy-policy" rel="noopener noreferrer nofollow" role="button" tabindex="0" target="_blank">
+   Learn more
+  </a>
+ </span>
+ <div class="cc-compliance">
+  <a aria-label="dismiss cookie message" class="cc-btn cc-dismiss" role="button" tabindex="0">
+   Got it!
+  </a>
+ </div>
+ <!--googleon: all-->
+</div>
+<header class="px-0 px-xl-0 position-fixed w-100">
+ <div class="headerTopWrapOuter">
+  <div class="headerTopWrap container-fluid pageWidth py-2">
+   <div class="row">
+    <div class="left col-sm-12 col-xl-6 text-start d-flex align-items-center justify-content-between justify-content-lg-start text-white">
+     <a class="text-decoration-none d-flex align-items-center justify-content-start me-0 me-lg-5" href="/contact-us">
+      <svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+       <path d="M4.07143 14.4464V8.01786C4.25 8.21875 4.44252 8.4029 4.649 8.57031C6.14453 9.71987 7.33315 10.6629 8.21484 11.3996C8.49944 11.6395 8.73103 11.8265 8.9096 11.9604C9.08817 12.0943 9.32952 12.2296 9.63365 12.3664C9.93778 12.5031 10.2238 12.5714 10.4916 12.5714H10.5084C10.7762 12.5714 11.0622 12.5031 11.3664 12.3664C11.6705 12.2296 11.9118 12.0943 12.0904 11.9604C12.269 11.8265 12.5006 11.6395 12.7852 11.3996C13.6669 10.6629 14.8555 9.71987 16.351 8.57031C16.5575 8.4029 16.75 8.21875 16.9286 8.01786V14.4464C16.9286 14.519 16.9021 14.5818 16.8491 14.6348C16.796 14.6878 16.7333 14.7143 16.6607 14.7143H4.33929C4.26674 14.7143 4.20396 14.6878 4.15095 14.6348C4.09794 14.5818 4.07143 14.519 4.07143 14.4464ZM4.07143 5.649V5.44392L4.07561 5.3351L4.10073 5.23047L4.14676 5.15513L4.2221 5.09235L4.33929 5.07143H16.6607C16.7333 5.07143 16.796 5.09794 16.8491 5.15095C16.9021 5.20396 16.9286 5.26674 16.9286 5.33929C16.9286 6.27679 16.5184 7.0692 15.6981 7.71652C14.6211 8.56473 13.5022 9.44922 12.3415 10.37C12.308 10.3979 12.2104 10.4802 12.0485 10.6169C11.8867 10.7536 11.7584 10.8583 11.6635 10.9308C11.5686 11.0033 11.4445 11.0912 11.291 11.1945C11.1376 11.2977 10.9967 11.3744 10.8683 11.4247C10.74 11.4749 10.62 11.5 10.5084 11.5H10.4916C10.38 11.5 10.26 11.4749 10.1317 11.4247C10.0033 11.3744 9.86244 11.2977 9.70898 11.1945C9.55552 11.0912 9.43136 11.0033 9.3365 10.9308C9.24163 10.8583 9.11328 10.7536 8.95145 10.6169C8.78962 10.4802 8.69196 10.3979 8.65848 10.37C7.49777 9.44922 6.37891 8.56473 5.3019 7.71652C5.00056 7.47656 4.72015 7.1543 4.46066 6.74972C4.20117 6.34514 4.07143 5.97824 4.07143 5.649ZM3 5.33929V14.4464C3 14.8147 3.13114 15.13 3.39342 15.3923C3.65569 15.6546 3.97098 15.7857 4.33929 15.7857H16.6607C17.029 15.7857 17.3443 15.6546 17.6066 15.3923C17.8689 15.13 18 14.8147 18 14.4464V5.33929C18 4.97098 17.8689 4.65569 17.6066 4.39342C17.3443 4.13114 17.029 4 16.6607 4H4.33929C3.97098 4 3.65569 4.13114 3.39342 4.39342C3.13114 4.65569 3 4.97098 3 5.33929Z" fill="white">
+       </path>
+      </svg>
+      <span class="d-inline-block ms-1">
+       Email
+      </span>
+     </a>
+     <a class="text-decoration-none d-flex align-items-center justify-content-start me-0 me-lg-5" href="tel:8004943708">
+      <svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+       <path d="M3.60686 13.3803C3.60686 13.531 3.63477 13.7277 3.69057 13.9704C3.74637 14.2132 3.80497 14.4043 3.86635 14.5438C3.98354 14.8228 4.32394 15.1186 4.88756 15.4311C5.41211 15.7157 5.93108 15.858 6.44448 15.858C6.59515 15.858 6.74302 15.8482 6.88811 15.8287C7.0332 15.8092 7.19364 15.7743 7.36942 15.7241C7.5452 15.6738 7.67634 15.6334 7.76284 15.6027C7.84933 15.572 8.00419 15.5148 8.2274 15.4311C8.45061 15.3474 8.58733 15.2972 8.63756 15.2804C9.18443 15.0851 9.67271 14.8535 10.1024 14.5857C10.8111 14.1448 11.5477 13.5421 12.3122 12.7776C13.0767 12.0131 13.6794 11.2765 14.1203 10.5678C14.3881 10.1381 14.6197 9.64983 14.815 9.10296C14.8318 9.05273 14.882 8.91602 14.9657 8.6928C15.0494 8.46959 15.1066 8.31473 15.1373 8.22824C15.168 8.14174 15.2084 8.0106 15.2586 7.83482C15.3089 7.65904 15.3438 7.4986 15.3633 7.35352C15.3828 7.20843 15.3926 7.06055 15.3926 6.90988C15.3926 6.39648 15.2503 5.87751 14.9657 5.35296C14.6532 4.78934 14.3574 4.44894 14.0784 4.33175C13.9389 4.27037 13.7478 4.21177 13.505 4.15597C13.2623 4.10017 13.0656 4.07227 12.9149 4.07227C12.8368 4.07227 12.7782 4.08064 12.7391 4.09738C12.6387 4.13086 12.4908 4.34291 12.2955 4.73354C12.2341 4.83956 12.1504 4.99023 12.0444 5.18555C11.9383 5.38086 11.8407 5.55804 11.7514 5.71708C11.6621 5.87612 11.5756 6.02539 11.4919 6.1649C11.4752 6.18722 11.4263 6.25698 11.3454 6.37416C11.2645 6.49135 11.2045 6.5904 11.1655 6.67132C11.1264 6.75223 11.1069 6.83175 11.1069 6.90988C11.1069 7.02148 11.1864 7.16099 11.3454 7.3284C11.5045 7.49581 11.6775 7.64927 11.8644 7.78878C12.0513 7.92829 12.2243 8.07617 12.3834 8.23242C12.5424 8.38867 12.6219 8.51702 12.6219 8.61747C12.6219 8.66769 12.608 8.73047 12.5801 8.8058C12.5522 8.88114 12.5285 8.93834 12.5089 8.9774C12.4894 9.01646 12.4503 9.08343 12.3917 9.17829C12.3331 9.27316 12.3011 9.32617 12.2955 9.33733C11.8714 10.1018 11.3859 10.7575 10.839 11.3044C10.2921 11.8513 9.63644 12.3368 8.87193 12.7609C8.86077 12.7665 8.80776 12.7985 8.71289 12.8571C8.61802 12.9157 8.55106 12.9548 8.512 12.9743C8.47294 12.9939 8.41574 13.0176 8.3404 13.0455C8.26507 13.0734 8.20229 13.0873 8.15206 13.0873C8.05162 13.0873 7.92327 13.0078 7.76702 12.8488C7.61077 12.6897 7.46289 12.5167 7.32338 12.3298C7.18387 12.1429 7.03041 11.9699 6.863 11.8108C6.69559 11.6518 6.55608 11.5723 6.44448 11.5723C6.36635 11.5723 6.28683 11.5918 6.20592 11.6309C6.125 11.6699 6.02595 11.7299 5.90876 11.8108C5.79157 11.8917 5.72182 11.9406 5.6995 11.9573C5.55999 12.041 5.41071 12.1275 5.25167 12.2168C5.09263 12.3061 4.91546 12.4037 4.72015 12.5098C4.52483 12.6158 4.37416 12.6995 4.26814 12.7609C3.87751 12.9562 3.66546 13.1041 3.63198 13.2045C3.61523 13.2436 3.60686 13.3022 3.60686 13.3803Z" stroke="white">
+       </path>
+      </svg>
+      <span class="d-inline-block ms-1">
+       Call
+       <span class="d-none d-lg-inline-block">
+        : 800.494.3708
+       </span>
+      </span>
+     </a>
+     <a class="text-decoration-none d-flex align-items-center justify-content-start me-0 me-lg-5" href="sms://+17145007958">
+      <svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+       <path d="M8.35714 9.49972C8.35714 9.79548 8.25251 10.048 8.04325 10.2573C7.83398 10.4665 7.58147 10.5711 7.28571 10.5711C6.98996 10.5711 6.73744 10.4665 6.52818 10.2573C6.31892 10.048 6.21429 9.79548 6.21429 9.49972C6.21429 9.20396 6.31892 8.95145 6.52818 8.74219C6.73744 8.53292 6.98996 8.42829 7.28571 8.42829C7.58147 8.42829 7.83398 8.53292 8.04325 8.74219C8.25251 8.95145 8.35714 9.20396 8.35714 9.49972ZM11.5714 9.49972C11.5714 9.79548 11.4668 10.048 11.2575 10.2573C11.0483 10.4665 10.7958 10.5711 10.5 10.5711C10.2042 10.5711 9.95173 10.4665 9.74247 10.2573C9.5332 10.048 9.42857 9.79548 9.42857 9.49972C9.42857 9.20396 9.5332 8.95145 9.74247 8.74219C9.95173 8.53292 10.2042 8.42829 10.5 8.42829C10.7958 8.42829 11.0483 8.53292 11.2575 8.74219C11.4668 8.95145 11.5714 9.20396 11.5714 9.49972ZM14.7857 9.49972C14.7857 9.79548 14.6811 10.048 14.4718 10.2573C14.2626 10.4665 14.01 10.5711 13.7143 10.5711C13.4185 10.5711 13.166 10.4665 12.9568 10.2573C12.7475 10.048 12.6429 9.79548 12.6429 9.49972C12.6429 9.20396 12.7475 8.95145 12.9568 8.74219C13.166 8.53292 13.4185 8.42829 13.7143 8.42829C14.01 8.42829 14.2626 8.53292 14.4718 8.74219C14.6811 8.95145 14.7857 9.20396 14.7857 9.49972ZM10.5 5.21401C9.36161 5.21401 8.29715 5.40792 7.30664 5.79576C6.31613 6.18359 5.5293 6.70675 4.94615 7.36523C4.363 8.02372 4.07143 8.73521 4.07143 9.49972C4.07143 10.1247 4.27093 10.7204 4.66992 11.2868C5.06892 11.8532 5.63114 12.3429 6.35658 12.7559L7.08482 13.1744L6.85882 13.978C6.72489 14.4858 6.52958 14.9657 6.27288 15.4177C7.12109 15.0661 7.88839 14.589 8.57478 13.9863L8.93471 13.6682L9.41183 13.7185C9.79688 13.7631 10.1596 13.7854 10.5 13.7854C11.6384 13.7854 12.7028 13.5915 13.6934 13.2037C14.6839 12.8158 15.4707 12.2927 16.0539 11.6342C16.637 10.9757 16.9286 10.2642 16.9286 9.49972C16.9286 8.73521 16.637 8.02372 16.0539 7.36523C15.4707 6.70675 14.6839 6.18359 13.6934 5.79576C12.7028 5.40792 11.6384 5.21401 10.5 5.21401ZM18 9.49972C18 10.4707 17.6652 11.3677 16.9955 12.1908C16.3259 13.014 15.4163 13.6641 14.2667 14.1412C13.1172 14.6183 11.8616 14.8569 10.5 14.8569C10.1094 14.8569 9.7048 14.8345 9.28627 14.7899C8.18136 15.7665 6.89788 16.4417 5.43583 16.8156C5.16239 16.8937 4.84431 16.9551 4.48158 16.9997H4.43973C4.35603 16.9997 4.28069 16.9704 4.21373 16.9118C4.14676 16.8532 4.10212 16.7765 4.0798 16.6816V16.6733C4.06306 16.6509 4.06166 16.6175 4.07561 16.5728C4.08956 16.5282 4.09515 16.5003 4.09235 16.4891C4.08956 16.478 4.10212 16.4515 4.13002 16.4096L4.18025 16.3343L4.23884 16.2631L4.3058 16.1878C4.34487 16.1431 4.43136 16.0469 4.56529 15.899C4.69922 15.7511 4.79548 15.6451 4.85407 15.5809C4.91267 15.5167 4.99916 15.4065 5.11356 15.2503C5.22796 15.094 5.31864 14.9517 5.3856 14.8234C5.45257 14.695 5.5279 14.5304 5.61161 14.3295C5.69531 14.1286 5.76786 13.9166 5.82924 13.6934C4.95312 13.1967 4.26256 12.5829 3.75753 11.8518C3.25251 11.1208 3 10.3368 3 9.49972C3 8.77427 3.1981 8.08091 3.59431 7.41964C3.99051 6.75837 4.52344 6.18778 5.19308 5.70787C5.86272 5.22796 6.66071 4.8471 7.58705 4.56529C8.51339 4.28348 9.48438 4.14258 10.5 4.14258C11.5156 4.14258 12.4866 4.28348 13.4129 4.56529C14.3393 4.8471 15.1373 5.22796 15.8069 5.70787C16.4766 6.18778 17.0095 6.75837 17.4057 7.41964C17.8019 8.08091 18 8.77427 18 9.49972Z" fill="white">
+       </path>
+      </svg>
+      <span class="d-inline-block ms-1">
+       Text
+       <span class="d-none d-lg-inline-block">
+        : 714.500.7958
+       </span>
+      </span>
+     </a>
+    </div>
+    <div class="right col-sm-12 col-xl-6 text-end d-flex align-items-center justify-content-end position-relative">
+     <div class="d-inline-flex align-items-center white-tooltip" data-bs-container=".headerTopWrap" data-bs-custom-class="white-tooltip" data-bs-html="true" data-bs-original-title="&lt;div class='text-start'&gt;&lt;strong&gt;Bob's Watches - The Trusted Name in Authenticated Luxury Timepieces&lt;/strong&gt;&lt;br&gt;Every watch on our site is 100% certified authentic. Certificates are issued by WatchCSA, the industry's leading independent authority on watch authentication.&lt;/div&gt;" data-bs-placement="bottom" data-bs-toggle="tooltip" id="authenticatedTimepieces" role="button" tabindex="0" title="">
+      <img alt="Watch Certification Services of America" class="me-2" height="20" src="/images/template/watch-csa-logo.png" width="20"/>
+      <span class="d-none d-xl-block" style="color:var(--color-white);">
+       100% Certified Authentic
+      </span>
+      <svg class="ms-0 ms-xl-2" height="15" viewbox="0 0 1792 1792" width="15" xmlns="http://www.w3.org/2000/svg">
+       <path d="M1408 704q0 26-19 45l-448 448q-19 19-45 19t-45-19L403 749q-19-19-19-45t19-45 45-19h896q26 0 45 19t19 45z" fill="#fff">
+       </path>
+      </svg>
+     </div>
+     <span class="mx-3 d-none d-xl-block" style="color:var(--color-white);">
+      |
+     </span>
+     <a class="text-decoration-none d-flex align-items-center d-none d-xl-flex" href="/verify_login?account_login=1">
+      <svg class="me-2 my-1" fill="none" height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+       <circle cx="11" cy="9" r="3.2" stroke="#FFF" stroke-width="1.6">
+       </circle>
+       <path d="M16.2 17C16.2 18.4141 15.6394 19.4277 14.7547 20.1087C13.8452 20.8088 12.5326 21.2 11 21.2C9.46744 21.2 8.15483 20.8088 7.24534 20.1087C6.3606 19.4277 5.8 18.4141 5.8 17C5.8 15.4718 6.18627 14.4883 6.90742 13.8609C7.65459 13.211 8.92128 12.8 11 12.8C13.0787 12.8 14.3454 13.211 15.0926 13.8609C15.8137 14.4883 16.2 15.4718 16.2 17Z" stroke="#FFF" stroke-width="1.6">
+       </path>
+       <circle cx="11" cy="11" r="10.2" stroke="#FFF" stroke-width="1.6">
+       </circle>
+      </svg>
+     </a>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="headerWrapOuter">
+  <div class="headerWrap container-fluid pageWidth py-2 py-xl-3">
+   <div class="row">
+    <div class="left col-sm-7 col-xl-2">
+     <a href="/">
+      <svg class="d-none d-xl-block" height="48" viewbox="0 0 1187.929 272.393" width="200" xmlns="http://www.w3.org/2000/svg">
+       <title>
+        Bob's Watches
+       </title>
+       <path class="pathFill" d="M227.244 226.184l-19.162 45.438h5.788l6.244-15.234H238.8c.501 1.207 6.373 15.234 6.373 15.234h5.771l-19.017-45.438h-4.683zm-5.1 25.447l5.83-13.971s.82-2.195 1.533-4.113c.733 2.029 1.554 4.32 1.554 4.32s4.769 11.377 5.771 13.764h-14.688zM43.681 262.975c-1.077-4.047-10.536-36.791-10.536-36.791h-4.823s-10.764 32.574-12.123 36.891c-1.11-3.953-10.573-36.891-10.573-36.891H0l13.449 45.438h4.831s11.327-33.414 12.181-36.377c.671 2.852 10.524 36.377 10.524 36.377h4.818l15.707-45.438h-5.734c-.001 0-11.042 33.414-12.095 36.791m350.433-32.043h16.858v40.689h5.457v-40.689h16.851v-4.748h-39.166v4.748zm586.801 19.162h20.145v-4.76h-20.145v-14.402h21.283v-4.748H975.45v45.438h27.9v-4.76h-22.436v-16.768zm-171.519-4.955h-26.168v-18.955h-5.465v45.438h5.465v-21.723h26.168v21.723h5.457v-45.438h-5.457v18.955zm-190.383 20.226c-2.883 1.385-7.18 2.209-11.463 2.209-12.525 0-20.613-7.146-20.613-18.227 0-11.828 8.209-19.188 21.412-19.188 3.832 0 7.744.771 10.471 2.072l1.053.51 1.881-4.629-.924-.422c-3.266-1.5-7.645-2.283-12.688-2.283-17.588 0-26.802 11.916-26.802 23.684 0 16.096 12.55 23.301 24.996 23.301 6.77 0 12-1.352 14.646-2.615l.891-.422-1.799-4.5-1.061.51zm555.466-19.724c-7.873-2.42-9.451-5.051-9.451-8.502 0-3.244 2.512-7.045 9.588-7.045 5.014 0 8.008 1.857 8.332 2.08l1.043.676 2.221-4.582-.803-.51c-1.814-1.135-5.576-2.35-10.656-2.35-8.76 0-15.123 5.117-15.123 12.186 0 6.211 4.031 10.08 13.457 12.955 7.9 2.42 9.447 5.162 9.447 9.09 0 4.854-4.193 7.992-10.678 7.992-3.832 0-7.604-1.076-10.607-3.027l-1.043-.68-2.195 4.541.736.525c2.859 2.002 8.096 3.402 12.721 3.402 11.367 0 16.461-6.576 16.461-13.076 0-7.877-5.371-11.166-13.45-13.675M862.739 0l10.242 52.66h17.301L900.761 0zM222.02 84.479c10.574-8.075 15.951-18.18 15.951-30.179 0-12.33-6.235-23.405-18.014-32.027-10.979-8.025-24.329-12.479-39.634-12.777L.005 9.488v166.215h115.254c23.367 0 45.803-.439 66.692-1.313 16.428-.867 30.394-6.074 41.618-15.459 11.94-10.305 17.948-22.158 17.948-35.333v-1.811c.001-11.037-3.886-25.504-19.497-37.308M34.43 40.296h152.588c8.519 0 15.417 6.256 15.417 13.971 0 7.719-6.898 13.971-15.417 13.971H34.43V40.296zm146.104 104.599H34.43v-44.418H180.534c14.671 0 26.549 9.943 26.549 22.211 0 12.263-11.878 22.207-26.549 22.207M796.917 84.479c10.568-8.075 15.951-18.18 15.951-30.179 0-12.33-6.236-23.405-18.016-32.027-10.979-8.025-24.336-12.479-39.633-12.777l-180.327-.008v166.215h115.262c23.367 0 45.795-.439 66.686-1.313 16.426-.867 30.402-6.074 41.625-15.459 11.941-10.305 17.949-22.158 17.949-35.333v-1.811c.001-11.037-3.893-25.504-19.497-37.308M609.323 40.296h152.592c8.51 0 15.408 6.256 15.408 13.971 0 7.719-6.898 13.971-15.408 13.971H609.323V40.296zm146.108 104.599H609.323v-44.418h146.108c14.664 0 26.551 9.943 26.551 22.211-.001 12.263-11.887 22.207-26.551 22.207M1170.792 159.146l-.055.025a.057.057 0 01-.033.033l.088-.058zm17.037-36.02c0-11.107-3.791-21.188-11.287-29.963-11.166-12.753-30.129-20.302-56.305-22.738-2.42-.178-17.455-.501-17.455-.484-8.412.05-103.58-.05-103.58-.05-7.143 0-12.939-6.782-12.939-15.131 0-8.357 5.797-15.127 12.939-15.127l132.191.133c4.447.008 8.926 2.486 11.217 6.297 2.527 4.209 1.977 9.131 1.797 13.838-.057 1.545-.123 3.091-.186 4.624h36.58c.307-3.021.281-6.219.281-9.256 0-12.973-5.262-24.834-17.211-33.667-10.764-8.249-25.053-11.813-40.777-12.11h-113.406c-15.789.298-29.279 4.677-40.168 13.009-16.154 12.388-21.689 32.267-14.559 51.504 2.52 6.812 6.947 12.661 12.914 16.768 10.623 7.263 26.346 10.437 42.551 10.233l.385.033h107.871c1.441 0 12.754.083 12.754.083 12.006 0 21.738 9.827 21.738 21.954 0 12.123-9.732 21.951-21.738 21.951l-117.92.195c-15.818-.203-29.428-8.842-30.41-19.246l-.738-7.748h-35.291l1.053 9.513c1.246 11.422 6.17 21.383 14.605 29.586 12.098 11.318 27.025 17.473 44.477 18.371 11.057.451 110.41.451 121.041 0 16.988-.891 31.244-6.463 42.484-16.527 11.336-9.942 17.092-22.062 17.092-36.045" fill="#FFF">
+       </path>
+       <path d="M307.183 25.008c-10.404 8.995-16.726 20.053-18.856 32.872-.397 2.138-.472 6.177-.489 24.498h32.495V68.875c0-16.088 12.918-29.126 28.861-29.126h48.678V9.488h-50.111c-16.039 0-29.633 6.144-40.578 15.52" fill="#B1F347">
+       </path>
+       <path class="pathFill" d="M527.201 54.976c-.882-12.219-7.254-23.053-18.93-32.081-11.626-8.369-24.834-13.407-39.567-13.407H418.53v30.257h48.715c15.935 0 28.849 13.042 28.849 29.139l-.033 47.431c0 16.088-12.915 29.13-28.849 29.13H349.165c-15.935 0-28.857-13.042-28.857-29.13v-12.794h-32.474c.178 9.132.622 17.928 1.367 26.694.891 12.218 7.263 23.052 18.947 32.082 11.617 8.369 24.826 13.406 39.55 13.406h120.947c16.038 0 29.62-6.148 40.574-15.52 10.387-9 16.726-20.049 18.855-32.869.46-2.481.493-7.445.493-34.119v-1.852c.001-3.359-.62-27.6-1.366-36.367" fill="#FFF">
+       </path>
+      </svg>
+      <svg class="mobile-icon d-xl-none" height="18" width="120" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+       <title>
+        Bob's Watches
+       </title>
+       <defs>
+        <path d="M.158.989H4v5.387H.158z" id="a">
+        </path>
+        <path d="M.68.96H25V18H.68z" id="c">
+        </path>
+       </defs>
+       <g fill="none" fill-rule="evenodd">
+        <path class="pathFill" d="M52.902 8.869l-.004.014-.007.042.01-.056z" fill="#FFF">
+        </path>
+        <g transform="translate(87 -.989)">
+         <mask fill="#fff" id="b">
+          <use xlink:href="#a">
+          </use>
+         </mask>
+         <path class="pathFill" d="M.158.989l1.035 5.387H2.94L4 .989z" fill="#FFF" mask="url(#b)">
+         </path>
+        </g>
+        <path class="pathFill" d="M18.238 14.825H3.478V10.28h14.76c1.482 0 2.683 1.017 2.683 2.272 0 1.254-1.2 2.272-2.683 2.272zM3.478 4.123h15.415c.86 0 1.558.64 1.558 1.43 0 .789-.698 1.429-1.558 1.429H3.478v-2.86zm18.951 4.52c1.068-.826 1.612-1.86 1.612-3.088 0-1.26-.63-2.394-1.82-3.276-1.109-.821-2.458-1.277-4.005-1.307L0 .97v17.006h11.644c2.36 0 4.627-.045 6.737-.134 1.66-.09 3.071-.622 4.205-1.582 1.207-1.054 1.813-2.267 1.813-3.615v-.185c0-1.13-.393-2.61-1.97-3.817zM76.317 14.825h-14.76V10.28H76.317c1.481 0 2.683 1.017 2.683 2.272 0 1.254-1.202 2.272-2.683 2.272zM61.557 4.123h15.415c.86 0 1.557.64 1.557 1.43 0 .789-.697 1.429-1.557 1.429H61.557v-2.86zm18.951 4.52c1.068-.826 1.612-1.86 1.612-3.088 0-1.26-.63-2.394-1.82-3.276-1.109-.821-2.458-1.277-4.005-1.307L58.078.97v17.006h11.644c2.361 0 4.627-.045 6.737-.134 1.66-.09 3.072-.622 4.206-1.582 1.206-1.054 1.813-2.267 1.813-3.615v-.185c0-1.13-.394-2.61-1.97-3.817z" fill="#FFF">
+        </path>
+        <g transform="translate(95 .011)">
+         <mask fill="#fff" id="d">
+          <use xlink:href="#c">
+          </use>
+         </mask>
+         <path class="pathFill" d="M25 12.587c0-1.136-.384-2.167-1.14-3.066-1.128-1.305-3.044-2.077-5.688-2.327a77.034 77.034 0 00-1.764-.048C15.56 7.15 5.944 7.14 5.944 7.14c-.722 0-1.307-.693-1.307-1.548 0-.855.585-1.547 1.307-1.547l13.354.013c.45 0 .903.254 1.134.644.256.43.2.935.182 1.417l-.018.473h3.695c.03-.31.028-.637.028-.948 0-1.328-.53-2.541-1.739-3.444-1.088-.844-2.53-1.21-4.12-1.24H7.004c-1.596.03-2.959.479-4.058 1.33C1.314 3.56.756 5.594 1.474 7.56A3.562 3.562 0 002.78 9.277c1.073.744 2.661 1.068 4.298 1.047l.04.004h10.897c.146 0 1.287.009 1.287.009 1.214 0 2.198 1.005 2.198 2.246 0 1.24-.984 2.246-2.198 2.246l-11.91.019c-1.6-.02-2.974-.904-3.074-1.968l-.074-.793H.68l.105.973a4.897 4.897 0 001.476 3.027c1.223 1.158 2.731 1.788 4.494 1.88 1.116.046 11.153.046 12.228 0 1.716-.091 3.156-.661 4.292-1.691C24.42 15.257 25 14.018 25 12.587zm-1.72 3.685c-.003 0-.004.002-.006.003l-.003.003.008-.006z" fill="#FFF" mask="url(#d)">
+         </path>
+        </g>
+        <path d="M31.033 2.559c-1.05.92-1.689 2.051-1.904 3.363-.04.219-.049.632-.05 2.507h3.283V7.047c0-1.646 1.305-2.981 2.915-2.981h4.918V.971h-5.063c-1.62 0-2.993.629-4.099 1.588" fill="#B1F347">
+        </path>
+        <path class="pathFill" d="M53.26 5.625c-.09-1.25-.733-2.358-1.912-3.282C50.174 1.487 48.838.97 47.352.97h-5.07v3.095h4.92c1.612 0 2.917 1.335 2.917 2.98l-.004 4.854c0 1.647-1.305 2.98-2.915 2.98H35.275c-1.611 0-2.915-1.333-2.915-2.98v-1.31h-3.281c.017.935.063 1.836.138 2.733.09 1.25.733 2.358 1.913 3.282 1.174.856 2.509 1.372 3.996 1.372h12.219c1.62 0 2.993-.63 4.099-1.588 1.05-.921 1.689-2.052 1.905-3.364.046-.253.05-.761.05-3.49v-.19c0-.343-.063-2.824-.138-3.72" fill="#FFF">
+        </path>
+       </g>
+      </svg>
+     </a>
+    </div>
+    <div class="right col-sm-5 col-xl-10">
+     <input autocomplete="off" class="menu-btn d-none" id="menu-btn" type="checkbox"/>
+     <label class="menu-icon d-xl-none" for="menu-btn">
+      <span class="sr-only">
+       Open Menu
+      </span>
+      <span class="navicon">
+      </span>
+     </label>
+     <div class="mainNavWrap d-flex align-items-center justify-content-end">
+      <input autocomplete="off" class="search-toggle d-none" id="search-toggle" type="checkbox"/>
+      <label class="menu-icon menu-icon-search position-absolute" for="search-toggle">
+       <span class="sr-only">
+        Search
+       </span>
+       <svg height="19" width="19" xmlns="http://www.w3.org/2000/svg">
+        <path class="pathFill" d="M11.39 11.39c.979-.979 1.468-2.156 1.468-3.532 0-1.377-.489-2.555-1.468-3.533-.979-.978-2.156-1.467-3.532-1.467-1.377 0-2.555.489-3.532 1.467-.979.978-1.468 2.156-1.468 3.533 0 1.376.489 2.553 1.468 3.532.977.979 2.155 1.468 3.532 1.468 1.376 0 2.553-.489 3.532-1.468m7.182 5.753c0 .387-.142.722-.424 1.004a1.373 1.373 0 01-1.005.424c-.401 0-.736-.141-1.004-.424l-3.828-3.817a7.642 7.642 0 01-4.453 1.384 7.718 7.718 0 01-3.053-.619 7.856 7.856 0 01-2.511-1.674A7.875 7.875 0 01.619 10.91 7.72 7.72 0 010 7.858c0-1.065.206-2.082.619-3.053a7.88 7.88 0 011.675-2.512A7.873 7.873 0 014.805.619 7.718 7.718 0 017.858 0a7.72 7.72 0 013.052.619 7.873 7.873 0 012.511 1.674 7.86 7.86 0 011.674 2.512c.413.971.619 1.988.619 3.053a7.642 7.642 0 01-1.384 4.453l3.829 3.828c.275.274.413.609.413 1.004" fill="#FFF" fill-rule="evenodd">
+        </path>
+       </svg>
+      </label>
+      <label class="menu-icon menu-icon-close">
+       <span class="sr-only">
+        Close Menu
+       </span>
+       <span class="navicon">
+       </span>
+      </label>
+      <nav class="px-3 px-xl-0">
+       <a class="mobile-icon-nav-wrapper d-block d-xl-none pt-4 pb-3 px-0" href="/">
+        <svg class="mobile-icon-nav d-xl-none" height="18" width="120" xmlns="http://www.w3.org/2000/svg">
+         <title>
+          Menu
+         </title>
+         <g fill="none" fill-rule="evenodd">
+          <path d="M52.902 8.869l-.004.014-.007.042.01-.056z" fill="#000">
+          </path>
+          <path d="M.158.989l1.035 5.387H2.94L4 .989z" fill="#000" mask="url(#mask-2)" transform="translate(87 -.989)">
+          </path>
+          <path d="M18.238 14.825H3.478V10.28h14.76c1.482 0 2.683 1.017 2.683 2.272 0 1.254-1.2 2.272-2.683 2.272zM3.478 4.123h15.415c.86 0 1.558.64 1.558 1.43 0 .789-.698 1.429-1.558 1.429H3.478v-2.86zm18.951 4.52c1.068-.826 1.612-1.86 1.612-3.088 0-1.26-.63-2.394-1.82-3.276-1.109-.821-2.458-1.277-4.005-1.307L0 .97v17.006h11.644c2.36 0 4.627-.045 6.737-.134 1.66-.09 3.071-.622 4.205-1.582 1.207-1.054 1.813-2.267 1.813-3.615v-.185c0-1.13-.393-2.61-1.97-3.817zM76.317 14.825h-14.76V10.28H76.317c1.481 0 2.683 1.017 2.683 2.272 0 1.254-1.202 2.272-2.683 2.272zM61.557 4.123h15.415c.86 0 1.557.64 1.557 1.43 0 .789-.697 1.429-1.557 1.429H61.557v-2.86zm18.951 4.52c1.068-.826 1.612-1.86 1.612-3.088 0-1.26-.63-2.394-1.82-3.276-1.109-.821-2.458-1.277-4.005-1.307L58.078.97v17.006h11.644c2.361 0 4.627-.045 6.737-.134 1.66-.09 3.072-.622 4.206-1.582 1.206-1.054 1.813-2.267 1.813-3.615v-.185c0-1.13-.394-2.61-1.97-3.817z" fill="#000">
+          </path>
+          <path d="M25 12.587c0-1.136-.384-2.167-1.14-3.066-1.128-1.305-3.044-2.077-5.688-2.327a77.034 77.034 0 00-1.764-.048C15.56 7.15 5.944 7.14 5.944 7.14c-.722 0-1.307-.693-1.307-1.548 0-.855.585-1.547 1.307-1.547l13.354.013c.45 0 .903.254 1.134.644.256.43.2.935.182 1.417l-.018.473h3.695c.03-.31.028-.637.028-.948 0-1.328-.53-2.541-1.739-3.444-1.088-.844-2.53-1.21-4.12-1.24H7.004c-1.596.03-2.959.479-4.058 1.33C1.314 3.56.756 5.594 1.474 7.56A3.562 3.562 0 002.78 9.277c1.073.744 2.661 1.068 4.298 1.047l.04.004h10.897c.146 0 1.287.009 1.287.009 1.214 0 2.198 1.005 2.198 2.246 0 1.24-.984 2.246-2.198 2.246l-11.91.019c-1.6-.02-2.974-.904-3.074-1.968l-.074-.793H.68l.105.973a4.897 4.897 0 001.476 3.027c1.223 1.158 2.731 1.788 4.494 1.88 1.116.046 11.153.046 12.228 0 1.716-.091 3.156-.661 4.292-1.691C24.42 15.257 25 14.018 25 12.587zm-1.72 3.685c-.003 0-.004.002-.006.003l-.003.003.008-.006z" fill="#000" mask="url(#mask-4)" transform="translate(95 .011)">
+          </path>
+          <path d="M31.033 2.559c-1.05.92-1.689 2.051-1.904 3.363-.04.219-.049.632-.05 2.507h3.283V7.047c0-1.646 1.305-2.981 2.915-2.981h4.918V.971h-5.063c-1.62 0-2.993.629-4.099 1.588" fill="#B0C11D">
+          </path>
+          <path d="M53.26 5.625c-.09-1.25-.733-2.358-1.912-3.282C50.174 1.487 48.838.97 47.352.97h-5.07v3.095h4.92c1.612 0 2.917 1.335 2.917 2.98l-.004 4.854c0 1.647-1.305 2.98-2.915 2.98H35.275c-1.611 0-2.915-1.333-2.915-2.98v-1.31h-3.281c.017.935.063 1.836.138 2.733.09 1.25.733 2.358 1.913 3.282 1.174.856 2.509 1.372 3.996 1.372h12.219c1.62 0 2.993-.63 4.099-1.588 1.05-.921 1.689-2.052 1.905-3.364.046-.253.05-.761.05-3.49v-.19c0-.343-.063-2.824-.138-3.72" fill="#000">
+          </path>
+         </g>
+        </svg>
+       </a>
+       <ul class="mainNav p-0 m-0 list-unstyled d-xl-flex align-items-center justify-content-start">
+        <li>
+         <a href="/rolex/" title="Used Rolex">
+          Rolex
+         </a>
+        </li>
+        <li>
+         <a href="/omega/">
+          Omega
+         </a>
+        </li>
+        <li>
+         <a href="/sell-rolex-watch">
+          Sell Rolex
+         </a>
+        </li>
+        <li>
+         <a href="/new-arrivals">
+          New Arrivals
+         </a>
+        </li>
+        <li class="arrow-box">
+         <a href="/luxury-watches/">
+          Luxury Watches
+         </a>
+         <div class="subNavWrapper d-block d-xl-none">
+          <div class="container ms-0 ms-xl-auto pb-0 pb-xl-3">
+           <div class="row d-block d-xl-flex justify-content-center align-items-start">
+            <div class="d-none d-xl-block col-3">
+             <img alt="Luxury Watches" class="m-3" height="200" loading="lazy" src="/images/nav-thumbs/rolex-daytona.jpg" width="200"/>
+            </div>
+            <div class="col-12 col-xl-9">
+             <div class="row">
+              <div class="col-12">
+               <span class="d-none d-xl-block h4 p-3 m-0">
+                Shop Other Brands
+               </span>
+              </div>
+             </div>
+             <div class="row">
+              <div class="col-12 col-xl-4">
+               <a class="navImageHover" data-src="/images/nav-thumbs/tudor-watches.jpg" href="/tudor/">
+                Tudor
+               </a>
+               <a class="navImageHover" data-src="/images/nav-thumbs/breitling-watches.jpg" href="/breitling/">
+                Breitling
+               </a>
+               <a class="navImageHover" data-src="/images/nav-thumbs/panerai-watches.jpg" href="/panerai/">
+                Panerai
+               </a>
+               <a class="navImageHover" data-src="/images/nav-thumbs/patek-philippe-watches.jpg" href="/patek-philippe/">
+                Patek
+Philippe
+               </a>
+               <a class="navImageHover" data-src="/images/nav-thumbs/oris-watches.jpg" href="/oris/">
+                Oris
+               </a>
+              </div>
+              <div class="col-12 col-xl-4">
+               <a class="navImageHover" data-src="/images/nav-thumbs/cartier-watches.jpg" href="/cartier/">
+                Cartier
+               </a>
+               <a class="navImageHover" data-src="/images/nav-thumbs/longines-watches.jpg" href="/longines/">
+                Longines
+               </a>
+               <a class="navImageHover" data-src="/images/nav-thumbs/tissot-watches.jpg" href="/tissot/">
+                Tissot
+               </a>
+               <a href="/grand-seiko/">
+                Grand Seiko
+               </a>
+               <a class="navImageHover" data-src="/images/nav-thumbs/tudor-watches.jpg" href="/audemars-piguet/">
+                Audemars
+Piguet
+               </a>
+              </div>
+              <div class="col-12 col-xl-4">
+               <a class="navImageHover nav-arrow text-uppercase" data-src="/images/nav-thumbs/rolex-daytona.jpg" href="/sell-my-watch">
+                Sell
+My Watch
+               </a>
+               <a class="navImageHover nav-arrow text-uppercase" data-src="/images/nav-thumbs/rolex-daytona.jpg" href="/luxury-watches/">
+                All
+Luxury Watches
+               </a>
+               <a class="navImageHover nav-arrow text-uppercase" data-src="/images/nav-thumbs/rolex-daytona.jpg" href="/accessories/">
+                Watch
+Accessories
+               </a>
+               <a class="navImageHover nav-arrow text-uppercase" data-src="/images/nav-thumbs/rolex-daytona.jpg" href="/auctions">
+                Auctions
+               </a>
+               <a class="navImageHover nav-arrow text-uppercase" data-src="/images/nav-thumbs/rolex-daytona.jpg" href="/collections/">
+                Shop
+By Collection
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </li>
+        <li>
+         <a href="/vintage-rolex-1.html">
+          Vintage Rolex
+         </a>
+        </li>
+        <li class="arrow-box">
+         <a href="/collections/">
+          More
+         </a>
+         <div class="subNavWrapper d-block d-xl-none pb-0 pb-xl-3">
+          <div class="container ms-0 ms-xl-auto">
+           <div class="row d-block d-xl-flex justify-content-center align-items-start">
+            <div class="d-none d-xl-block col-3">
+             <img alt="The Professional Gift Guide" class="m-3" height="200" loading="lazy" src="/images/nav-thumbs/the-professional-gift-guide.jpg" width="200"/>
+            </div>
+            <div class="col-12 col-xl-3">
+             <span class="d-none h4 d-xl-block p-3 m-0">
+              Rolex 101
+             </span>
+             <a href="/rolex-serial-numbers">
+              Rolex Serial Numbers
+             </a>
+             <a href="/used-rolex-prices">
+              Rolex Prices
+             </a>
+             <a href="/rolex-finance">
+              Rolex Financing
+             </a>
+             <a href="/rolex-models/">
+              Rolex Models
+             </a>
+             <a href="/how-to-videos">
+              How-to Videos
+             </a>
+             <a href="/about-rolex.html">
+              Rolex History
+             </a>
+            </div>
+            <div class="col-12 col-xl-3">
+             <span class="d-none h4 d-xl-block p-3 m-0">
+              Resources
+             </span>
+             <a href="/rolex-blog">
+              Blog
+             </a>
+             <a href="/watch-resources/">
+              Watch Resources
+             </a>
+             <a href="/faqs">
+              FAQs
+             </a>
+             <a href="/articles">
+              Articles
+             </a>
+             <a href="/gift-guide/">
+              Gift Guides
+             </a>
+            </div>
+            <div class="col-12 col-xl-3">
+             <span class="d-none h4 d-xl-block p-3 m-0">
+              About Bob's
+             </span>
+             <a href="/about-us">
+              About Us
+             </a>
+             <a href="/contact-us">
+              Contact Us
+             </a>
+             <a href="/usa">
+              Our Locations
+             </a>
+             <a href="/trade-in-trade-up">
+              Trade Program
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </li>
+        <li class="mobile-footer d-flex d-xl-none justify-content-between align-items-center pe-3">
+         <a class="text-decoration-none d-flex align-items-center justify-content-start" href="tel:8004943708">
+          <svg class="me-2" height="15" viewbox="0 0 1792 1792" width="15" xmlns="http://www.w3.org/2000/svg">
+           <path d="M1600 1240q0 27-10 70.5t-21 68.5q-21 50-122 106-94 51-186 51-27 0-53-3.5t-57.5-12.5-47-14.5-55.5-20.5-49-18q-98-35-175-83-127-79-264-216t-216-264q-48-77-83-175-3-9-18-49t-20.5-55.5-14.5-47-12.5-57.5-3.5-53q0-92 51-186 56-101 106-122 25-11 68.5-21t70.5-10q14 0 21 3 18 6 53 76 11 19 30 54t35 63.5 31 53.5q3 4 17.5 25t21.5 35.5 7 28.5q0 20-28.5 50t-62 55-62 53-28.5 46q0 9 5 22.5t8.5 20.5 14 24 11.5 19q76 137 174 235t235 174q2 1 19 11.5t24 14 20.5 8.5 22.5 5q18 0 46-28.5t53-62 55-62 50-28.5q14 0 28.5 7t35.5 21.5 25 17.5q25 15 53.5 31t63.5 35 54 30q70 35 76 53 3 7 3 21z">
+           </path>
+          </svg>
+          <span>
+           Call
+          </span>
+         </a>
+         <a class="text-decoration-none d-flex align-items-center justify-content-start" href="mailto:bwsales@bobswatches.com">
+          <svg class="me-2" height="15" viewbox="0 0 1792 1792" width="15" xmlns="http://www.w3.org/2000/svg">
+           <path d="M1664 1504v-768q-32 36-69 66-268 206-426 338-51 43-83 67t-86.5 48.5-102.5 24.5h-2q-48 0-102.5-24.5t-86.5-48.5-83-67q-158-132-426-338-37-30-69-66v768q0 13 9.5 22.5t22.5 9.5h1472q13 0 22.5-9.5t9.5-22.5zm0-1051v-24.5l-.5-13-3-12.5-5.5-9-9-7.5-14-2.5h-1472q-13 0-22.5 9.5t-9.5 22.5q0 168 147 284 193 152 401 317 6 5 35 29.5t46 37.5 44.5 31.5 50.5 27.5 43 9h2q20 0 43-9t50.5-27.5 44.5-31.5 46-37.5 35-29.5q208-165 401-317 54-43 100.5-115.5t46.5-131.5zm128-37v1088q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-1088q0-66 47-113t113-47h1472q66 0 113 47t47 113z">
+           </path>
+          </svg>
+          <span>
+           Email
+          </span>
+         </a>
+         <a class="text-decoration-none d-flex align-items-center justify-content-start" href="/verify_login?account_login=1">
+          <svg class="me-2" height="15" viewbox="0 0 1792 1792" width="15" xmlns="http://www.w3.org/2000/svg">
+           <title>
+            Account Sign In
+           </title>
+           <path d="M1536 1399q0 109-62.5 187t-150.5 78h-854q-88 0-150.5-78t-62.5-187q0-85 8.5-160.5t31.5-152 58.5-131 94-89 134.5-34.5q131 128 313 128t313-128q76 0 134.5 34.5t94 89 58.5 131 31.5 152 8.5 160.5zm-256-887q0 159-112.5 271.5t-271.5 112.5-271.5-112.5-112.5-271.5 112.5-271.5 271.5-112.5 271.5 112.5 112.5 271.5z">
+           </path>
+          </svg>
+          <span>
+           Sign In
+          </span>
+         </a>
+        </li>
+       </ul>
+      </nav>
+      <div class="topsearchWrap my-0 pb-2 pb-xl-0 ms-xl-1 d-block position-relative">
+       <form action="/shop" class="topsearch ng-scope ng-pristine ng-valid" method="get" name="search" ss-nav="">
+        <label class="sr-only" for="headerSearchToolbarInputText">
+         Search:
+        </label>
+        <input autocomplete="off" class="topsearchinput searchspring-ac py-2 px-3 ng-scope" id="headerSearchToolbarInputText" name="query" ng-non-bindable="" placeholder="Search..." spellcheck="false" ss-nav-input="" title="Enter Search Term Here" type="text" value=""/>
+        <!-- ngIf: ac.ready -->
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</header>
+<main>
+ <div class="">
+  <div class="category-header">
+   <div class="category-image cms-cover-image d-flex align-items-center position-relative" style="background-image:url(https://www.bobswatches.com/images/z197-category-banner-EXPLORERII-V7.jpg)">
+    <div class="container-fluid pt-4 pb-2 pageWidth">
+     <div class="row">
+      <div class="col-12">
+       <div class="seocart_Category_header_text">
+        <h1>
+         White Rolex Explorer II 16570 Watches
+        </h1>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="category-details">
+   <div class="container-fluid pageWidth">
+    <div class="itemCatalog d-block d-xl-flex justify-content-between pt-0 pt-xl-3">
+     <div class="me-0 me-xl-4" id="facetNav">
+      <div class="ss-targeted" id="searchspring-sidebar">
+       <!-- ngIf: pagination.totalResults -->
+       <div class="ss-slideout-toolbar ng-scope" ng-if="pagination.totalResults">
+        <em class="facetMobile" ng-hide="facets.length === 0 &amp;&amp; filterSummary.length === 0">
+         <img alt="filter icon" class="noRespFix" height="16" src="/images/managed/filter.svg" width="17"/>
+         Filter Options
+        </em>
+       </div>
+       <!-- end ngIf: pagination.totalResults -->
+       <aside class="ss-sidebar-container ng-scope">
+        <div class="ss-targeted" id="searchspring-total-results-title">
+         <!-- ngIf: pagination.totalResults -->
+         <div class="productTotal ss-total-results-title ng-scope" ng-if="pagination.totalResults">
+          <span class="ss-results-count-total ng-binding">
+           <strong class="ng-binding">
+            4
+           </strong>
+           products
+          </span>
+          <!-- ngIf: sellWatch -->
+          <a class="sell-watch-text-link ss-total-sell-watch ng-binding ng-scope" href="/sell-Rolex-watch" ng-if="sellWatch" ss-ps="">
+           Sell My Rolex
+          </a>
+          <!-- end ngIf: sellWatch -->
+          <!---product{{ pagination.totalResults == 1 ? '' : 's' }} found--->
+         </div>
+         <!-- end ngIf: pagination.totalResults -->
+        </div>
+        <!-- ngIf: facets.length === 0 -->
+        <!-- ngIf: facets.length -->
+        <div class="ss-facets facetMobileFilter ss-targeted ng-scope" ng-if="facets.length">
+         <div class="ss-slideout-header">
+          <div class="ss-filter-header">
+           <img alt="Close" aria-hidden="true" class="facetMobileClose noRespFix" height="14" src="/images/managed/close.svg" width="15"/>
+           <h4 class="ss-title">
+            Filters
+           </h4>
+          </div>
+          <div class="ss-facetMobile-summary">
+           <div class="ss-summary ss-targeted">
+            <ul class="selected-facets">
+             <!-- ngIf: filterSummary.length > 1 -->
+             <li class="clearAll unbxd-selected-facet-holder ng-scope" ng-if="filterSummary.length &gt; 1">
+              <a href="https://www.bobswatches.com/rolex-explorer-ii-1.html" ss-ps="">
+               Clear All Filters
+               <span class="close">
+                <svg fill="#757575" height="1792" viewbox="0 0 1792 1792" width="1792" xmlns="http://www.w3.org/2000/svg">
+                 <path d="M1277 1122q0-26-19-45l-181-181 181-181q19-19 19-45 0-27-19-46l-90-90q-19-19-46-19-26 0-45 19l-181 181-181-181q-19-19-45-19-27 0-46 19l-90 90q-19 19-19 46 0 26 19 45l181 181-181 181q-19 19-19 45 0 27 19 46l90 90q19 19 46 19 26 0 45-19l181-181 181 181q19 19 45 19 27 0 46-19l90-90q19-19 19-46zm387-226q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z">
+                 </path>
+                </svg>
+               </span>
+              </a>
+             </li>
+             <!-- end ngIf: filterSummary.length > 1 -->
+             <!-- ngRepeat: filter in filterSummary track by $index -->
+             <li class="unbxd-selected-facet-holder ng-scope" ng-repeat="filter in filterSummary track by $index">
+              <a class="unbxd-selected-facet" href="https://www.bobswatches.com/rolex/explorer_ii-white#/filter:custom_field_9:White" ss-ps="">
+               <span class="ss-summary-value ng-binding">
+                16570
+               </span>
+               <span class="close">
+                <svg fill="#757575" height="1792" viewbox="0 0 1792 1792" width="1792" xmlns="http://www.w3.org/2000/svg">
+                 <path d="M1277 1122q0-26-19-45l-181-181 181-181q19-19 19-45 0-27-19-46l-90-90q-19-19-46-19-26 0-45 19l-181 181-181-181q-19-19-45-19-27 0-46 19l-90 90q-19 19-19 46 0 26 19 45l181 181-181 181q-19 19-19 45 0 27 19 46l90 90q19 19 46 19 26 0 45-19l181-181 181 181q19 19 45 19 27 0 46-19l90-90q19-19 19-46zm387-226q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z">
+                 </path>
+                </svg>
+               </span>
+              </a>
+             </li>
+             <!-- end ngRepeat: filter in filterSummary track by $index -->
+             <li class="unbxd-selected-facet-holder ng-scope" ng-repeat="filter in filterSummary track by $index">
+              <a class="unbxd-selected-facet" href="https://www.bobswatches.com/rolex/explorer_ii-16570#/filter:custom_field_4:16570" ss-ps="">
+               <span class="ss-summary-value ng-binding">
+                White
+               </span>
+               <span class="close">
+                <svg fill="#757575" height="1792" viewbox="0 0 1792 1792" width="1792" xmlns="http://www.w3.org/2000/svg">
+                 <path d="M1277 1122q0-26-19-45l-181-181 181-181q19-19 19-45 0-27-19-46l-90-90q-19-19-46-19-26 0-45 19l-181 181-181-181q-19-19-45-19-27 0-46 19l-90 90q-19 19-19 46 0 26 19 45l181 181-181 181q-19 19-19 45 0 27 19 46l90 90q19 19 46 19 26 0 45-19l181-181 181 181q19 19 45 19 27 0 46-19l90-90q19-19 19-46zm387-226q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z">
+                 </path>
+                </svg>
+               </span>
+              </a>
+             </li>
+             <!-- end ngRepeat: filter in filterSummary track by $index -->
+            </ul>
+           </div>
+          </div>
+         </div>
+         <!-- ngIf: altCategory -->
+         <div class="widget search">
+          <!-- ngIf: pagination.totalResults -->
+          <form class="ng-scope ng-pristine ng-valid" id="searchspring-refine_search" ng-if="pagination.totalResults" ng-submit="location().remove('page').remove('rq').add('rq', query.rq).go()">
+           <input aria-label="Search Within Results" autocomplete="off" class="inputText ng-pristine ng-valid" id="searchspring-refine_query" name="rq" ng-model="query.rq" placeholder="Search Within Results" type="text"/>
+           <input alt="search icon" class="inputSubmit" name="submit" src="/images/managed/search.svg" title="submit search" type="image"/>
+          </form>
+          <!-- end ngIf: pagination.totalResults -->
+         </div>
+         <!-- Added so the generated 'Compare Watches' button is injected here -->
+         <div class="ss-compare-cont">
+          <div class="compare-select-toggle">
+           <a class="btn">
+            Compare
+            <span>
+             Watches
+            </span>
+           </a>
+          </div>
+         </div>
+         <!-- ngRepeat: facet in facets track by $index -->
+         <article class="ss-facet-container ss-facet-container-grid widget showAll" id="ss-price" ng-class="{'showAll': !facet.collapse, '': facet.collapse}" ng-repeat="facet in facets track by $index" ng-switch="facet.type">
+          <div class="ss-facet-options">
+           <ul>
+            <li>
+             <strong class="ng-binding" ng-click="facet.collapse = !facet.collapse">
+              Price
+              <!-- ngIf: facet.collapse -->
+              <!-- ngIf: !facet.collapse -->
+              <svg class="ng-scope" height="1792" ng-if="!facet.collapse" viewbox="0 0 1792 1792" width="1792" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1395 1184q0 13-10 23l-50 50q-10 10-23 10t-23-10l-393-393-393 393q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l466 466q10 10 10 23z">
+               </path>
+              </svg>
+              <!-- end ngIf: !facet.collapse -->
+             </strong>
+             <!-- ngSwitchWhen: hierarchy -->
+             <!-- ngSwitchDefault:  -->
+             <ul class="ss-list ss-scrollbar ng-scope" ng-switch-default="">
+              <!-- ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+              <li class="ss-list-option ng-scope" ng-repeat="value in facet.values | limitTo:facet.overflow.limit track by $index">
+               <a class="closeFacet" href="https://www.bobswatches.com/rolex/explorer_ii-16570-white#/filter:custom_field_4:16570/filter:custom_field_9:White/filter:price:7000:10000" ng-class="{'seocart_NavigationCurrent': value.active}" ss-ps="">
+                <!-- ngIf: value.active -->
+                <span class="html ng-binding">
+                 $7,000 to $10,000
+                </span>
+                <span class="ss-facet-count count ng-binding">
+                 (3)
+                </span>
+               </a>
+              </li>
+              <!-- end ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+              <li class="ss-list-option ng-scope" ng-repeat="value in facet.values | limitTo:facet.overflow.limit track by $index">
+               <a class="closeFacet" href="https://www.bobswatches.com/rolex/explorer_ii-16570-white#/filter:custom_field_4:16570/filter:custom_field_9:White/filter:price:10000:15000" ng-class="{'seocart_NavigationCurrent': value.active}" ss-ps="">
+                <!-- ngIf: value.active -->
+                <span class="html ng-binding">
+                 $10,000 to $15,000
+                </span>
+                <span class="ss-facet-count count ng-binding">
+                 (1)
+                </span>
+               </a>
+              </li>
+              <!-- end ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+             </ul>
+             <!-- ngSwitchWhen: palette -->
+            </li>
+            <!-- ngIf: facet.overflow.set(facet.limitCount).count -->
+           </ul>
+          </div>
+         </article>
+         <!-- end ngRepeat: facet in facets track by $index -->
+         <article class="ss-facet-container ss-facet-container-list widget showAll" id="ss-custom_field_4" ng-class="{'showAll': !facet.collapse, '': facet.collapse}" ng-repeat="facet in facets track by $index" ng-switch="facet.type">
+          <div class="ss-facet-options">
+           <ul>
+            <li>
+             <strong class="ng-binding" ng-click="facet.collapse = !facet.collapse">
+              Model Number
+              <!-- ngIf: facet.collapse -->
+              <!-- ngIf: !facet.collapse -->
+              <svg class="ng-scope" height="1792" ng-if="!facet.collapse" viewbox="0 0 1792 1792" width="1792" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1395 1184q0 13-10 23l-50 50q-10 10-23 10t-23-10l-393-393-393 393q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l466 466q10 10 10 23z">
+               </path>
+              </svg>
+              <!-- end ngIf: !facet.collapse -->
+             </strong>
+             <!-- ngSwitchWhen: hierarchy -->
+             <!-- ngSwitchDefault:  -->
+             <ul class="ss-list ss-scrollbar ng-scope" ng-switch-default="">
+              <!-- ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+              <li class="ss-list-option ng-scope" ng-repeat="value in facet.values | limitTo:facet.overflow.limit track by $index">
+               <a class="closeFacet seocart_NavigationCurrent" href="https://www.bobswatches.com/rolex/explorer_ii-white#/filter:custom_field_9:White" ng-class="{'seocart_NavigationCurrent': value.active}" ss-ps="">
+                <!-- ngIf: value.active -->
+                <svg class="ng-scope" fill="none" height="11" ng-if="value.active" viewbox="0 0 15 11" width="15" xmlns="http://www.w3.org/2000/svg">
+                 <path d="M1 5.5L5 9.5L13.5 1" stroke="white" stroke-width="1.6">
+                 </path>
+                </svg>
+                <!-- end ngIf: value.active -->
+                <span class="html ng-binding">
+                 16570
+                </span>
+                <span class="ss-facet-count count ng-binding">
+                 (4)
+                </span>
+               </a>
+              </li>
+              <!-- end ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+              <li class="ss-list-option ng-scope" ng-repeat="value in facet.values | limitTo:facet.overflow.limit track by $index">
+               <a class="closeFacet" href="https://www.bobswatches.com/rolex/explorer_ii-16570-white#/filter:custom_field_4:16570/filter:custom_field_9:White/filter:custom_field_4:216570" ng-class="{'seocart_NavigationCurrent': value.active}" ss-ps="">
+                <!-- ngIf: value.active -->
+                <span class="html ng-binding">
+                 216570
+                </span>
+                <span class="ss-facet-count count ng-binding">
+                 (2)
+                </span>
+               </a>
+              </li>
+              <!-- end ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+              <li class="ss-list-option ng-scope" ng-repeat="value in facet.values | limitTo:facet.overflow.limit track by $index">
+               <a class="closeFacet" href="https://www.bobswatches.com/rolex/explorer_ii-16570-white#/filter:custom_field_4:16570/filter:custom_field_9:White/filter:custom_field_4:226570" ng-class="{'seocart_NavigationCurrent': value.active}" ss-ps="">
+                <!-- ngIf: value.active -->
+                <span class="html ng-binding">
+                 226570
+                </span>
+                <span class="ss-facet-count count ng-binding">
+                 (1)
+                </span>
+               </a>
+              </li>
+              <!-- end ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+             </ul>
+             <!-- ngSwitchWhen: palette -->
+            </li>
+            <!-- ngIf: facet.overflow.set(facet.limitCount).count -->
+           </ul>
+          </div>
+         </article>
+         <!-- end ngRepeat: facet in facets track by $index -->
+         <article class="ss-facet-container ss-facet-container-palette widget showAll" id="ss-custom_field_9" ng-class="{'showAll': !facet.collapse, '': facet.collapse}" ng-repeat="facet in facets track by $index" ng-switch="facet.type">
+          <div class="ss-facet-options">
+           <ul>
+            <li>
+             <strong class="ng-binding" ng-click="facet.collapse = !facet.collapse">
+              Dial Color
+              <!-- ngIf: facet.collapse -->
+              <!-- ngIf: !facet.collapse -->
+              <svg class="ng-scope" height="1792" ng-if="!facet.collapse" viewbox="0 0 1792 1792" width="1792" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1395 1184q0 13-10 23l-50 50q-10 10-23 10t-23-10l-393-393-393 393q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l466 466q10 10 10 23z">
+               </path>
+              </svg>
+              <!-- end ngIf: !facet.collapse -->
+             </strong>
+             <!-- ngSwitchWhen: hierarchy -->
+             <!-- ngSwitchDefault:  -->
+             <!-- ngSwitchWhen: palette -->
+             <ul class="ss-list ng-scope" ng-class="{'ss-scrollbar': facet.overflow.remaining != facet.overflow.count}" ng-switch-when="palette">
+              <!-- ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+              <li class="ss-list-option ng-scope" ng-repeat="value in facet.values | limitTo:facet.overflow.limit track by $index">
+               <a class="hasFilterColor closeFacet" href="https://www.bobswatches.com/rolex/explorer_ii-16570-white#/filter:custom_field_4:16570/filter:custom_field_9:White/filter:custom_field_9:Black" ng-class="{'seocart_NavigationCurrent': value.active}" ss-ps="">
+                <div class="filterColor ss-palette-color-black">
+                </div>
+                <!-- ngIf: value.active -->
+                <span class="html ng-binding">
+                 Black
+                 <!-- ngIf: selectedModel.length -->
+                </span>
+                <span class="ss-facet-count count ng-binding">
+                 (4)
+                </span>
+               </a>
+              </li>
+              <!-- end ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+              <li class="ss-list-option ng-scope" ng-repeat="value in facet.values | limitTo:facet.overflow.limit track by $index">
+               <a class="hasFilterColor closeFacet seocart_NavigationCurrent" href="https://www.bobswatches.com/rolex/explorer_ii-16570#/filter:custom_field_4:16570" ng-class="{'seocart_NavigationCurrent': value.active}" ss-ps="">
+                <div class="filterColor ss-palette-color-white">
+                </div>
+                <!-- ngIf: value.active -->
+                <svg class="ng-scope" fill="none" height="11" ng-if="value.active" viewbox="0 0 15 11" width="15" xmlns="http://www.w3.org/2000/svg">
+                 <path d="M1 5.5L5 9.5L13.5 1" stroke="white" stroke-width="1.6">
+                 </path>
+                </svg>
+                <!-- end ngIf: value.active -->
+                <span class="html ng-binding">
+                 White
+                 <!-- ngIf: selectedModel.length -->
+                </span>
+                <span class="ss-facet-count count ng-binding">
+                 (4)
+                </span>
+               </a>
+              </li>
+              <!-- end ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+             </ul>
+            </li>
+            <!-- ngIf: facet.overflow.set(facet.limitCount).count -->
+           </ul>
+          </div>
+         </article>
+         <!-- end ngRepeat: facet in facets track by $index -->
+         <article class="ss-facet-container ss-facet-container-list widget showAll" id="ss-custom_field_17" ng-class="{'showAll': !facet.collapse, '': facet.collapse}" ng-repeat="facet in facets track by $index" ng-switch="facet.type">
+          <div class="ss-facet-options">
+           <ul>
+            <li>
+             <strong class="ng-binding" ng-click="facet.collapse = !facet.collapse">
+              Age
+              <!-- ngIf: facet.collapse -->
+              <!-- ngIf: !facet.collapse -->
+              <svg class="ng-scope" height="1792" ng-if="!facet.collapse" viewbox="0 0 1792 1792" width="1792" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1395 1184q0 13-10 23l-50 50q-10 10-23 10t-23-10l-393-393-393 393q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l466 466q10 10 10 23z">
+               </path>
+              </svg>
+              <!-- end ngIf: !facet.collapse -->
+             </strong>
+             <!-- ngSwitchWhen: hierarchy -->
+             <!-- ngSwitchDefault:  -->
+             <ul class="ss-list ss-scrollbar ng-scope" ng-switch-default="">
+              <!-- ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+              <li class="ss-list-option ng-scope" ng-repeat="value in facet.values | limitTo:facet.overflow.limit track by $index">
+               <a class="closeFacet" href="https://www.bobswatches.com/rolex/explorer_ii-16570-white#/filter:custom_field_4:16570/filter:custom_field_9:White/filter:custom_field_17:1990s" ng-class="{'seocart_NavigationCurrent': value.active}" ss-ps="">
+                <!-- ngIf: value.active -->
+                <span class="html ng-binding">
+                 1990s
+                </span>
+                <span class="ss-facet-count count ng-binding">
+                 (3)
+                </span>
+               </a>
+              </li>
+              <!-- end ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+              <li class="ss-list-option ng-scope" ng-repeat="value in facet.values | limitTo:facet.overflow.limit track by $index">
+               <a class="closeFacet" href="https://www.bobswatches.com/rolex/explorer_ii-16570-white#/filter:custom_field_4:16570/filter:custom_field_9:White/filter:custom_field_17:2000s" ng-class="{'seocart_NavigationCurrent': value.active}" ss-ps="">
+                <!-- ngIf: value.active -->
+                <span class="html ng-binding">
+                 2000s
+                </span>
+                <span class="ss-facet-count count ng-binding">
+                 (1)
+                </span>
+               </a>
+              </li>
+              <!-- end ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+             </ul>
+             <!-- ngSwitchWhen: palette -->
+            </li>
+            <!-- ngIf: facet.overflow.set(facet.limitCount).count -->
+           </ul>
+          </div>
+         </article>
+         <!-- end ngRepeat: facet in facets track by $index -->
+         <article class="ss-facet-container ss-facet-container-list widget showAll" id="ss-custom_field_18" ng-class="{'showAll': !facet.collapse, '': facet.collapse}" ng-repeat="facet in facets track by $index" ng-switch="facet.type">
+          <div class="ss-facet-options">
+           <ul>
+            <li>
+             <strong class="ng-binding" ng-click="facet.collapse = !facet.collapse">
+              Box &amp; Papers
+              <!-- ngIf: facet.collapse -->
+              <!-- ngIf: !facet.collapse -->
+              <svg class="ng-scope" height="1792" ng-if="!facet.collapse" viewbox="0 0 1792 1792" width="1792" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1395 1184q0 13-10 23l-50 50q-10 10-23 10t-23-10l-393-393-393 393q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l466 466q10 10 10 23z">
+               </path>
+              </svg>
+              <!-- end ngIf: !facet.collapse -->
+             </strong>
+             <!-- ngSwitchWhen: hierarchy -->
+             <!-- ngSwitchDefault:  -->
+             <ul class="ss-list ss-scrollbar ng-scope" ng-switch-default="">
+              <!-- ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+              <li class="ss-list-option ng-scope" ng-repeat="value in facet.values | limitTo:facet.overflow.limit track by $index">
+               <a class="closeFacet" href="https://www.bobswatches.com/rolex/explorer_ii-16570-white#/filter:custom_field_4:16570/filter:custom_field_9:White/filter:custom_field_18:No$2520Box$2520or$2520Papers" ng-class="{'seocart_NavigationCurrent': value.active}" ss-ps="">
+                <!-- ngIf: value.active -->
+                <span class="html ng-binding">
+                 No Box or Papers
+                </span>
+                <span class="ss-facet-count count ng-binding">
+                 (2)
+                </span>
+               </a>
+              </li>
+              <!-- end ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+              <li class="ss-list-option ng-scope" ng-repeat="value in facet.values | limitTo:facet.overflow.limit track by $index">
+               <a class="closeFacet" href="https://www.bobswatches.com/rolex/explorer_ii-16570-white#/filter:custom_field_4:16570/filter:custom_field_9:White/filter:custom_field_18:Box$2520Only" ng-class="{'seocart_NavigationCurrent': value.active}" ss-ps="">
+                <!-- ngIf: value.active -->
+                <span class="html ng-binding">
+                 Box Only
+                </span>
+                <span class="ss-facet-count count ng-binding">
+                 (1)
+                </span>
+               </a>
+              </li>
+              <!-- end ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+              <li class="ss-list-option ng-scope" ng-repeat="value in facet.values | limitTo:facet.overflow.limit track by $index">
+               <a class="closeFacet" href="https://www.bobswatches.com/rolex/explorer_ii-16570-white#/filter:custom_field_4:16570/filter:custom_field_9:White/filter:custom_field_18:Box$2520and$2520Papers" ng-class="{'seocart_NavigationCurrent': value.active}" ss-ps="">
+                <!-- ngIf: value.active -->
+                <span class="html ng-binding">
+                 Box and Papers
+                </span>
+                <span class="ss-facet-count count ng-binding">
+                 (1)
+                </span>
+               </a>
+              </li>
+              <!-- end ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+             </ul>
+             <!-- ngSwitchWhen: palette -->
+            </li>
+            <!-- ngIf: facet.overflow.set(facet.limitCount).count -->
+           </ul>
+          </div>
+         </article>
+         <!-- end ngRepeat: facet in facets track by $index -->
+         <article class="ss-facet-container ss-facet-container-list widget showAll" id="ss-custom_field_20" ng-class="{'showAll': !facet.collapse, '': facet.collapse}" ng-repeat="facet in facets track by $index" ng-switch="facet.type">
+          <div class="ss-facet-options">
+           <ul>
+            <li>
+             <strong class="ng-binding" ng-click="facet.collapse = !facet.collapse">
+              Hour Markers
+              <!-- ngIf: facet.collapse -->
+              <!-- ngIf: !facet.collapse -->
+              <svg class="ng-scope" height="1792" ng-if="!facet.collapse" viewbox="0 0 1792 1792" width="1792" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1395 1184q0 13-10 23l-50 50q-10 10-23 10t-23-10l-393-393-393 393q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l466 466q10 10 10 23z">
+               </path>
+              </svg>
+              <!-- end ngIf: !facet.collapse -->
+             </strong>
+             <!-- ngSwitchWhen: hierarchy -->
+             <!-- ngSwitchDefault:  -->
+             <ul class="ss-list ss-scrollbar ng-scope" ng-switch-default="">
+              <!-- ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+              <li class="ss-list-option ng-scope" ng-repeat="value in facet.values | limitTo:facet.overflow.limit track by $index">
+               <a class="closeFacet" href="https://www.bobswatches.com/rolex/explorer_ii-16570-white#/filter:custom_field_4:16570/filter:custom_field_9:White/filter:custom_field_20:Luminous" ng-class="{'seocart_NavigationCurrent': value.active}" ss-ps="">
+                <!-- ngIf: value.active -->
+                <span class="html ng-binding">
+                 Luminous
+                </span>
+                <span class="ss-facet-count count ng-binding">
+                 (3)
+                </span>
+               </a>
+              </li>
+              <!-- end ngRepeat: value in facet.values | limitTo:facet.overflow.limit track by $index -->
+             </ul>
+             <!-- ngSwitchWhen: palette -->
+            </li>
+            <!-- ngIf: facet.overflow.set(facet.limitCount).count -->
+           </ul>
+          </div>
+         </article>
+         <!-- end ngRepeat: facet in facets track by $index -->
+         <div class="ss-filter-buttons">
+          <!-- ngIf: filterSummary.length > 1 -->
+          <div class="clearAll ng-scope" ng-if="filterSummary.length &gt; 1">
+           <a href="https://www.bobswatches.com/rolex-explorer-ii-1.html" ss-ps="">
+            <span class="close">
+             <i aria-hidden="true" class="fa fa-times">
+             </i>
+            </span>
+            Clear All Filters
+           </a>
+          </div>
+          <!-- end ngIf: filterSummary.length > 1 -->
+         </div>
+         <!-- ngIf: merchandising.content.left.length > 0 -->
+        </div>
+        <!-- end ngIf: facets.length -->
+        <!-- ngIf: facets.length === 0 && context.category -->
+       </aside>
+      </div>
+      <div class="row">
+       <div class="col-12">
+        <div class="ss-targeted" id="searchspring-total-results-title">
+         <!-- ngIf: pagination.totalResults -->
+         <div class="productTotal ss-total-results-title ng-scope" ng-if="pagination.totalResults">
+          <span class="ss-results-count-total ng-binding">
+           <strong class="ng-binding">
+            4
+           </strong>
+           products
+          </span>
+          <!-- ngIf: sellWatch -->
+          <a class="sell-watch-text-link ss-total-sell-watch ng-binding ng-scope" href="/sell-Rolex-watch" ng-if="sellWatch" ss-ps="">
+           Sell My Rolex
+          </a>
+          <!-- end ngIf: sellWatch -->
+          <!---product{{ pagination.totalResults == 1 ? '' : 's' }} found--->
+         </div>
+         <!-- end ngIf: pagination.totalResults -->
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="itemResults w-100 ms-0 ms-xl-3">
+      <div class="ss-targeted" id="searchspring-content">
+       <div class="ss-content-container ng-scope ss-filter-summary" ng-class="{'ss-filter-summary' : filterSummary.length}">
+        <header class="ss-header-container">
+         <!-- ngIf: merchandising.content.header.length > 0 -->
+        </header>
+        <!-- ngIf: originalQuery -->
+        <!-- ngIf: didYouMean.query.length -->
+        <div class="ss-summary-toolbar" ng-class="{'ss-toolbar-only': filterSummary.length == 0}">
+         <!-- ngIf: filterSummary.length -->
+         <div class="ss-summary facetNavigation_CurrentFilter ss-targeted ng-scope" ng-if="filterSummary.length">
+          <ul class="selected-facets">
+           <!-- ngIf: filterSummary.length > 1 -->
+           <li class="clearAll unbxd-selected-facet-holder ng-scope" ng-if="filterSummary.length &gt; 1">
+            <a href="https://www.bobswatches.com/rolex-explorer-ii-1.html" ss-ps="">
+             Clear All Filters
+             <span class="close">
+              <svg fill="#757575" height="1792" viewbox="0 0 1792 1792" width="1792" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1277 1122q0-26-19-45l-181-181 181-181q19-19 19-45 0-27-19-46l-90-90q-19-19-46-19-26 0-45 19l-181 181-181-181q-19-19-45-19-27 0-46 19l-90 90q-19 19-19 46 0 26 19 45l181 181-181 181q-19 19-19 45 0 27 19 46l90 90q19 19 46 19 26 0 45-19l181-181 181 181q19 19 45 19 27 0 46-19l90-90q19-19 19-46zm387-226q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z">
+               </path>
+              </svg>
+             </span>
+            </a>
+           </li>
+           <!-- end ngIf: filterSummary.length > 1 -->
+           <!-- ngRepeat: filter in filterSummary track by $index -->
+           <li class="unbxd-selected-facet-holder ng-scope" ng-repeat="filter in filterSummary track by $index">
+            <a class="unbxd-selected-facet" href="https://www.bobswatches.com/rolex/explorer_ii-white#/filter:custom_field_9:White" ss-ps="">
+             <span class="ss-summary-value ng-binding">
+              16570
+             </span>
+             <span class="close">
+              <svg fill="#757575" height="1792" viewbox="0 0 1792 1792" width="1792" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1277 1122q0-26-19-45l-181-181 181-181q19-19 19-45 0-27-19-46l-90-90q-19-19-46-19-26 0-45 19l-181 181-181-181q-19-19-45-19-27 0-46 19l-90 90q-19 19-19 46 0 26 19 45l181 181-181 181q-19 19-19 45 0 27 19 46l90 90q19 19 46 19 26 0 45-19l181-181 181 181q19 19 45 19 27 0 46-19l90-90q19-19 19-46zm387-226q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z">
+               </path>
+              </svg>
+             </span>
+            </a>
+           </li>
+           <!-- end ngRepeat: filter in filterSummary track by $index -->
+           <li class="unbxd-selected-facet-holder ng-scope" ng-repeat="filter in filterSummary track by $index">
+            <a class="unbxd-selected-facet" href="https://www.bobswatches.com/rolex/explorer_ii-16570#/filter:custom_field_4:16570" ss-ps="">
+             <span class="ss-summary-value ng-binding">
+              White
+             </span>
+             <span class="close">
+              <svg fill="#757575" height="1792" viewbox="0 0 1792 1792" width="1792" xmlns="http://www.w3.org/2000/svg">
+               <path d="M1277 1122q0-26-19-45l-181-181 181-181q19-19 19-45 0-27-19-46l-90-90q-19-19-46-19-26 0-45 19l-181 181-181-181q-19-19-45-19-27 0-46 19l-90 90q-19 19-19 46 0 26 19 45l181 181-181 181q-19 19-19 45 0 27 19 46l90 90q19 19 46 19 26 0 45-19l181-181 181 181q19 19 45 19 27 0 46-19l90-90q19-19 19-46zm387-226q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z">
+               </path>
+              </svg>
+             </span>
+            </a>
+           </li>
+           <!-- end ngRepeat: filter in filterSummary track by $index -->
+          </ul>
+         </div>
+         <!-- end ngIf: filterSummary.length -->
+         <!-- ngIf: pagination.totalResults -->
+         <div class="ss-toolbar ss-toolbar-top search-sort-view ss-targeted ng-scope" ng-class="{'ss-no-summary': filterSummary.length == 0}" ng-if="pagination.totalResults">
+          <form class="ng-pristine ng-valid">
+           <!-- ngIf: sellWatch -->
+           <a class="sell-watch-text-link ss-toolbar-sell-watch ng-binding ng-scope" href="/sell-Rolex-watch" ng-if="sellWatch" ss-ps="">
+            Sell My Rolex
+           </a>
+           <!-- end ngIf: sellWatch -->
+           <div class="search-sort-option per-page">
+            <strong>
+             Per Page:
+            </strong>
+            <select class="ng-pristine ng-valid" ng-model="pagination.perPage" ng-options="n for n in [30, 60, 90]">
+             <option label="30" selected="selected" value="0">
+              30
+             </option>
+             <option label="60" value="1">
+              60
+             </option>
+             <option label="90" value="2">
+              90
+             </option>
+            </select>
+           </div>
+           <div class="search-sort-option sort-by">
+            <strong>
+             Sort:
+            </strong>
+            <select class="ng-pristine ng-valid" ng-model="sorting.current" ng-options="option.label for option in sorting.options">
+             <option label="Featured " selected="selected" value="0">
+              Featured
+             </option>
+             <option label="Newest to Oldest" value="1">
+              Newest to Oldest
+             </option>
+             <option label="Price - High to Low" value="2">
+              Price - High to Low
+             </option>
+             <option label="Price - Low to High" value="3">
+              Price - Low to High
+             </option>
+            </select>
+           </div>
+          </form>
+         </div>
+         <!-- end ngIf: pagination.totalResults -->
+        </div>
+        <!-- ngIf: pagination.totalResults -->
+        <div class="ss-results ss-targeted ng-scope" ng-if="pagination.totalResults">
+         <!-- ngIf: merchandising.content.banner.length > 0 -->
+         <div class="ss-item-container seocart_Category_wrapper ss-targeted">
+          <!-- ngRepeat: result in results track by result.uid -->
+          <div class="itemWrapper ng-scope" ng-repeat="result in results track by result.uid">
+           <div class="item item-uid-411980" itemscope="" itemtype="http://schema.org/Product">
+            <form action="//www.bobswatches.com/cart" class="ng-pristine ng-valid" method="post">
+             <a href="/rolex-explorer-ii-16570-white-dial-watch.html" intellisuggest="" itemprop="url" ss-ps="">
+              <meta content="411980" itemprop="productID"/>
+              <meta content="153244" itemprop="sku"/>
+              <meta content="16570" itemprop="mpn"/>
+              <meta content="Rolex" itemprop="brand"/>
+              <meta content="/rolex-explorer-ii-16570-white-dial-watch.html" itemprop="url"/>
+              <meta content="Rolex Explorer II 16570 White Dial Watch" itemprop="description"/>
+              <input autocomplete="off" name="id" type="hidden" value="411980"/>
+              <input autocomplete="off" name="quantity" type="hidden" value="1"/>
+              <div class="itemimage" id="item-image-411980">
+               <!-- <img itemprop="image" ng-src="{{ result.thumbnailImageUrl }}" loading="lazy" width="142" height="300"	                        alt="{{ result.name }}" title="{{ result.name }}" class="loaded respFix"	                        style="max-width: 142px;"> -->
+               <div class="seocart_WishListButtonWrapper position-absolute">
+                <button class="wishlist" data-a="wishlist" data-pid="411980" data-product-name="Rolex Explorer II 16570 White Dial Watch" data-sa="a" name="addToWishlist" ng-click="dataLayer.push({'event': 'Wishlist','product': 'Rolex Explorer II 16570 White Dial Watch'});" value="Wish List">
+                </button>
+               </div>
+               <img alt="Rolex Explorer II 16570 White Dial Watch" class="loaded respFix" height="300" itemprop="image" loading="lazy" ng-src="//www.bobswatches.com/images/Rolex-Explorer-II-16570-153244.png" onerror="this.src='//cdn.searchspring.net/ajax_search/img/default_image.png';" src="//www.bobswatches.com/images/Rolex-Explorer-II-16570-153244.png" style="max-width: 142px;" title="Rolex Explorer II 16570 White Dial Watch" width="142"/>
+              </div>
+              <p class="productTitle">
+               <span class="ng-binding" itemprop="name">
+                <span class="ng-binding">
+                 Rolex Explorer II
+                </span>
+                16570
+                <br/>
+                Pre-Owned White Polar Dial
+                <br/>
+                40MM Stainless Steel, B&amp;P (2009)
+               </span>
+              </p>
+              <ul class="itemprice">
+               <!-- ngIf: result.availability != 'out of stock' -->
+               <li class="buyprice buyit" itemprop="offers" itemscope="" itemtype="//schema.org/Offer" ng-if="result.availability != 'out of stock' ">
+                <span content="USD" itemprop="priceCurrency">
+                 $
+                </span>
+                <span class="ng-binding" content="10995" itemprop="price">
+                 10,995
+                </span>
+                <span class="buttonBuy">
+                 Buy
+                </span>
+                <link href="//schema.org/InStock" itemprop="availability"/>
+                <meta content="2024-01-20" itemprop="priceValidUntil"/>
+               </li>
+               <!-- end ngIf: result.availability != 'out of stock' -->
+               <!-- ngIf: result.availability == 'out of stock' -->
+               <!-- ngIf: result.wholesale_price != '0.02' && activeCategory != 'Rolex' -->
+               <li class="sellprice ng-binding ng-scope" ng-if="result.wholesale_price != '0.02' &amp;&amp; activeCategory != 'Rolex' ">
+                Get Quote
+                <span class="buttonSell" intellisuggest="" ng-click="goTo(result, $event)">
+                 Sell
+                </span>
+               </li>
+               <!-- end ngIf: result.wholesale_price != '0.02' && activeCategory != 'Rolex' -->
+              </ul>
+              <script type="application/ld+json">
+               {"@context":"http://schema.org","@type":"ImageObject","author":"Bob's Watches","contentLocation":"Newport Beach, California","datePublished":"2023-01-18 16:32:08","description":"Buy a certified pre-owned Rolex Explorer II 16570 Stainless Steel sku 153244 White watch from our luxury collection. Save up to 50% on all used watches at Bob's Watches.","name":"Rolex Explorer II 16570 White Dial Watch"}
+              </script>
+             </a>
+            </form>
+            <div class="clearBoth">
+            </div>
+           </div>
+          </div>
+          <!-- end ngRepeat: result in results track by result.uid -->
+          <div class="itemWrapper ng-scope" ng-repeat="result in results track by result.uid">
+           <div class="item item-uid-414108" itemscope="" itemtype="http://schema.org/Product">
+            <form action="//www.bobswatches.com/cart" class="ng-pristine ng-valid" method="post">
+             <a href="/mens-rolex-explorer-ii-16570-stainless-steel.html" intellisuggest="" itemprop="url" ss-ps="">
+              <meta content="414108" itemprop="productID"/>
+              <meta content="153102" itemprop="sku"/>
+              <meta content="16570" itemprop="mpn"/>
+              <meta content="Rolex" itemprop="brand"/>
+              <meta content="/mens-rolex-explorer-ii-16570-stainless-steel.html" itemprop="url"/>
+              <meta content="Men's Rolex Explorer II 16570 Stainless Steel" itemprop="description"/>
+              <input autocomplete="off" name="id" type="hidden" value="414108"/>
+              <input autocomplete="off" name="quantity" type="hidden" value="1"/>
+              <div class="itemimage" id="item-image-414108">
+               <!-- <img itemprop="image" ng-src="{{ result.thumbnailImageUrl }}" loading="lazy" width="142" height="300"	                        alt="{{ result.name }}" title="{{ result.name }}" class="loaded respFix"	                        style="max-width: 142px;"> -->
+               <div class="seocart_WishListButtonWrapper position-absolute">
+                <button class="wishlist" data-a="wishlist" data-pid="414108" data-product-name="Men's Rolex Explorer II 16570 Stainless Steel" data-sa="a" name="addToWishlist" ng-click="dataLayer.push({'event': 'Wishlist','product': 'Men's Rolex Explorer II 16570 Stainless Steel'});" value="Wish List">
+                </button>
+               </div>
+               <img alt="Men's Rolex Explorer II 16570 Stainless Steel" class="loaded respFix" height="300" itemprop="image" loading="lazy" ng-src="//www.bobswatches.com/images/Rolex-Explorer-II-16570-153102.png" onerror="this.src='//cdn.searchspring.net/ajax_search/img/default_image.png';" src="//www.bobswatches.com/images/Rolex-Explorer-II-16570-153102.png" style="max-width: 142px;" title="Men's Rolex Explorer II 16570 Stainless Steel" width="142"/>
+              </div>
+              <p class="productTitle">
+               <span class="ng-binding" itemprop="name">
+                <span class="ng-binding">
+                 Rolex Explorer II
+                </span>
+                16570
+                <br/>
+                Pre-Owned White Polar 16570
+                <br/>
+                40MM Stainless Steel Oyster (1999)
+               </span>
+              </p>
+              <ul class="itemprice">
+               <!-- ngIf: result.availability != 'out of stock' -->
+               <li class="buyprice buyit" itemprop="offers" itemscope="" itemtype="//schema.org/Offer" ng-if="result.availability != 'out of stock' ">
+                <span content="USD" itemprop="priceCurrency">
+                 $
+                </span>
+                <span class="ng-binding" content="8895" itemprop="price">
+                 8,895
+                </span>
+                <span class="buttonBuy">
+                 Buy
+                </span>
+                <link href="//schema.org/InStock" itemprop="availability"/>
+                <meta content="2024-01-20" itemprop="priceValidUntil"/>
+               </li>
+               <!-- end ngIf: result.availability != 'out of stock' -->
+               <!-- ngIf: result.availability == 'out of stock' -->
+               <!-- ngIf: result.wholesale_price != '0.02' && activeCategory != 'Rolex' -->
+               <li class="sellprice ng-binding ng-scope" ng-if="result.wholesale_price != '0.02' &amp;&amp; activeCategory != 'Rolex' ">
+                Get Quote
+                <span class="buttonSell" intellisuggest="" ng-click="goTo(result, $event)">
+                 Sell
+                </span>
+               </li>
+               <!-- end ngIf: result.wholesale_price != '0.02' && activeCategory != 'Rolex' -->
+              </ul>
+              <script type="application/ld+json">
+               {"@context":"http://schema.org","@type":"ImageObject","author":"Bob's Watches","contentLocation":"Newport Beach, California","datePublished":"2023-01-15 01:04:16","description":"Buy a certified pre-owned Rolex Explorer II 16570 Stainless Steel sku 153102 White watch from our luxury collection. Save up to 50% on all used watches at Bob's Watches.","name":"Men's Rolex Explorer II 16570 Stainless Steel"}
+              </script>
+             </a>
+            </form>
+            <div class="clearBoth">
+            </div>
+           </div>
+          </div>
+          <!-- end ngRepeat: result in results track by result.uid -->
+          <div class="itemWrapper ng-scope" ng-repeat="result in results track by result.uid">
+           <div class="item item-uid-415116" itemscope="" itemtype="http://schema.org/Product">
+            <form action="//www.bobswatches.com/cart" class="ng-pristine ng-valid" method="post">
+             <a href="/rolex-explorer-ii-16570-polar-dial.html" intellisuggest="" itemprop="url" ss-ps="">
+              <meta content="415116" itemprop="productID"/>
+              <meta content="153250" itemprop="sku"/>
+              <meta content="16570" itemprop="mpn"/>
+              <meta content="Rolex" itemprop="brand"/>
+              <meta content="/rolex-explorer-ii-16570-polar-dial.html" itemprop="url"/>
+              <meta content="Rolex Explorer II 16570 Polar Dial" itemprop="description"/>
+              <input autocomplete="off" name="id" type="hidden" value="415116"/>
+              <input autocomplete="off" name="quantity" type="hidden" value="1"/>
+              <div class="itemimage" id="item-image-415116">
+               <!-- <img itemprop="image" ng-src="{{ result.thumbnailImageUrl }}" loading="lazy" width="142" height="300"	                        alt="{{ result.name }}" title="{{ result.name }}" class="loaded respFix"	                        style="max-width: 142px;"> -->
+               <div class="seocart_WishListButtonWrapper position-absolute">
+                <button class="wishlist" data-a="wishlist" data-pid="415116" data-product-name="Rolex Explorer II 16570 Polar Dial" data-sa="a" name="addToWishlist" ng-click="dataLayer.push({'event': 'Wishlist','product': 'Rolex Explorer II 16570 Polar Dial'});" value="Wish List">
+                </button>
+               </div>
+               <img alt="Rolex Explorer II 16570 Polar Dial" class="loaded respFix" height="300" itemprop="image" loading="lazy" ng-src="//www.bobswatches.com/images/Rolex-Explorer-II-16570-153250.png" onerror="this.src='//cdn.searchspring.net/ajax_search/img/default_image.png';" src="//www.bobswatches.com/images/Rolex-Explorer-II-16570-153250.png" style="max-width: 142px;" title="Rolex Explorer II 16570 Polar Dial" width="142"/>
+              </div>
+              <p class="productTitle">
+               <span class="ng-binding" itemprop="name">
+                <span class="ng-binding">
+                 Rolex Explorer II
+                </span>
+                16570
+                <br/>
+                Pre-Owned 40MM White "Polar" Dial
+                <br/>
+                Stainless Steel Oyster (1991)
+               </span>
+              </p>
+              <ul class="itemprice">
+               <!-- ngIf: result.availability != 'out of stock' -->
+               <li class="buyprice buyit" itemprop="offers" itemscope="" itemtype="//schema.org/Offer" ng-if="result.availability != 'out of stock' ">
+                <span content="USD" itemprop="priceCurrency">
+                 $
+                </span>
+                <span class="ng-binding" content="8895" itemprop="price">
+                 8,895
+                </span>
+                <span class="buttonBuy">
+                 Buy
+                </span>
+                <link href="//schema.org/InStock" itemprop="availability"/>
+                <meta content="2024-01-20" itemprop="priceValidUntil"/>
+               </li>
+               <!-- end ngIf: result.availability != 'out of stock' -->
+               <!-- ngIf: result.availability == 'out of stock' -->
+               <!-- ngIf: result.wholesale_price != '0.02' && activeCategory != 'Rolex' -->
+               <li class="sellprice ng-binding ng-scope" ng-if="result.wholesale_price != '0.02' &amp;&amp; activeCategory != 'Rolex' ">
+                Get Quote
+                <span class="buttonSell" intellisuggest="" ng-click="goTo(result, $event)">
+                 Sell
+                </span>
+               </li>
+               <!-- end ngIf: result.wholesale_price != '0.02' && activeCategory != 'Rolex' -->
+              </ul>
+              <script type="application/ld+json">
+               {"@context":"http://schema.org","@type":"ImageObject","author":"Bob's Watches","contentLocation":"Newport Beach, California","datePublished":"2023-01-14 07:38:13","description":"Save 15% when you buy a certified pre-owned Rolex Explorer II 16570 Stainless Steel sku 153250 White watch from our luxury collection. Free shipping on all used watches at Bob's Watches.","name":"Rolex Explorer II 16570 Polar Dial"}
+              </script>
+             </a>
+            </form>
+            <div class="clearBoth">
+            </div>
+           </div>
+          </div>
+          <!-- end ngRepeat: result in results track by result.uid -->
+          <div class="itemWrapper ng-scope" ng-repeat="result in results track by result.uid">
+           <div class="item item-uid-415943" itemscope="" itemtype="http://schema.org/Product">
+            <form action="//www.bobswatches.com/cart" class="ng-pristine ng-valid" method="post">
+             <a href="/mens-rolex-explorer-ii-ref-16570-white-polar-dial.html" intellisuggest="" itemprop="url" ss-ps="">
+              <meta content="415943" itemprop="productID"/>
+              <meta content="153608" itemprop="sku"/>
+              <meta content="16570" itemprop="mpn"/>
+              <meta content="Rolex" itemprop="brand"/>
+              <meta content="/mens-rolex-explorer-ii-ref-16570-white-polar-dial.html" itemprop="url"/>
+              <meta content="Mens Rolex Explorer II Ref 16570 White Polar Dial" itemprop="description"/>
+              <input autocomplete="off" name="id" type="hidden" value="415943"/>
+              <input autocomplete="off" name="quantity" type="hidden" value="1"/>
+              <div class="itemimage" id="item-image-415943">
+               <!-- <img itemprop="image" ng-src="{{ result.thumbnailImageUrl }}" loading="lazy" width="142" height="300"	                        alt="{{ result.name }}" title="{{ result.name }}" class="loaded respFix"	                        style="max-width: 142px;"> -->
+               <div class="seocart_WishListButtonWrapper position-absolute">
+                <button class="wishlist" data-a="wishlist" data-pid="415943" data-product-name="Mens Rolex Explorer II Ref 16570 White Polar Dial" data-sa="a" name="addToWishlist" ng-click="dataLayer.push({'event': 'Wishlist','product': 'Mens Rolex Explorer II Ref 16570 White Polar Dial'});" value="Wish List">
+                </button>
+               </div>
+               <img alt="Mens Rolex Explorer II Ref 16570 White Polar Dial" class="loaded respFix" height="300" itemprop="image" loading="lazy" ng-src="//www.bobswatches.com/images/Rolex-Explorer-II-Ref-16570-153608.png" onerror="this.src='//cdn.searchspring.net/ajax_search/img/default_image.png';" src="//www.bobswatches.com/images/Rolex-Explorer-II-Ref-16570-153608.png" style="max-width: 142px;" title="Mens Rolex Explorer II Ref 16570 White Polar Dial" width="142"/>
+              </div>
+              <p class="productTitle">
+               <span class="ng-binding" itemprop="name">
+                <span class="ng-binding">
+                 Rolex Explorer II
+                </span>
+                16570
+                <br/>
+                Pre-Owned White Oyster 16570
+                <br/>
+                40MM Steel, Rolex Box (1999)
+               </span>
+              </p>
+              <ul class="itemprice">
+               <!-- ngIf: result.availability != 'out of stock' -->
+               <li class="buyprice buyit" itemprop="offers" itemscope="" itemtype="//schema.org/Offer" ng-if="result.availability != 'out of stock' ">
+                <span content="USD" itemprop="priceCurrency">
+                 $
+                </span>
+                <span class="ng-binding" content="8995" itemprop="price">
+                 8,995
+                </span>
+                <span class="buttonBuy">
+                 Buy
+                </span>
+                <link href="//schema.org/InStock" itemprop="availability"/>
+                <meta content="2024-01-20" itemprop="priceValidUntil"/>
+               </li>
+               <!-- end ngIf: result.availability != 'out of stock' -->
+               <!-- ngIf: result.availability == 'out of stock' -->
+               <!-- ngIf: result.wholesale_price != '0.02' && activeCategory != 'Rolex' -->
+               <li class="sellprice ng-binding ng-scope" ng-if="result.wholesale_price != '0.02' &amp;&amp; activeCategory != 'Rolex' ">
+                Get Quote
+                <span class="buttonSell" intellisuggest="" ng-click="goTo(result, $event)">
+                 Sell
+                </span>
+               </li>
+               <!-- end ngIf: result.wholesale_price != '0.02' && activeCategory != 'Rolex' -->
+              </ul>
+              <script type="application/ld+json">
+               {"@context":"http://schema.org","@type":"ImageObject","author":"Bob's Watches","contentLocation":"Newport Beach, California","datePublished":"2023-01-14 07:37:38","description":"Buy a certified pre-owned Rolex Explorer II 16570 Stainless Steel sku 153608 White watch from our luxury collection. Save up to 50% on all used watches at Bob's Watches.","name":"Mens Rolex Explorer II Ref 16570 White Polar Dial"}
+              </script>
+             </a>
+            </form>
+            <div class="clearBoth">
+            </div>
+           </div>
+          </div>
+          <!-- end ngRepeat: result in results track by result.uid -->
+         </div>
+         <div class="waitlist-container">
+          <h2 class="text-center waitlist">
+           Rolex Explorer II 16570 White            Recently Sold
+          </h2>
+          <div class="seocart_Category_wrapper">
+           <div class="seocart_Category_wrapper">
+            <div class="itemWrapper">
+             <div class="item" itemscope="" itemtype="http://schema.org/Product">
+              <form action="https://www.bobswatches.com/cart" method="post">
+               <a href="https://www.bobswatches.com/pre-owned-rolex-explorer-ii-ref-16570-polar-model-t.html">
+                <meta content="432506" itemprop="productID"/>
+                <meta content="127276 T" itemprop="sku"/>
+                <meta content="Rolex" itemprop="brand"/>
+                <meta content="https://www.bobswatches.com/pre-owned-rolex-explorer-ii-ref-16570-polar-model-t.html" itemprop="url"/>
+                <meta content="Pre-Owned Rolex Explorer II Ref 16570 'Polar' Model T" itemprop="description"/>
+                <input name="id" type="hidden" value="432506"/>
+                <input name="quantity" type="hidden" value="1"/>
+                <div class="itemimage">
+                 <img alt="Pre-Owned Rolex Explorer II Ref 16570 'Polar' Model T" border="0" height="300" itemprop="image" src="/images/Rolex-Explorer-II-16570---127276.png?v=2" title="Pre-Owned Rolex Explorer II Ref 16570 'Polar' Model T" width="159"/>
+                 <noscript>
+                  <img alt="Pre-Owned Rolex Explorer II Ref 16570 'Polar' Model T" border="0" height="300" itemprop="image" src="/images/Rolex-Explorer-II-16570---127276.png?v=2" title="Pre-Owned Rolex Explorer II Ref 16570 'Polar' Model T" width="159"/>
+                 </noscript>
+                 <div class="seocart_WishListButtonWrapper position-absolute">
+                  <button class="wishlist" data-a="wishlist" data-pid="432506" data-product-name="Pre-Owned Rolex Explorer II Ref 16570 'Polar' Model T" data-sa="a" name="addToWishlist" onclick="dataLayer.push({'event': 'Wishlist','product': 'Pre-Owned Rolex Explorer II Ref 16570 \'Polar\' Model T'});" value="Wish List">
+                  </button>
+                 </div>
+                </div>
+                <p class="productTitle">
+                 <span itemprop="name">
+                  <span>
+                   Rolex Explorer II
+                  </span>
+                  16570
+                  <br/>
+                  24 Hour Bezel, Polar Dial
+                  <br/>
+                  Rolex Box &amp; Book, Circa 1995
+                 </span>
+                </p>
+                <ul class="itemprice">
+                 <li class="buyprice buyit waitlist">
+                  <span class="buttonBuy">
+                   Waitlist
+                  </span>
+                  <link href="http://schema.org/OutOfStock" itemprop="availability"/>
+                 </li>
+                 <li class="sellprice">
+                  <span class="buttonSell" onclick="javascript:window.location = '/sell-rolex-watch?ModelNumber=16570&amp;ModelName=Explorer+II'; return false;">
+                   Sell
+                  </span>
+                 </li>
+                </ul>
+               </a>
+              </form>
+             </div>
+            </div>
+            <div class="itemWrapper">
+             <div class="item" itemscope="" itemtype="http://schema.org/Product">
+              <form action="https://www.bobswatches.com/cart" method="post">
+               <a href="https://www.bobswatches.com/pre-owned-rolex-polar-dial-explorer-ii-ref-16570.html">
+                <meta content="432590" itemprop="productID"/>
+                <meta content="131758" itemprop="sku"/>
+                <meta content="Rolex" itemprop="brand"/>
+                <meta content="https://www.bobswatches.com/pre-owned-rolex-polar-dial-explorer-ii-ref-16570.html" itemprop="url"/>
+                <meta content="Pre-Owned Rolex Polar Dial Explorer II Ref 16570" itemprop="description"/>
+                <input name="id" type="hidden" value="432590"/>
+                <input name="quantity" type="hidden" value="1"/>
+                <div class="itemimage">
+                 <img alt="Pre-Owned Rolex Polar Dial Explorer II Ref 16570" border="0" height="300" itemprop="image" src="/images/131758.png?v=2" title="Pre-Owned Rolex Polar Dial Explorer II Ref 16570" width="159"/>
+                 <noscript>
+                  <img alt="Pre-Owned Rolex Polar Dial Explorer II Ref 16570" border="0" height="300" itemprop="image" src="/images/131758.png?v=2" title="Pre-Owned Rolex Polar Dial Explorer II Ref 16570" width="159"/>
+                 </noscript>
+                 <div class="seocart_WishListButtonWrapper position-absolute">
+                  <button class="wishlist" data-a="wishlist" data-pid="432590" data-product-name="Pre-Owned Rolex Polar Dial Explorer II Ref 16570" data-sa="a" name="addToWishlist" onclick="dataLayer.push({'event': 'Wishlist','product': 'Pre-Owned Rolex Polar Dial Explorer II Ref 16570'});" value="Wish List">
+                  </button>
+                 </div>
+                </div>
+                <p class="productTitle">
+                 <span itemprop="name">
+                  <span>
+                   Rolex Explorer II
+                  </span>
+                  16570
+                  <br/>
+                  Stainless Steel, Red GMT Hand
+                  <br/>
+                  Rolex Box &amp; Papers, Circa 1997
+                 </span>
+                </p>
+                <ul class="itemprice">
+                 <li class="buyprice buyit waitlist">
+                  <span class="buttonBuy">
+                   Waitlist
+                  </span>
+                  <link href="http://schema.org/OutOfStock" itemprop="availability"/>
+                 </li>
+                 <li class="sellprice">
+                  <span class="buttonSell" onclick="javascript:window.location = '/sell-rolex-watch?ModelNumber=16570&amp;ModelName=Explorer+II'; return false;">
+                   Sell
+                  </span>
+                 </li>
+                </ul>
+               </a>
+              </form>
+             </div>
+            </div>
+            <div class="itemWrapper">
+             <div class="item" itemscope="" itemtype="http://schema.org/Product">
+              <form action="https://www.bobswatches.com/cart" method="post">
+               <a href="https://www.bobswatches.com/pre-owned-mens-rolex-explorer-ii-16570.html">
+                <meta content="410245" itemprop="productID"/>
+                <meta content="131265" itemprop="sku"/>
+                <meta content="Rolex" itemprop="brand"/>
+                <meta content="https://www.bobswatches.com/pre-owned-mens-rolex-explorer-ii-16570.html" itemprop="url"/>
+                <meta content="Pre-Owned Men's Rolex Explorer II 16570" itemprop="description"/>
+                <input name="id" type="hidden" value="410245"/>
+                <input name="quantity" type="hidden" value="1"/>
+                <div class="itemimage">
+                 <img alt="Pre-Owned Men's Rolex Explorer II 16570" border="0" height="300" itemprop="image" src="/images/Rolex-Explorer-II-16570---131265.png?v=2" title="Pre-Owned Men's Rolex Explorer II 16570" width="159"/>
+                 <noscript>
+                  <img alt="Pre-Owned Men's Rolex Explorer II 16570" border="0" height="300" itemprop="image" src="/images/Rolex-Explorer-II-16570---131265.png?v=2" title="Pre-Owned Men's Rolex Explorer II 16570" width="159"/>
+                 </noscript>
+                 <div class="seocart_WishListButtonWrapper position-absolute">
+                  <button class="wishlist" data-a="wishlist" data-pid="410245" data-product-name="Pre-Owned Men's Rolex Explorer II 16570" data-sa="a" name="addToWishlist" onclick="dataLayer.push({'event': 'Wishlist','product': 'Pre-Owned Men\'s Rolex Explorer II 16570'});" value="Wish List">
+                  </button>
+                 </div>
+                </div>
+                <p class="productTitle">
+                 <span itemprop="name">
+                  <span>
+                   Rolex Explorer II
+                  </span>
+                  16570
+                  <br/>
+                  White Dial, Steel Oyster
+                  <br/>
+                  Rolex Box &amp; Book, Circa 2005
+                 </span>
+                </p>
+                <ul class="itemprice">
+                 <li class="buyprice buyit waitlist">
+                  <span class="buttonBuy">
+                   Waitlist
+                  </span>
+                  <link href="http://schema.org/OutOfStock" itemprop="availability"/>
+                 </li>
+                 <li class="sellprice">
+                  <span class="buttonSell" onclick="javascript:window.location = '/sell-rolex-watch?ModelNumber=16570&amp;ModelName=Explorer+II'; return false;">
+                   Sell
+                  </span>
+                 </li>
+                </ul>
+               </a>
+              </form>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="waitlistViewMore py-5 text-center">
+           <a class="btn text-uppercase d-inline-block text-nowrap" href="?waitlist=1">
+            View More Recently Sold
+           </a>
+          </div>
+         </div>
+         <!-- ngIf: merchandising.content.footer.length > 0 -->
+         <!-- ngIf: pagination.totalPages > 1 -->
+        </div>
+        <!-- end ngIf: pagination.totalResults -->
+        <!-- ngIf: pagination.totalResults === 0 -->
+       </div>
+      </div>
+      <div class="row m-0 p-0 w-100">
+       <div class="col-12 col-sm-6 p-0 m-0">
+        <div class="breadcrumbs">
+         <div id="tms_breadcrumbs">
+          <ul aria-label="Breadcrumbs Navigation" class="breadcrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList" role="navigation">
+           <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+            <a class="homeLocation" href="/" itemid="/" itemprop="item" itemscope="" itemtype="http://schema.org/Thing">
+             <span itemprop="name">
+              Bob's
+             </span>
+            </a>
+            <meta content="1" itemprop="position"/>
+           </li>
+           <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+            <a href="/rolex/" itemid="/rolex/" itemprop="item" itemscope="" itemtype="http://schema.org/Thing">
+             <span itemprop="name">
+              Rolex Watches
+             </span>
+            </a>
+            <meta content="2" itemprop="position"/>
+           </li>
+           <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+            <a href="/rolex-explorer-ii-1.html" itemid="/rolex-explorer-ii-1.html" itemprop="item" itemscope="" itemtype="http://schema.org/Thing">
+             <span itemprop="name">
+              Explorer II
+             </span>
+            </a>
+            <meta content="3" itemprop="position"/>
+           </li>
+           <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+            <a href="/rolex/explorer_ii-16570" itemid="/rolex/explorer_ii-16570" itemprop="item" itemscope="" itemtype="http://schema.org/Thing">
+             <span itemprop="name">
+              16570
+             </span>
+            </a>
+            <meta content="4" itemprop="position"/>
+           </li>
+           <li class="lastLocation" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+            <span itemid="/rolex/explorer_ii-16570-white" itemprop="item" itemscope="" itemtype="http://schema.org/Thing">
+             <span itemprop="name">
+              White
+             </span>
+            </span>
+            <meta content="5" itemprop="position"/>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class="col-12 col-sm-6 p-0 m-0 text-sm-end">
+        <p class="categoryPrice breadcrumb-message">
+         Cash wire prices shown. Prices may be
+higher if other payment
+methods are
+selected.*
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="category-footer py-5">
+   <div class="container">
+   </div>
+   <div class="subscribe-container container-fluid lazybg">
+    <div class="row pageWidth">
+     <div class="col-12 col-xl-6 px-0 pe-xl-5 pe-0 subscribe-form" style="background-color: var(--color-black);">
+      <form action="/cirkuit/seo-cart/ajax/newsletter-submit" class="newsletterForm py-0 py-xl-4" method="post" name="newsletterForm">
+       <input class="signupType" name="signupType" type="hidden" value="subscribe"/>
+       <input name="signupFrom" type="hidden" value="Footer Form"/>
+       <input name="successIfAlreadySubscribed" type="hidden" value="1"/>
+       <div class="container-fluid gx-0 gx-xl-1 py-5 my-0 my-xl-5">
+        <div class="row">
+         <h3 class="h2">
+          <span class="d-block h5 text-uppercase">
+           Subscribe
+          </span>
+          <span class="d-block">
+           Stay Updated
+          </span>
+         </h3>
+        </div>
+        <div class="row">
+         <p class="my-4">
+          Get access to exclusive insight not available anywhere else on this
+website! Sign up below.
+         </p>
+        </div>
+        <div class="row">
+         <div class="col-12 my-3 my-lg-0">
+          <p>
+           <label class="sr-only" for="subscribeContainerInputText">
+            Email address:
+           </label>
+           <input class="form-control form-control-lg newsletterInput px-0" id="subscribeContainerInputText" name="newsletterInput" placeholder="Enter your email address" required="" type="text"/>
+          </p>
+         </div>
+        </div>
+        <div>
+         <button class="btn btn-white text-uppercase d-inline-block mt-4 text-nowrap inputSubmit" name="inputSubmit" type="submit">
+          <strong>
+           Subscribe
+          </strong>
+         </button>
+        </div>
+       </div>
+       <input class="fingerprintFirst" name="fingerprintFirst" type="hidden" value="1674265373093"/>
+       <input class="fingerprintLast" name="fingerprintLast" type="hidden" value=""/>
+       <input class="fingerprintMinVT" name="fingerprintMinVT" type="hidden" value="1500"/>
+       <input class="fingerprintMaxVT" name="fingerprintMaxVT" type="hidden" value="15778463000"/>
+      </form>
+     </div>
+     <div class="col-12 col-xl-6">
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</main>
+<footer>
+ <div class="container-fluid pageWidth py-5">
+  <div class="row">
+   <div class="col-12 col-xl-2 pb-4 pb-xl-0">
+    <strong aria-controls="footerMenuAboutUs" aria-expanded="false" class="text-uppercase mobileAccordionButton collapsed" data-bs-target="#footerMenuAboutUs" data-bs-toggle="collapse">
+     Company
+    </strong>
+    <ul aria-labelledby="footerMenuAboutUs" class="p-0 ps-3 px-xl-0 pt-3 m-0 list-unstyled mobileAccordion accordion-collapse collapse" id="footerMenuAboutUs">
+     <li>
+      <a href="/about-us">
+       About Us
+      </a>
+     </li>
+     <li>
+      <a href="/employment">
+       Careers
+      </a>
+     </li>
+     <li>
+      <a href="/affiliate-program">
+       Affiliates
+      </a>
+     </li>
+     <li>
+      <a href="/how-we-give-back">
+       How We Give Back
+      </a>
+     </li>
+     <li>
+      <a href="/in-the-press">
+       Press
+      </a>
+     </li>
+     <li>
+      <a href="/trusted-partners">
+       Trusted Partners
+      </a>
+     </li>
+     <li>
+      <a href="http://en.wikipedia.org/wiki/Bob%27s_Watches" rel="nofollow" target="_blank">
+       Bob's
+Watches Wikipedia
+      </a>
+     </li>
+     <li>
+      <a href="/entrepreneurs-and-scholarships" title="scholarship">
+       Scholarship
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div class="col-12 col-xl-2 pb-4 pb-xl-0">
+    <strong aria-controls="footerMenuServicesSupport" aria-expanded="false" class="text-uppercase mobileAccordionButton collapsed" data-bs-target="#footerMenuServicesSupport" data-bs-toggle="collapse">
+     Services &amp; Support
+    </strong>
+    <ul aria-labelledby="footerMenuServicesSupport" class="p-0 ps-3 px-xl-0 pt-3 m-0 list-unstyled mobileAccordion accordion-collapse collapse" id="footerMenuServicesSupport">
+     <li>
+      <a href="/shipping-label-terms">
+       Seller Terms &amp; Conditions
+      </a>
+     </li>
+     <li>
+      <a href="/consignor-terms">
+       Consignor Terms
+      </a>
+     </li>
+     <li>
+      <a href="/contact-us">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="/faqs">
+       FAQ
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div class="col-12 col-xl-2 pb-4 pb-xl-0">
+    <strong aria-controls="footerMenuBuyingSelling" aria-expanded="false" class="text-uppercase mobileAccordionButton collapsed" data-bs-target="#footerMenuBuyingSelling" data-bs-toggle="collapse">
+     Buying &amp; Selling
+    </strong>
+    <ul aria-labelledby="footerMenuBuyingSelling" class="p-0 ps-3 px-xl-0 pt-3 m-0 list-unstyled mobileAccordion accordion-collapse collapse" id="footerMenuBuyingSelling">
+     <li>
+      <a href="/bobs-buyers-protection-plan">
+       Why Buy From Us
+      </a>
+     </li>
+     <li>
+      <a href="/authenticity-pledge">
+       Authenticity Pledge
+      </a>
+     </li>
+     <li>
+      <a href="/bobs-buyers-protection-plan">
+       Buyers Protection Plan
+      </a>
+     </li>
+     <li>
+      <a href="/usa">
+       Bob's Rolex USA
+      </a>
+     </li>
+     <li>
+      <a href="/reviews">
+       Testimonial Reviews
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div class="col-12 col-xl-2 pb-4 pb-xl-0">
+    <strong aria-controls="footerMenuShippingReturns" aria-expanded="false" class="text-uppercase mobileAccordionButton collapsed" data-bs-target="#footerMenuShippingReturns" data-bs-toggle="collapse">
+     Shipping &amp; Returns
+    </strong>
+    <ul aria-labelledby="footerMenuShippingReturns" class="p-0 ps-3 px-xl-0 pt-3 m-0 list-unstyled mobileAccordion accordion-collapse collapse" id="footerMenuShippingReturns">
+     <li>
+      <a href="/shipping-info">
+       U.S. Shipping
+      </a>
+     </li>
+     <li>
+      <a href="/international-shipping">
+       International Shipping
+      </a>
+     </li>
+     <li>
+      <a href="/return-policy">
+       Returns
+      </a>
+     </li>
+     <li>
+      <a href="/warranty">
+       Warranty
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div class="col-12 col-xl-4 pb-4 pb-xl-0">
+    <svg class="d-none d-xl-block" enable-background="new 0 0 1187.929 272.393" height="48px" version="1.1" viewbox="0 0 1187.929 272.393" width="200px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+     <title>
+      Bob's Watches
+                                -
+                                The
+                                Pre-Owned Rolex Exchange
+     </title>
+     <g>
+      <path class="pathFill" d="M227.244,226.184l-19.162,45.438h5.788c0,0,5.747-14.02,6.244-15.234h18.686
+                c0.501,1.207,6.373,15.234,6.373,15.234h5.771l-19.017-45.438H227.244z M222.144,251.631c0.999-2.395,5.83-13.971,5.83-13.971
+                s0.82-2.195,1.533-4.113c0.733,2.029,1.554,4.32,1.554,4.32s4.769,11.377,5.771,13.764H222.144z M43.681,262.975
+                c-1.077-4.047-10.536-36.791-10.536-36.791h-4.823c0,0-10.764,32.574-12.123,36.891c-1.11-3.953-10.573-36.891-10.573-36.891H0
+                l13.449,45.438h4.831c0,0,11.327-33.414,12.181-36.377c0.671,2.852,10.524,36.377,10.524,36.377h4.818l15.707-45.438h-5.734
+                C55.775,226.184,44.734,259.598,43.681,262.975 M394.114,230.932h16.858v40.689h5.457v-40.689h16.851v-4.748h-39.166V230.932z
+                 M980.915,250.094h20.145v-4.76h-20.145v-14.402h21.283v-4.748H975.45v45.438h27.9v-4.76h-22.436V250.094z M809.396,245.139
+                h-26.168v-18.955h-5.465v45.438h5.465v-21.723h26.168v21.723h5.457v-45.438h-5.457V245.139z M619.013,265.365
+                c-2.883,1.385-7.18,2.209-11.463,2.209c-12.525,0-20.613-7.146-20.613-18.227c0-11.828,8.209-19.188,21.412-19.188
+                c3.832,0,7.744,0.771,10.471,2.072l1.053,0.51l1.881-4.629l-0.924-0.422c-3.266-1.5-7.645-2.283-12.688-2.283
+                c-17.588,0-26.802,11.916-26.802,23.684c0,16.096,12.55,23.301,24.996,23.301c6.77,0,12-1.352,14.646-2.615l0.891-0.422l-1.799-4.5
+                L619.013,265.365z M1174.479,245.641c-7.873-2.42-9.451-5.051-9.451-8.502c0-3.244,2.512-7.045,9.588-7.045
+                c5.014,0,8.008,1.857,8.332,2.08l1.043,0.676l2.221-4.582l-0.803-0.51c-1.814-1.135-5.576-2.35-10.656-2.35
+                c-8.76,0-15.123,5.117-15.123,12.186c0,6.211,4.031,10.08,13.457,12.955c7.9,2.42,9.447,5.162,9.447,9.09
+                c0,4.854-4.193,7.992-10.678,7.992c-3.832,0-7.604-1.076-10.607-3.027l-1.043-0.68l-2.195,4.541l0.736,0.525
+                c2.859,2.002,8.096,3.402,12.721,3.402c11.367,0,16.461-6.576,16.461-13.076C1187.929,251.439,1182.558,248.15,1174.479,245.641" fill="#FFFFFF">
+      </path>
+      <polygon class="pathFill" fill="#FFFFFF" points="862.739,0 872.981,52.66 890.282,52.66 900.761,0   ">
+      </polygon>
+      <path class="pathFill" d="M222.02,84.479c10.574-8.075,15.951-18.18,15.951-30.179c0-12.33-6.235-23.405-18.014-32.027
+                c-10.979-8.025-24.329-12.479-39.634-12.777c-0.079,0-180.318-0.008-180.318-0.008v166.215h115.254
+                c23.367,0,45.803-0.439,66.692-1.313c16.428-0.867,30.394-6.074,41.618-15.459c11.94-10.305,17.948-22.158,17.948-35.333v-1.811
+                C241.518,110.75,237.631,96.283,222.02,84.479 M34.43,40.296h152.588c8.519,0,15.417,6.256,15.417,13.971
+                c0,7.719-6.898,13.971-15.417,13.971H34.43V40.296z M180.534,144.895H34.43v-44.418h0.033h146.071
+                c14.671,0,26.549,9.943,26.549,22.211C207.083,134.951,195.205,144.895,180.534,144.895" fill="#FFFFFF">
+      </path>
+      <path class="pathFill" d="M796.917,84.479c10.568-8.075,15.951-18.18,15.951-30.179c0-12.33-6.236-23.405-18.016-32.027
+                c-10.979-8.025-24.336-12.479-39.633-12.777c-0.078,0-180.327-0.008-180.327-0.008v166.215h115.262
+                c23.367,0,45.795-0.439,66.686-1.313c16.426-0.867,30.402-6.074,41.625-15.459c11.941-10.305,17.949-22.158,17.949-35.333v-1.811
+                C816.415,110.75,812.521,96.283,796.917,84.479 M609.323,40.296h152.592c8.51,0,15.408,6.256,15.408,13.971
+                c0,7.719-6.898,13.971-15.408,13.971H609.323V40.296z M755.431,144.895H609.323v-44.418h0.053h146.055
+                c14.664,0,26.551,9.943,26.551,22.211C781.981,134.951,770.095,144.895,755.431,144.895" fill="#FFFFFF">
+      </path>
+      <path class="pathFill" d="M1170.792,159.146l-0.055,0.025c-0.008,0.018-0.016,0.025-0.033,0.033L1170.792,159.146z M1187.829,123.126
+                c0-11.107-3.791-21.188-11.287-29.963c-11.166-12.753-30.129-20.302-56.305-22.738c-2.42-0.178-17.455-0.501-17.455-0.484
+                c-8.412,0.05-103.58-0.05-103.58-0.05c-7.143,0-12.939-6.782-12.939-15.131c0-8.357,5.797-15.127,12.939-15.127l132.191,0.133
+                c4.447,0.008,8.926,2.486,11.217,6.297c2.527,4.209,1.977,9.131,1.797,13.838c-0.057,1.545-0.123,3.091-0.186,4.624h36.58
+                c0.307-3.021,0.281-6.219,0.281-9.256c0-12.973-5.262-24.834-17.211-33.667c-10.764-8.249-25.053-11.813-40.777-12.11h-113.406
+                c-15.789,0.298-29.279,4.677-40.168,13.009c-16.154,12.388-21.689,32.267-14.559,51.504c2.52,6.812,6.947,12.661,12.914,16.768
+                c10.623,7.263,26.346,10.437,42.551,10.233l0.385,0.033h107.871c1.441,0,12.754,0.083,12.754,0.083
+                c12.006,0,21.738,9.827,21.738,21.954c0,12.123-9.732,21.951-21.738,21.951l-117.92,0.195c-15.818-0.203-29.428-8.842-30.41-19.246
+                l-0.738-7.748h-35.291l1.053,9.513c1.246,11.422,6.17,21.383,14.605,29.586c12.098,11.318,27.025,17.473,44.477,18.371
+                c11.057,0.451,110.41,0.451,121.041,0c16.988-0.891,31.244-6.463,42.484-16.527
+                C1182.073,149.229,1187.829,137.109,1187.829,123.126" fill="#FFFFFF">
+      </path>
+      <path d="M307.183,25.008c-10.404,8.995-16.726,20.053-18.856,32.872c-0.397,2.138-0.472,6.177-0.489,24.498h32.495
+                V68.875c0-16.088,12.918-29.126,28.861-29.126h48.678V9.488h-50.111C331.722,9.488,318.128,15.632,307.183,25.008" fill="#B1F347">
+      </path>
+      <path class="pathFill" d="M527.201,54.976c-0.882-12.219-7.254-23.053-18.93-32.081c-11.626-8.369-24.834-13.407-39.567-13.407
+                H418.53v30.257h48.715c15.935,0,28.849,13.042,28.849,29.139l-0.033,47.431c0,16.088-12.915,29.13-28.849,29.13H349.165
+                c-15.935,0-28.857-13.042-28.857-29.13v-12.794h-32.474c0.178,9.132,0.622,17.928,1.367,26.694
+                c0.891,12.218,7.263,23.052,18.947,32.082c11.617,8.369,24.826,13.406,39.55,13.406h120.947c16.038,0,29.62-6.148,40.574-15.52
+                c10.387-9,16.726-20.049,18.855-32.869c0.46-2.481,0.493-7.445,0.493-34.119v-1.852C528.568,87.984,527.947,63.743,527.201,54.976" fill="#FFFFFF">
+      </path>
+     </g>
+    </svg>
+    <p class="my-2 my-xl-4">
+     Subscribe to our newsletter
+    </p>
+    <form action="/cirkuit/seo-cart/ajax/newsletter-submit" class="newsletterForm" method="post" name="newsletterForm">
+     <input class="signupType" name="signupType" type="hidden" value="subscribe"/>
+     <input name="signupFrom" type="hidden" value="Footer Form"/>
+     <input name="successIfAlreadySubscribed" type="hidden" value="1"/>
+     <div class="row">
+      <div class="col-7 col-md-8 pe-0 my-3 my-xl-0">
+       <label class="sr-only" for="footerNewsletterInputText">
+        Email address:
+       </label>
+       <input class="form-control newsletterInput py-2 px-3" id="footerNewsletterInputText" name="newsletterInput" placeholder="Email Address" required="" type="text"/>
+      </div>
+      <div class="col-5 col-md-4 my-3 my-xl-0">
+       <button class="btn btn-green text-uppercase d-inline-block text-nowrap inputSubmit" name="inputSubmit" type="submit">
+        Subscribe
+       </button>
+      </div>
+     </div>
+     <div class="newsletterFormResponse">
+     </div>
+     <input class="fingerprintFirst" name="fingerprintFirst" type="hidden" value="1674265373096"/>
+     <input class="fingerprintLast" name="fingerprintLast" type="hidden" value=""/>
+     <input class="fingerprintMinVT" name="fingerprintMinVT" type="hidden" value="1500"/>
+     <input class="fingerprintMaxVT" name="fingerprintMaxVT" type="hidden" value="15778463000"/>
+    </form>
+    <div class="d-flex justify-content-start align-items-center">
+     <a class="d-block py-3 pe-4" href="https://www.facebook.com/bobswatches" rel="noopener">
+      <svg height="24" viewbox="0 0 1792 1792" width="24" xmlns="http://www.w3.org/2000/svg">
+       <title>
+        Facebook
+       </title>
+       <path d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z" fill="#FFFFFF">
+       </path>
+      </svg>
+     </a>
+     <a class="d-block py-3 pe-4" href="https://twitter.com/#!/bobswatches" rel="noopener">
+      <svg height="24" viewbox="0 0 1792 1792" width="24" xmlns="http://www.w3.org/2000/svg">
+       <title>
+        Twitter
+       </title>
+       <path d="M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z" fill="#FFFFFF">
+       </path>
+      </svg>
+     </a>
+     <a class="d-block py-3 pe-4" href="http://instagram.com/bobswatches" rel="noopener">
+      <svg height="24" viewbox="0 0 1792 1792" width="24" xmlns="http://www.w3.org/2000/svg">
+       <title>
+        Instagram
+       </title>
+       <path d="M1152 896q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zm-502-220q-7 0-76.5-.5t-105.5 0-96.5 3-103 10-71.5 18.5q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103 18.5 71.5q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103-18.5-71.5q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124t-124-322q-5-88-5-317t5-317q10-208 124-322t322-124q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z" fill="#FFFFFF">
+       </path>
+      </svg>
+     </a>
+     <a class="d-block py-3" href="https://www.youtube.com/user/bobswatches" rel="noopener">
+      <svg height="24" viewbox="0 0 1792 1792" width="24" xmlns="http://www.w3.org/2000/svg">
+       <title>
+        YouTube
+       </title>
+       <path d="M711 1128l484-250-484-253v503zm185-862q168 0 324.5 4.5t229.5 9.5l73 4q1 0 17 1.5t23 3 23.5 4.5 28.5 8 28 13 31 19.5 29 26.5q6 6 15.5 18.5t29 58.5 26.5 101q8 64 12.5 136.5t5.5 113.5v176q1 145-18 290-7 55-25 99.5t-32 61.5l-14 17q-14 15-29 26.5t-31 19-28 12.5-28.5 8-24 4.5-23 3-16.5 1.5q-251 19-627 19-207-2-359.5-6.5t-200.5-7.5l-49-4-36-4q-36-5-54.5-10t-51-21-56.5-41q-6-6-15.5-18.5t-29-58.5-26.5-101q-8-64-12.5-136.5t-5.5-113.5v-176q-1-145 18-290 7-55 25-99.5t32-61.5l14-17q14-15 29-26.5t31-19.5 28-13 28.5-8 23.5-4.5 23-3 17-1.5q251-18 627-18z" fill="#FFFFFF">
+       </path>
+      </svg>
+     </a>
+    </div>
+   </div>
+  </div>
+  <hr class="mt-1 mb-5 mt-xl-5" style="background-color: var(--color-gray-medium);"/>
+  <div class="d-block d-xl-flex justify-content-between align-items-start">
+   <div>
+    <p>
+     © 2023 Bob's Watches
+    </p>
+    <p>
+     <a class="d-inline-block pe-3" href="/privacy-policy">
+      Privacy
+     </a>
+     <span class="d-inline-block pe-3">
+      ·
+     </span>
+     <a class="d-inline-block pe-3" href="/terms-and-conditions">
+      Terms
+     </a>
+     <span class="d-inline-block pe-3">
+      ·
+     </span>
+     <a class="d-inline-block pe-3" href="/site-map">
+      Sitemap
+     </a>
+    </p>
+   </div>
+   <div>
+    <p style="color: var(--color-gray-lightest);">
+     1900 Quail St
+     <span class="d-none d-xl-inline-block mx-1">
+      •
+     </span>
+     <br class="d-block d-xl-none"/>
+     Newport Beach, CA 92660
+    </p>
+    <p style="color: var(--color-gray-lightest);">
+     MON -
+FRI 9AM
+- 5PM (PST)
+    </p>
+    <p>
+     <a href="tel:8004943708">
+      Have a Question? (800) 494-3708
+     </a>
+    </p>
+   </div>
+  </div>
+ </div>
+ <div class="footerPartners">
+  <div class="container py-4 d-flex flex-wrap justify-content-between align-items-center">
+   <svg aria-label="PayPal" height="38" role="img" viewbox="0 0 95.853 112.057" width="32" xmlns="http://www.w3.org/2000/svg">
+    <title>
+     PayPal
+    </title>
+    <path d="M41.02,63.328H51.348c22.436,0,35.167-10.1,39.22-30.878.131-.685.249-1.345.349-2a32.869,32.869,0,0,0,.386-3.885c.037-.834.062-1.326.056-1.787a16.457,16.457,0,0,0-1.345-6.468A22.247,22.247,0,0,0,86.2,12.591c-5.31-6.039-14.561-9.506-25.611-9.506H25.395a5.038,5.038,0,0,0-4.974,4.252l-6.35,40.907L6.171,99.2a3.025,3.025,0,0,0,2.988,3.492H26.416L31.7,71.3a9.4,9.4,0,0,1,9.319-7.968ZM97.69,34.772C92.759,58.248,76.791,70.7,51.342,70.7H41.02a2.062,2.062,0,0,0-2.042,1.756L32.1,115.141H50.2a4.4,4.4,0,0,0,4.352-3.716l.18-.934,3.455-21.876.224-1.208a4.4,4.4,0,0,1,4.352-3.716H65.5c17.742,0,31.631-7.209,35.69-28.051,1.668-8.591.822-15.775-3.5-20.867Z" fill="#999999" transform="translate(-6.134 -3.085)">
+    </path>
+   </svg>
+   <svg height="26" viewbox="0 0 249.233 76.39" width="85" xmlns="http://www.w3.org/2000/svg">
+    <title>
+     Visa
+    </title>
+    <path d="M181.161,15.609a51.833,51.833,0,0,0-18.069-3.126c-19.939,0-34.01,10.052-34.114,24.456-.125,10.592,10.011,16.553,17.664,20.1,7.861,3.635,10.489,5.919,10.468,9.19-.052,4.953-6.283,7.2-12.067,7.2-7.955,0-12.316-1.111-19.014-3.894l-2.482-1.153-2.814,16.595c4.839,2.025,13.562,3.759,22.587,3.894,21.2,0,35.048-9.98,35.215-25.328.166-8.443-5.3-14.85-16.834-20.126-7-3.427-11.361-5.722-11.361-9.2,0-3.074,3.728-6.355,11.517-6.355a36.971,36.971,0,0,1,15.11,2.835l1.869.841L181.649,15.5l-.488.1Zm51.747-1.765H217.331c-4.85,0-8.474,1.319-10.6,6.137l-29.96,67.854h21.2L202.2,76.723l25.858.021c.633,2.6,2.492,11.091,2.492,11.091h18.682ZM100.316,13.22h20.177L107.876,87.253H87.688L100.316,13.2Zm-51.29,40.8,2.1,10.281L70.865,13.843H92.247L60.46,87.731H39.13L21.683,25.152a4.132,4.132,0,0,0-1.869-2.461A85.272,85.272,0,0,0,0,15.349l.26-1.558H32.774c4.4.166,7.955,1.558,9.17,6.272l7.082,33.989ZM208,61.571l8.048-20.707c-.1.208,1.662-4.278,2.679-7.062l1.381,6.387,4.663,21.361H208v.021Z" fill="#999999" transform="translate(0 -12.483)">
+    </path>
+   </svg>
+   <svg height="28" style="enable-background:new 0 0 238.6 53.3;" version="1.1" viewbox="0 0 238.6 53.3" width="126" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+    <title>
+     Klarna
+    </title>
+    <path d="M42,0H30.2c0,9.5-4.5,18.5-12.1,24.2l-4.6,3.5l18,24.6h14.8L29.7,29.7C37.6,21.8,42,11.1,42,0z" fill="#999999">
+    </path>
+    <polygon fill="#999999" points="0,52.3 12,52.3 12,0 0,0 0,52.3 ">
+    </polygon>
+    <polygon fill="#999999" points="49.8,52.3 61.1,52.3 61.1,0 49.8,0 49.8,52.3 ">
+    </polygon>
+    <path d="M160.5,15.1c-4.3,0-8.4,1.3-11.1,5v-4h-10.8v36.1h10.9v-19c0-5.5,3.7-8.2,8.1-8.2c4.8,0,7.5,2.8,7.5,8.1v19.1
+	h10.8v-23C175.9,20.8,169.2,15.1,160.5,15.1L160.5,15.1z" fill="#999999">
+    </path>
+    <path d="M85.5,43.5c-5.3,0.1-9.7-4-9.8-9.3c0.3-5.4,4.9-9.6,10.3-9.3c5,0.3,9,4.3,9.3,9.3
+	C95.2,39.5,90.8,43.6,85.5,43.5z M95.4,16.1v2.3c-8.7-5.9-20.6-3.7-26.5,5c-5.9,8.7-3.7,20.6,5,26.5c3.2,2.2,6.9,3.3,10.8,3.3
+	c3.8,0,7.6-1.1,10.7-3.3v2.3h10.8V16.1H95.4z" fill="#999999">
+    </path>
+    <path d="M122.9,20.8v-4.7h-11.1v36.1h11.1V35.4c0-5.7,6.2-8.8,10.5-8.8h0.1V16.1C129.1,16.1,125.1,18,122.9,20.8z" fill="#999999">
+    </path>
+    <path d="M199.7,43.5c-5.3,0.1-9.7-4-9.8-9.3c0.3-5.4,4.9-9.6,10.3-9.3c5,0.3,9,4.3,9.3,9.3
+	C209.3,39.5,205,43.6,199.7,43.5z M209.5,16.1v2.3c-8.7-5.9-20.6-3.7-26.5,5s-3.7,20.6,5,26.5c6.5,4.4,15,4.4,21.5,0v2.3h10.8V16.1
+	H209.5z" fill="#999999">
+    </path>
+    <path d="M231.8,39.4c-3.8,0-6.8,3-6.8,6.8s3,6.8,6.8,6.8c3.8,0,6.8-3,6.8-6.8c0,0,0,0,0,0
+	C238.6,42.5,235.6,39.4,231.8,39.4C231.8,39.4,231.8,39.4,231.8,39.4z" fill="#999999">
+    </path>
+   </svg>
+   <svg height="28" id="Layer_1" version="1.1" viewbox="0 0 86 25" width="96" x="0" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0">
+    <style>
+     .st0 {
+                      fill: #999999
+                  }
+    </style>
+    <path class="st0" d="M29.5 24.7V1.3h8c2.6 0 4.7.5 6.1 1.6C45 4 45.7 5.5 45.7 7.6c0 1.1-.3 2-.9 2.9-.6.9-1.4 1.5-2.5 2 1.3.3 2.2 1 2.9 1.9.7.9 1 2.1 1 3.4 0 2.2-.7 3.9-2.1 5.1-1.4 1.2-3.4 1.8-6.1 1.8h-8.5zm4-10.6v7.3H38c1.3 0 2.3-.3 3-.9.7-.6 1.1-1.5 1.1-2.6 0-2.4-1.2-3.7-3.7-3.7h-4.9zm0-3h4c1.3 0 2.3-.3 3-.9.7-.6 1.1-1.4 1.1-2.4 0-1.2-.3-2-1-2.5s-1.7-.8-3.1-.8h-4v6.6zM49.1 15.8c0-1.7.3-3.2 1-4.6.7-1.4 1.6-2.4 2.8-3.1 1.3-.8 2.7-1.1 4.3-1.1 2.3 0 4.3.8 5.7 2.3 1.5 1.5 2.3 3.5 2.4 6v.9c0 1.7-.3 3.2-1 4.6-.7 1.3-1.6 2.4-2.8 3.1-1.2.7-2.6 1.1-4.2 1.1-2.5 0-4.4-.8-5.9-2.4-1.5-1.6-2.2-3.8-2.2-6.5v-.3zm3.9.4c0 1.8.4 3.2 1.1 4.2.7 1 1.8 1.5 3.1 1.5s2.3-.5 3.1-1.5c.7-1 1.1-2.5 1.1-4.5 0-1.8-.4-3.1-1.1-4.2-.8-1-1.8-1.5-3.1-1.5s-2.3.5-3 1.5c-.8.9-1.2 2.4-1.2 4.5zM72.8 24.7h-3.9V0h3.9v24.7zM82 3.1v4.2h3v2.9h-3v9.7c0 .7.1 1.1.4 1.4.3.3.7.4 1.4.4.5 0 .9-.1 1.4-.2v3c-.9.2-1.7.4-2.6.4-3 0-4.5-1.7-4.5-5v-9.8h-2.9V7.3h2.9V3.1H82zM0 16h14.7v8.8l8.8-14.7H8.8V1.3L0 16z">
+    </path>
+   </svg>
+   <svg height="41" version="1.1" viewbox="0 0 152.2 122" width="52" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>
+     Mastercard
+    </title>
+    <path d="M69.9,82.8c0.4,0.3,0.7,0.6,1.1,0.9C50,97.7,21.6,92,7.7,71S-0.6,21.6,20.4,7.6C35.7-2.5,55.7-2.5,71,7.6
+						c-0.4,0.3-0.7,0.6-1,0.9c-20.5,17.7-22.8,48.8-5,69.3C66.4,79.6,68.1,81.3,69.9,82.8L69.9,82.8z M102.2,0c-9,0-17.8,2.6-25.3,7.6
+						c0.4,0.3,0.7,0.6,1,0.9c20.5,17.7,22.8,48.8,5,69.3c-1.5,1.8-3.2,3.4-5,5c-0.4,0.3-0.7,0.6-1.1,0.9c21,14,49.4,8.3,63.4-12.7
+						s8.3-49.4-12.7-63.4C120,2.7,111.2,0,102.2,0L102.2,0z M73.9,9.8c-0.6,0.5-1.2,0.9-1.7,1.4c-19,16.5-21.1,45.4-4.5,64.4
+						c1.4,1.6,2.9,3.1,4.5,4.5c0.6,0.5,1.1,1,1.7,1.4c0.6-0.5,1.2-0.9,1.7-1.4c19-16.5,21.1-45.4,4.5-64.4c-1.4-1.6-2.9-3.1-4.5-4.5
+						C75.1,10.7,74.5,10.3,73.9,9.8L73.9,9.8z" fill="#999999">
+    </path>
+    <path d="M21.1,121.3v-8.4c0.2-2.7-1.9-5.1-4.6-5.3c-0.2,0-0.4,0-0.6,0c-1.9-0.1-3.7,0.8-4.7,2.4
+						c-0.9-1.5-2.6-2.4-4.4-2.4c-1.6-0.1-3,0.7-3.9,2V108H0v13.3h2.9V114c-0.2-1.7,1-3.3,2.7-3.5c0.2,0,0.4,0,0.6,0
+						c1.9,0,2.9,1.3,2.9,3.5v7.4H12V114c-0.2-1.7,1-3.3,2.7-3.5c0.2,0,0.4,0,0.6,0c2,0,2.9,1.3,2.9,3.5v7.4L21.1,121.3z M64.4,108h-4.8
+						v-4h-2.9v4h-2.6v2.6h2.7v6.1c0,3.1,1.2,4.9,4.6,4.9c1.3,0,2.5-0.4,3.6-1l-0.8-2.5c-0.8,0.5-1.7,0.7-2.6,0.8c-1.4,0-1.9-0.9-1.9-2.2
+						v-6.1h4.7L64.4,108z M89.1,107.7c-1.4,0-2.8,0.7-3.5,1.9V108h-2.9v13.3h2.9v-7.5c0-2.2,0.9-3.4,2.8-3.4c0.6,0,1.2,0.1,1.8,0.3
+						l0.9-2.8C90.4,107.7,89.7,107.6,89.1,107.7L89.1,107.7z M51.7,109c-1.6-1-3.5-1.5-5.4-1.4c-3.4,0-5.6,1.6-5.6,4.3
+						c0,2.2,1.6,3.5,4.6,3.9l1.4,0.2c1.6,0.2,2.3,0.6,2.3,1.4c0,1-1.1,1.6-3,1.6c-1.6,0-3.2-0.4-4.4-1.4l-1.4,2.2
+						c1.7,1.2,3.7,1.8,5.8,1.7c3.8,0,6.1-1.8,6.1-4.3s-1.8-3.6-4.7-4l-1.4-0.2c-1.3-0.2-2.3-0.4-2.3-1.3s0.9-1.6,2.5-1.6
+						c1.5,0,2.9,0.4,4.2,1.1L51.7,109z M129.3,107.7c-1.4,0-2.8,0.7-3.5,1.9V108H123v13.3h2.9v-7.5c0-2.2,0.9-3.4,2.8-3.4
+						c0.6,0,1.2,0.1,1.8,0.3l0.9-2.8C130.7,107.7,130,107.6,129.3,107.7L129.3,107.7z M92,114.6c-0.1,3.7,2.8,6.8,6.5,7
+						c0.2,0,0.4,0,0.6,0c1.7,0.1,3.4-0.5,4.8-1.6l-1.4-2.3c-1,0.8-2.2,1.2-3.5,1.2c-2.4-0.2-4.1-2.3-3.9-4.6c0.2-2.1,1.8-3.7,3.9-3.9
+						c1.3,0,2.5,0.4,3.5,1.2l1.4-2.3c-1.3-1.1-3.1-1.7-4.8-1.6c-3.7-0.2-6.9,2.6-7.1,6.3C92,114.1,92,114.4,92,114.6L92,114.6z
+						 M119.1,114.6V108h-2.9v1.6c-1-1.3-2.6-2-4.2-1.9c-3.8,0-7,3.1-7,7c0,3.8,3.1,7,7,7c1.6,0.1,3.2-0.7,4.2-1.9v1.6h2.9V114.6z
+						 M108.4,114.6c0.1-2.2,2.1-3.9,4.3-3.7c2.2,0.1,3.9,2.1,3.7,4.3c-0.1,2.2-2.1,3.9-4.3,3.7c-1-0.1-1.9-0.5-2.6-1.2
+						C108.7,116.8,108.3,115.7,108.4,114.6z M73.4,107.7c-3.8,0.1-6.9,3.2-6.9,7.1s3.2,6.9,7.1,6.9l0,0c2,0.1,4-0.5,5.5-1.8l-1.4-2.1
+						c-1.1,0.9-2.5,1.4-3.9,1.4c-2,0.2-3.8-1.3-4-3.3h9.9v-1.1C79.8,110.5,77.2,107.7,73.4,107.7L73.4,107.7z M73.4,110.2
+						c1.8,0,3.3,1.4,3.4,3.2c0,0,0,0,0,0h-7C69.9,111.6,71.5,110.2,73.4,110.2L73.4,110.2z M146,114.6v-12h-2.8v7c-1-1.3-2.6-2-4.2-1.9
+						c-3.8,0-7,3.1-7,7c0,3.8,3.1,7,7,7l0,0c1.6,0.1,3.2-0.7,4.2-1.9v1.6h2.8V114.6z M150.8,119.4c0.5,0,1,0.3,1.3,0.8
+						c0.1,0.3,0.1,0.7,0,1c-0.1,0.3-0.4,0.6-0.7,0.7c-0.2,0.1-0.3,0.1-0.5,0.1c-0.5,0-1-0.3-1.3-0.8c-0.1-0.3-0.1-0.7,0-1
+						C149.8,119.7,150.3,119.3,150.8,119.4L150.8,119.4z M150.8,121.7c0.1,0,0.3,0,0.4-0.1c0.1-0.1,0.2-0.1,0.3-0.2c0.4-0.4,0.4-1,0-1.4
+						c-0.1-0.1-0.2-0.2-0.3-0.2c-0.1-0.1-0.3-0.1-0.4-0.1c-0.1,0-0.3,0-0.4,0.1c-0.1,0.1-0.2,0.1-0.3,0.2c-0.4,0.4-0.4,1,0,1.4
+						C150.3,121.6,150.6,121.7,150.8,121.7L150.8,121.7z M150.9,120.1c0.1,0,0.3,0,0.4,0.1c0.1,0.1,0.1,0.2,0.1,0.3c0,0.1,0,0.2-0.1,0.3
+						c-0.1,0.1-0.2,0.1-0.3,0.1l0.4,0.5h-0.3l-0.4-0.5h-0.1v0.5h-0.3v-1.2L150.9,120.1z M150.6,120.3v0.3h0.3c0.1,0,0.1,0,0.2,0
+						c0-0.1,0-0.2,0-0.3c-0.1,0-0.1,0-0.2,0L150.6,120.3z M135.3,114.6c0.1-2.2,2.1-3.9,4.3-3.7c2.2,0.1,3.9,2.1,3.7,4.3
+						c-0.1,2.2-2.1,3.9-4.3,3.7c-1-0.1-1.9-0.5-2.6-1.2C135.6,116.8,135.2,115.8,135.3,114.6L135.3,114.6z M37.5,114.6V108h-2.9v1.6
+						c-1-1.3-2.6-2-4.2-1.9c-3.8,0-7,3.1-7,7c0,3.8,3.1,7,7,7c1.6,0.1,3.2-0.7,4.2-1.9v1.6h2.9V114.6z M30.1,110.2c2.5,0,4.5,2,4.5,4.4
+						c0,2.4-2.1,4.4-4.5,4.4c-2.5,0-4.5-2-4.5-4.4C25.6,112.2,27.6,110.3,30.1,110.2L30.1,110.2z" fill="#999999">
+    </path>
+   </svg>
+   <svg height="45" viewbox="0 0 131.964 132.023" width="45" xmlns="http://www.w3.org/2000/svg">
+    <path d="M131.964 131.964H0V0h131.964z" fill="#fff">
+    </path>
+    <path d="M131.964 71.478V.059H0v131.964h131.964v-38.5c-.294 0 0-22.043 0-22.043" fill="#999999">
+    </path>
+    <path d="M115.8 64.131h9.993V40.912h-10.875v3.233l-2.058-3.233h-9.405v4.115l-1.763-4.115H84.351c-.588 0-1.176.294-1.763.294s-.882.294-1.47.588-.882.294-1.47.588v-1.47h-49.67l-1.47 3.821-1.469-3.821H15.283v4.115l-1.763-4.115H4.115L0 50.905v13.226h6.76l1.176-3.233h2.351l1.176 3.233H63.19v-2.939l2.057 2.939h14.4v-1.764c.294.294.882.294 1.176.588s.882.294 1.176.588a3.728 3.728 0 001.763.294h10.582l1.176-3.233h2.351l1.176 3.233h14.4v-2.939l2.351 3.233zm16.165 29.391v-21.75H51.14l-2.058 2.94-2.057-2.94H23.513v23.219h23.512l2.057-2.939 2.057 2.939h14.7v-5h-.588a14.238 14.238 0 005.287-.879v6.172h10.58v-2.938l2.057 2.939h43.792a25.012 25.012 0 004.997-1.764z" fill="#fff">
+    </path>
+    <path d="M126.968 87.933h-7.935v3.233h7.642c3.233 0 5.29-2.057 5.29-5s-1.763-4.409-4.7-4.409h-3.527a1.47 1.47 0 010-2.939h6.76l1.47-3.233h-7.935c-3.233 0-5.29 2.057-5.29 4.7 0 2.939 1.763 4.409 4.7 4.409h3.527a1.388 1.388 0 011.47 1.47c.294 1.176-.294 1.763-1.47 1.763zm-14.4 0h-7.935v3.233h7.642c3.233 0 5.29-2.057 5.29-5s-1.763-4.409-4.7-4.409h-3.527a1.47 1.47 0 010-2.939h6.76l1.47-3.233h-7.935c-3.233 0-5.29 2.057-5.29 4.7 0 2.939 1.763 4.409 4.7 4.409h3.527a1.388 1.388 0 011.47 1.47 1.37 1.37 0 01-1.47 1.763zm-10.288-9.4v-3.234H89.935v15.577h12.345v-3.233h-8.818V84.41h8.523v-3.233h-8.523v-2.939h8.817v.295zm-19.986 0c1.47 0 2.057.882 2.057 1.763s-.588 1.763-2.057 1.763h-4.409v-3.821zm-4.409 6.76h1.763l4.7 5.584h4.412l-5.29-5.878c2.645-.588 4.115-2.351 4.115-4.7 0-2.939-2.057-5-5.29-5h-8.23v15.577h3.527l.294-5.584zm-9.405-4.7a1.857 1.857 0 01-2.057 2.057h-4.7v-4.117h4.409a2.1 2.1 0 012.351 2.057zm-10.287-5.29v15.573h3.527v-5.29h4.7c3.233 0 5.584-2.057 5.584-5.29a5.092 5.092 0 00-5.29-5.29l-8.523.294zM52.9 90.876h4.409l-6.169-7.935 6.172-7.642H52.9l-3.821 5-3.821-5h-4.405l6.172 7.642-6.172 7.642h4.409l3.821-5 3.821 5.29zM39.677 78.533v-3.234H27.333v15.577h12.344v-3.233H30.86V84.41h8.523v-3.233H30.86v-2.939h8.817zM111.1 50.905l6.172 9.405h4.409V44.733h-3.527V55.02l-.882-1.47-5.587-8.817h-4.7V60.31h3.527V49.733zm-15.283-.294l1.176-3.233 1.176 3.233 1.47 3.527h-5.29l1.47-3.527zm6.172 9.7h3.821l-6.763-15.578h-4.7l-6.76 15.577h3.821l1.47-3.233h7.642l1.47 3.233zm-16.459 0L87 57.077h-.882c-2.648 0-4.118-1.763-4.118-4.409v-.294c0-2.645 1.47-4.409 4.115-4.409h3.821v-3.232h-4.115c-4.7 0-7.348 3.233-7.348 7.642v.294c0 4.702 2.645 7.641 7.054 7.641zm-13.226 0h3.527V45.027H72.3zM64.66 47.966c1.47 0 2.057.882 2.057 1.763s-.588 1.763-2.057 1.763h-4.409v-3.82l4.409.294zm-4.409 6.76h1.763l4.7 5.584h4.409l-5.288-5.877c2.645-.588 4.115-2.351 4.115-4.7 0-2.939-2.057-5-5.29-5h-8.23V60.31h3.527l.294-5.584zm-6.466-6.76v-3.233H41.441V60.31h12.344v-3.233h-8.817v-3.233h8.523v-3.233h-8.523v-2.939h8.817zM27.039 60.31h3.233l4.409-12.638V60.31h3.527V44.733H32.33L28.8 55.314l-3.524-10.581H19.4V60.31h3.527V47.672l4.115 12.638zm-19.1-9.7l1.176-3.233 1.176 3.233 1.47 3.527H6.466l1.47-3.527zm6.172 9.7h3.821l-6.764-15.577H6.76L0 60.31h3.821l1.47-3.233h7.642l1.176 3.233z" fill="#999999">
+    </path>
+   </svg>
+   <svg height="80" viewbox="0 0 365.434 63.627" width="135" xmlns="http://www.w3.org/2000/svg">
+    <title>
+     Discover
+    </title>
+    <path d="M28.722,48.338H12.028v58.531H28.722c8.788,0,15.294-1.93,20.921-6.682a29.492,29.492,0,0,0,10.543-22.5c0-17.22-12.829-29.348-31.464-29.348ZM42.08,92.46c-3.516,3.161-8.262,4.571-15.644,4.571H23.45V58.361h2.986c7.382,0,11.953,1.23,15.644,4.746A19.371,19.371,0,0,1,48.412,77.7,20.04,20.04,0,0,1,42.08,92.46ZM65.462,48.338H76.885v58.531H65.462Zm39.371,22.5c-6.857-2.461-8.788-4.216-8.788-7.382,0-3.691,3.517-6.507,8.437-6.507,3.517,0,6.327,1.405,9.313,4.746l5.977-7.732a25.375,25.375,0,0,0-17.225-6.5c-10.368,0-18.28,7.207-18.28,16.695,0,8.087,3.691,12.3,14.414,16.174,4.4,1.581,6.682,2.461,7.912,3.341a6.694,6.694,0,0,1,3.341,5.977c0,4.746-3.7,8.262-8.787,8.262a13.442,13.442,0,0,1-12.479-7.732l-7.381,7.032c5.276,7.732,11.6,11.248,20.216,11.248,11.953,0,20.216-7.912,20.216-19.335-.01-9.317-3.876-13.533-16.884-18.285ZM125.4,77.691c0,17.23,13.534,30.588,30.938,30.588a30.665,30.665,0,0,0,14.239-3.341V91.4c-4.572,4.571-8.613,6.5-13.714,6.5-11.6,0-19.686-8.437-19.686-20.216,0-11.248,8.437-20.215,19.161-20.215,5.451,0,9.492,1.936,14.239,6.682V50.624a29.766,29.766,0,0,0-14.064-3.516c-17.225,0-31.114,13.533-31.114,30.584Zm112.146.355a31.814,31.814,0,1,1-31.813-31.814A31.813,31.813,0,0,1,237.544,78.046Zm23.732,9.662L245.632,48.337H233.153l24.957,60.117h6.157l25.307-60.117H277.1Zm33.4,19.161h32.344V97.031H306.1V81.212h20.215V71.365H306.1V58.356h20.921V48.338H294.674Zm64.333-24.607c8.613-1.755,13.359-7.557,13.359-16.519,0-11.073-7.557-17.4-20.741-17.4h-17.05V106.87H346V83.493h1.585L363.4,106.87h14.058L359.007,82.263Zm-9.673-6.856h-3.341V57.656h3.515c7.207,0,11.073,2.986,11.073,8.613,0,5.977-3.861,9.137-11.248,9.137Z" fill="#999999" transform="translate(-12.028 -46.232)">
+    </path>
+   </svg>
+  </div>
+ </div>
+ <div class="footerLegal">
+  <div class="container-fluid pageWidth py-4">
+   <div class="row">
+    <div class="col-12">
+     <p>
+      All rights reserved. Bob's Watches is not affiliated with Rolex S.A., Rolex USA, or
+any
+of its
+subsidiaries.
+     </p>
+     <p>
+      Bob's Watches is an independent watch dealer and is not sponsored by, associated with
+and/or
+affiliated with Rolex S.A., Rolex USA, or any other brand listed on its website.
+Bob's
+Watches
+only sells pre-owned watches and provides its own warranties on the watches it
+sells.
+The brand
+names and associated model names for Rolex, OMEGA and other manufacturers are the
+trademarks of
+their respective owners.
+     </p>
+    </div>
+   </div>
+  </div>
+ </div>
+</footer>
+<script src="/js/site.js?v=%2020230116-082210" type="text/javascript">
+</script>
+<script src="/js/compare.js.php?v=20220802-072240" type="text/javascript">
+</script>
+<script async="" data-cfasync="false" data-cirkuit-ignore="1" search="query" src="//cdn.searchspring.net/search/v3/js/searchspring.catalog.js?rbeja3">
+</script>
+<script data-cfasync="false" src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js">
+</script>
+<script type="text/javascript">
+ window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#26242f",
+                        "text": "#FFF"
+                    },
+                    "button": {
+                        "background": "#fff",
+                        "text": "#26242f"
+                    }
+                },
+                "theme": "classic",
+                "content": {
+                    "href": "/privacy-policy"
+                }
+            });
+</script>
+<noscript>
+ <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-Q76G" style="display:none;visibility:hidden" width="0">
+ </iframe>
+</noscript>
+<script async="" data-client-id="16a712cd-25f0-5339-85e5-fbab83bb2ded" src="https://na-library.klarnaservices.com/lib.js" type="text/javascript">
+</script>
+<script async="" src="//static.klaviyo.com/onsite/js/klaviyo.js?company_id=MVAuUV" type="text/javascript">
+</script>
+<script type="text/javascript">
+ (function (c, l, a, r, i, t, y) {
+                c[a] = c[a] || function () {
+                    (c[a].q = c[a].q || []).push(arguments)
+                };
+                t = l.createElement(r);
+                t.async = 1;
+                t.src = 'https://www.clarity.ms/tag/' + i;
+                y = l.getElementsByTagName(r)[0];
+                y.parentNode.insertBefore(t, y);
+            })(window, document, "clarity", "script", "e6ogyvyled");
+</script>
+<script type="text/javascript">
+ (function () {
+                var FIELD_NAME = " utm_click_id";
+                var urlParams = new URLSearchParams(window.location.search);
+                if (urlParams.has(FIELD_NAME)) {
+                    window.localStorage.setItem("dianomi_click_id", urlParams.get(FIELD_NAME));
+                }
+            })()
+</script>
+<script type="application/ld+json">
+ {
+                "@context": "https://schema.org",
+                "@type": "WebSite",
+                "@id": "https:\/\/www.bobswatches.com\/#website",
+                "url": "https://www.bobswatches.com",
+                "potentialAction": {
+                    "@type": "SearchAction",
+                    "target": "https://www.bobswatches.com/search?query={query}",
+                    "query-input": "required name=query"
+                }
+            }
+</script>
+<script type="application/ld+json">
+ {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "@id": "https://www.bobswatches.com/#org",
+                "name": "Bob's Watches",
+                "url": "https://www.bobswatches.com",
+                "description": "The largest and most trusted name to buy or sell 100% certified pre-owned and used Rolex watches like the Submariner, Datejust, GMT, and Daytona. Best prices, best selection, Free shipping at Bob's Watches.",
+                "telephone": "(800) 494-3708",
+                "logo": "https://www.bobswatches.com/images/bobs-watches-logo.svg",
+                "image": "https://www.bobswatches.com/images/bobs-watches-logo.svg",
+                "contactPoint": {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-800-494-3708",
+                    "contactType": "customer service",
+                    "contactOption": "TollFree",
+                    "areaServed": "US",
+                    "availableLanguage": "English"
+                },
+                "sameAs": [
+                    "https://www.facebook.com/bobswatches",
+                    "https://twitter.com/bobswatches",
+                    "https://www.instagram.com/bobswatches/",
+                    "https://www.youtube.com/user/bobswatches",
+                    "https://www.linkedin.com/company/bob%27s-watches",
+                    "https://www.pinterest.com/BobsWatches/",
+                    "https://en.wikipedia.org/wiki/Bob%27s_Watches"
+                ],
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "1900 Quail Street",
+                    "addressLocality": "Newport Beach",
+                    "addressRegion": "California",
+                    "postalCode": "92660",
+                    "addressCountry": "United States"
+                }
+            }
+</script>
+<script crossorigin="anonymous" data-cf-beacon='{"rayId":"78cc5b0dd8b1ce8c","token":"4dfab4d997b442d7920d6d15c80778ee","version":"2022.11.3","si":100}' defer="" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993">
+</script>
+<iframe height="0" src="https://9865554.fls.doubleclick.net/activityi;src=9865554;type=pageview;cat=sitwde-s;ord=2393348773078;gtm=2wg1i0;auiddc=1821739809.1674265373;u2=US;u3=Brand;u4=Regular%20Price;u5=Item%20Number;u6=Nickname;u7=Condition;u8=Model%20Name;u9=Model%20Number;u10=Serial;u11=Year;u12=Gender;u13=https%3A%2F%2Fwww.bobswatches.com%2Frolex%2Fexplorer_ii-16570-white;u15=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F109.0.0.0%20Safari%2F537.36;~oref=https%3A%2F%2Fwww.bobswatches.com%2Frolex%2Fexplorer_ii-16570-white?" style="display: none; visibility: hidden;" width="0">
+</iframe>
+<iframe height="0" src="https://9865554.fls.doubleclick.net/activityi;src=9865554;type=pageview;cat=stwide-u;ord=1;num=1759086963031;gtm=2wg1i0;auiddc=1821739809.1674265373;u2=US;u3=Brand;u4=Regular%20Price;u5=Item%20Number;u6=Nickname;u7=Condition;u8=Model%20Name;u9=Model%20Number;u10=Serial;u11=Year;u12=Gender;u13=https%3A%2F%2Fwww.bobswatches.com%2Frolex%2Fexplorer_ii-16570-white;u15=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F109.0.0.0%20Safari%2F537.36;~oref=https%3A%2F%2Fwww.bobswatches.com%2Frolex%2Fexplorer_ii-16570-white?" style="display: none; visibility: hidden;" width="0">
+</iframe>
+<script id="" type="text/javascript">
+ (function(a,e,c,f,g,b,d){var h={ak:"1064467211",cl:"9HfNCIvLiVYQi_bJ-wM"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[f]||(a[f]=h.ak);b=e.createElement(g);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(g)[0];d.parentNode.insertBefore(b,d);a._googWcmGet=function(b,d,e){a[c](2,b,h,d,null,new Date,e)}})(window,document,"_googWcmImpl","_googWcmAk","script");
+</script>
+<script id="" type="text/javascript">
+ (function(){var b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src="//storage.googleapis.com/code.snapengage.com/js/c23e9b99-762d-43af-9c95-0fdbe004f2f3.js";var e=!1;b.onload=b.onreadystatechange=function(){if(!(e||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){e=!0;var g=20;SnapEngage.hideButton();setTimeout("SnapEngage.showButton()",1E3*g);"undefined"!==typeof site_email&&SnapEngage.setUserEmail(site_email);"undefined"!==typeof site_fullname&&
+SnapEngage.setUserName(site_fullname);var c;SnapEngage.setCallback("Open",function(a){ga("send","event","Chat","Open Chat",a)});SnapEngage.setCallback("OpenProactive",function(a,d){c=a;ga("send","event","Chat","ProactivePrompt",c)});SnapEngage.setCallback("MessageSubmit",function(a,d){ga("send","event","Chat","Offline Message Submit",d)});SnapEngage.setCallback("StartCallMe",function(a){ga("send","event","Chat","Start a call-me",a)});SnapEngage.setCallback("StartChat",function(a,d,h){c=a;ga("send",
+"event","Chat","Start Chat",c)})}};var f=document.getElementsByTagName("script")[0];f.parentNode.insertBefore(b,f)})();
+</script>
+<script type="application/ld+json">
+ {
+  "@context": "http://schema.org/",
+  "@type": "WebSite",
+  "name": "Bob's Watches",
+  "url": "https://www.bobswatches.com",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.bobswatches.com/search?query={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script id="" type="text/javascript">
+ jQuery(document).ready(function(a){if("function"===typeof ga)a('input[name\x3d"seocart_instock_notification_submit"]').on("click",function(){ga("send","event",{eventCategory:"Waitlist Form",eventAction:"Form Submit",eventLabel:"Wait List / "+document.title})})});
+</script>
+<div style="display: none; visibility: hidden;">
+ <script>
+  jQuery&&jQuery(document).ready(function(b){if("function"===typeof ga)b(".mobile__header a, .mobile__nav--global a, #headerwrapperinner a").on("click",function(a){a=b(this).attr("href").trim();"javascript:void(0);"==a||"#"==a||a.startsWith("/cart")||a.startsWith("/verify_login")||(1==a.startsWith("/")&&(a="https://www.bobswatches.com"+a),0<a.length&&ga("send","event",{eventCategory:"Nav",eventAction:"Select",eventLabel:a}))})});
+ </script>
+</div>
+<script id="" type="text/javascript">
+ var googleTagParams={};googleTagParams="/"==window.location.pathname?{ecomm_pagetype:"home"}:document.querySelector(".category")?{ecomm_pagetype:"category"}:document.querySelector(".product")?{ecomm_pagetype:"product",ecomm_prodid:document.querySelector('[itemprop\x3d"sku"]').getAttribute("content"),ecomm_totalvalue:parseFloat(document.querySelector('[itemprop\x3d"price"]').getAttribute("content").replace(",",""))}:"/cart"==window.location.pathname?{ecomm_pagetype:"cart"}:{ecomm_pagetype:"other"};
+dataLayer.push({event:"dynamicRemarketing",tagParams:googleTagParams});
+</script>
+<div class="ss-targeted" id="searchspring-ac-overlay-container">
+ <div class="searchspring-ac-overlay ng-scope">
+ </div>
+</div>
+<div class="ss-targeted" id="searchspring-loading">
+ <div class="ss-results-loading ng-scope" ng-class="{'ss-active': loading}">
+  <div class="ss-results-loading-bar">
+  </div>
+ </div>
+</div>
+<iframe aria-hidden="true" id="_hjRemoteVarsFrame" name="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-ff00c703c3bbdf54ae44ee858d64f69e.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" tabindex="-1" title="_hjRemoteVarsFrame">
+</iframe>
+<div id="designstudio" style="font-size:16px;-webkit-transform:translateZ(0);-moz-transform:translateZ(0);-ms-transform:translateZ(0);transform:translateZ(0);display:none;z-index:100003;position:fixed;height:32.75em;width:25.25em;right:0;float:right;bottom:0;">
+ <div id="draggable" style="width:calc(100% - 5.9375em);left:0;top:0;position:absolute;height:3em;z-index:13000;margin-top:12px;margin-left:12px;cursor:move;">
+ </div>
+ <iframe id="designstudio-iframe" name="designstudio-frame" style="-webkit-transform:translateZ(0);-moz-transform:translateZ(0);-ms-transform:translateZ(0);transform:translateZ(0);display:block;position:absolute;border:none;width:100%;height:100%;" title="Live Chat Box" translate="no">
+ </iframe>
+</div>
+<div id="designstudio-minimize" style="position:fixed;z-index:999998;display:none;" tabindex="0">
+ <iframe id="iframe-minimize" name="designstudio-minimize-frame" scrolling="no" style="border:none;display:block;font-size:14px;" tabindex="-1" title="Live Chat Button" translate="no">
+  <div id="minimize-content">
+   <div class="minimize-notify-right-avatar minimize-notify-bottom" id="minimize-notify">
+    <span id="minimize-notify-counter">
+    </span>
+   </div>
+   <div class="right bottom" id="minimize-avatar-container">
+    <img alt="minimized chat" id="minimize-avatar"/>
+   </div>
+   <div class="right bottom" id="minimize-svg">
+    <div id="svg-container">
+     <svg viewbox="0 0 600 600">
+      <defs>
+       <filter height="140%" id="dropshadow">
+        <fegaussianblur in="SourceAlpha" stddeviation="15">
+        </fegaussianblur>
+        <feoffset dx="10" dy="10" result="offsetblur">
+        </feoffset>
+        <fecomponenttransfer>
+         <fefunca slope="0.8" type="linear">
+         </fefunca>
+        </fecomponenttransfer>
+        <femerge>
+         <femergenode>
+         </femergenode>
+         <femergenode in="SourceGraphic">
+         </femergenode>
+        </femerge>
+       </filter>
+      </defs>
+      <g class="designstudio-container" id="comments-o">
+       <circle class="designstudio-circle" cx="50%" cy="50%" fill="#afc235" fill-opacity="1" linejoin="round" position="absolute" r="260" stroke="#ffffff" stroke-width="0">
+       </circle>
+       <path class="designstudio-icon" d="M704 1152q-153 0 -286 -52t-211.5 -141t-78.5 -191q0 -82 53 -158t149 -132l97 -56l-35 -84q34 20 62 39l44 31l53 -10q78 -14 153 -14q153 0 286 52t211.5 141t78.5 191t-78.5 191t-211.5 141t-286 52zM704 1280q191 0 353.5 -68.5t256.5 -186.5t94 -257t-94 -257 t-256.5 -186.5t-353.5 -68.5q-86 0 -176 16q-124 -88 -278 -128q-36 -9 -86 -16h-3q-11 0 -20.5 8t-11.5 21q-1 3 -1 6.5t0.5 6.5t2 6l2.5 5t3.5 5.5t4 5t4.5 5t4 4.5q5 6 23 25t26 29.5t22.5 29t25 38.5t20.5 44q-124 72 -195 177t-71 224q0 139 94 257t256.5 186.5 t353.5 68.5zM1526 111q10 -24 20.5 -44t25 -38.5t22.5 -29t26 -29.5t23 -25q1 -1 4 -4.5t4.5 -5t4 -5t3.5 -5.5l2.5 -5t2 -6t0.5 -6.5t-1 -6.5q-3 -14 -13 -22t-22 -7q-50 7 -86 16q-154 40 -278 128q-90 -16 -176 -16q-271 0 -472 132q58 -4 88 -4q161 0 309 45t264 129 q125 92 192 212t67 254q0 77 -23 152q129 -71 204 -178t75 -230q0 -120 -71 -224.5t-195 -176.5z" fill="#ffffff" transform="scale(.195, -.195) translate(600, -2000)">
+       </path>
+      </g>
+     </svg>
+    </div>
+   </div>
+   <div class="message-left bottom" id="minimize-messages">
+   </div>
+  </div>
+ </iframe>
+</div>
+<style id="design-studio-animate">
+ .designstudio-animated {-webkit-animation-duration: .5s;animation-duration: .5s;-webkit-animation-fill-mode: both;animation-fill-mode: both;}@keyframes designstudio-fadeOut {from {opacity: 1;}to {opacity: 0;}}.designstudio-fadeOut {animation-name: designstudio-fadeOut;}@-webkit-keyframes designstudio-fadeInUp {from {opacity: 0;-webkit-transform: translate3d(0, 100%, 0);transform: translate3d(0, 100%, 0);}to {opacity: 1;-webkit-transform: none;transform: none;}}@keyframes designstudio-fadeInUp {from {opacity: 0;-webkit-transform: translate3d(0, 100%, 0);transform: translate3d(0, 100%, 0);}to {opacity: 1;-webkit-transform: none;transform: none;}}.designstudio-fadeInUp {-webkit-animation-name: designstudio-fadeInUp;animation-name: designstudio-fadeInUp;}@-webkit-keyframes designstudio-fadeInDown {from {opacity: 0;-webkit-transform: translate3d(0, -100%, 0);transform: translate3d(0, -100%, 0);}to {opacity: 1;-webkit-transform: none;transform: none;}}@keyframes designstudio-fadeInDown {from {opacity: 0;-webkit-transform: translate3d(0, -100%, 0);transform: translate3d(0, -100%, 0);}to {opacity: 1;-webkit-transform: none;transform: none;}}.designstudio-fadeInDown {-webkit-animation-name: designstudio-fadeInDown;animation-name: designstudio-fadeInDown;}@-webkit-keyframes designstudio-fadeInLeft {from {opacity: 0;-webkit-transform: translate3d(-100%, 0, 0);transform: translate3d(-100%, 0, 0);}to {opacity: 1;-webkit-transform: none;transform: none;}}@keyframes designstudio-fadeInLeft {from {opacity: 0;-webkit-transform: translate3d(-100%, 0, 0);transform: translate3d(-100%, 0, 0);}to {opacity: 1;-webkit-transform: none;transform: none;}}.designstudio-fadeInLeft {-webkit-animation-name: designstudio-fadeInLeft;animation-name: designstudio-fadeInLeft;}@-webkit-keyframes designstudio-fadeInRight {from {opacity: 0;-webkit-transform: translate3d(100%, 0, 0);transform: translate3d(100%, 0, 0);}to {opacity: 1;-webkit-transform: none;transform: none;}}@keyframes designstudio-fadeInRight {from {opacity: 0;-webkit-transform: translate3d(100%, 0, 0);transform: translate3d(100%, 0, 0);}to {opacity: 1;-webkit-transform: none;transform: none;}}.designstudio-fadeInRight {-webkit-animation-name: designstudio-fadeInRight;animation-name: designstudio-fadeInRight;}@-webkit-keyframes designstudio-fadeOutUp {from {opacity: 1;}to {opacity: 0;-webkit-transform: translate3d(0, -100%, 0);transform: translate3d(0, -100%, 0);}}@keyframes designstudio-fadeOutUp {from {opacity: 1;}to {opacity: 0;-webkit-transform: translate3d(0, -100%, 0);transform: translate3d(0, -100%, 0);}}.designstudio-fadeOutUp {-webkit-animation-name: designstudio-fadeOutUp;animation-name: designstudio-fadeOutUp;}@-webkit-keyframes designstudio-fadeOutDown {from {opacity: 1;}to {opacity: 0;-webkit-transform: translate3d(0, 100%, 0);transform: translate3d(0, 100%, 0);}}@keyframes designstudio-fadeOutDown {from {opacity: 1; }to {opacity: 0;-webkit-transform: translate3d(0, 100%, 0);transform: translate3d(0, 100%, 0);}}.designstudio-fadeOutDown {-webkit-animation-name: designstudio-fadeOutDown;animation-name: designstudio-fadeOutDown;}@-webkit-keyframes designstudio-fadeOutLeft {from {opacity: 1;}to {opacity: 0;-webkit-transform: translate3d(-100%, 0, 0);transform: translate3d(-100%, 0, 0);}}@keyframes designstudio-fadeOutLeft {from {opacity: 1;}to {opacity: 0;-webkit-transform: translate3d(-100%, 0, 0);transform: translate3d(-100%, 0, 0);}}.designstudio-fadeOutLeft {-webkit-animation-name: designstudio-fadeOutLeft;animation-name: designstudio-fadeOutLeft;}@-webkit-keyframes designstudio-fadeOutRight {from {opacity: 1;}to {opacity: 0;-webkit-transform: translate3d(100%, 0, 0);transform: translate3d(100%, 0, 0);}}@keyframes designstudio-fadeOutRight {from {opacity: 1;}to {opacity: 0;-webkit-transform: translate3d(100%, 0, 0);transform: translate3d(100%, 0, 0);}}.designstudio-fadeOutRight {-webkit-animation-name: designstudio-fadeOutRight;animation-name: designstudio-fadeOutRight;}@-webkit-keyframes designstudio-slideInDown {from {-webkit-transform: translate3d(0, -100% , 0);transform: translate3d(0, -100% , 0);visibility: visible;}to {-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);}}@keyframes designstudio-slideInDown {from {-webkit-transform: translate3d(0, -100% , 0);transform: translate3d(0, -100% , 0);visibility: visible;}to {-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);}}.designstudio-slideInDown {-webkit-animation-name: designstudio-slideInDown;animation-name: designstudio-slideInDown;}@-webkit-keyframes designstudio-slideInLeft {from {-webkit-transform: translate3d(-100% , 0, 0);transform: translate3d(-100% , 0, 0);visibility: visible;}to {-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);}}@keyframes designstudio-slideInLeft {from {-webkit-transform: translate3d(-100% , 0, 0);transform: translate3d(-100% , 0, 0);visibility: visible;}to {-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);}}.designstudio-slideInLeft {-webkit-animation-name: designstudio-slideInLeft;animation-name: designstudio-slideInLeft;}@-webkit-keyframes designstudio-slideInRight {from {-webkit-transform: translate3d(100% , 0, 0);transform: translate3d(100% , 0, 0);visibility: visible;}to {-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);}}@keyframes designstudio-slideInRight {from {-webkit-transform: translate3d(100% , 0, 0);transform: translate3d(100% , 0, 0);visibility: visible;}to {-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);}}.designstudio-slideInRight {-webkit-animation-name: designstudio-slideInRight;animation-name: designstudio-slideInRight;}@-webkit-keyframes designstudio-slideInUp {from {-webkit-transform: translate3d(0, 100% , 0);transform: translate3d(0, 100% , 0);visibility: visible;}to {-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);}}@keyframes designstudio-slideInUp {from {-webkit-transform: translate3d(0, 100% , 0);transform: translate3d(0, 100% , 0);visibility: visible;}to {-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);}} .designstudio-slideInUp {-webkit-animation-name: designstudio-slideInUp;animation-name: designstudio-slideInUp;}
+</style>
+<iframe aria-hidden="true" id="_hjSafeContext_12119513" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" tabindex="-1" title="_hjSafeContext">
+</iframe>
+<script external="" type="text/ss-template">
+</script>
+<link href="//cdn.searchspring.net/ajax_search/sites/rbeja3/css/rbeja3.css" rel="stylesheet"/>
+<!-- AutoComplete -->
+<script name="AutoComplete" target="[ss-autocomplete]" type="text/ss-template">
+ <div class="ss-ac-container" ng-show="ac.visible" ng-class="{'no-terms': ac.terms.length == 0}">		<div class="ss-ac-inner-container ss-flex-wrap">			<div class="ss-ac-terms" ng-show="ac.terms">				<h4 class="ss-title">Top Suggestions</h4>				<div class="ss-list">					<div ng-repeat="term in ac.terms | limitTo:4" class="ss-list-option"						ng-class="{'ss-active': term.active}">						<a ng-bind-html="term.label | trusted" ss-no-ps ss-nav-selectable ng-focus="term.preview()"							href="{{ term.url }}" class="ss-list-link"></a>					</div>				</div>			</div>			<div class="ss-ac-facets" ng-show="ac.facets">				<div class="ss-ac-facets-row">					<div ng-repeat="facet in ac.facets | filter:{ type: '!slider' } | limitTo:2" ng-switch="facet.type"						ng-if="facet.values.length" id="ss-ac-{{ facet.field }}"						class="ss-ac-facet-container ss-ac-facet-container-{{ (facet.type && (facet.type != 'hierarchy' || facet.type != 'slider')) ? facet.type : 'list' }}">						<h4 class="ss-title">{{ facet.label }}</h4>						<div ng-switch-when="palette" class="ss-ac-palette">							<div ng-repeat="value in facet.values | limitTo:4" class="ss-palette-option"								ng-class="{'ss-active': value.active}">								<a href="{{ value.url }}" ss-no-ps ss-nav-selectable ng-focus="value.preview()"									class="ss-palette-link" alt="{{ value.label }}">									<div class="ss-palette-block">										<div class="ss-palette-color ss-palette-color-{{ value.value | handleize }}"											ng-style="{'background-color': (value.value | handleize)}"></div>									</div>									<div class="ss-palette-label">{{ value.label }}</div>								</a>							</div>						</div>						<div ng-switch-default class="ss-list">							<div ng-repeat="value in facet.values | limitTo:4" class="ss-list-option"								ng-class="{'ss-active': value.active}">								<a href="{{ value.url }}" ss-no-ps ss-nav-selectable ng-focus="value.preview()"									class="ss-list-link ss-checkbox">									{{ value.label }}								</a>							</div>						</div>					</div>				</div>				<div ng-if="ac.merchandising.content.left.length > 0" id="ss-ac-merch-left" class="ss-ac-merchandising"					ss-merchandising="ac.left"></div>			</div>			<div class="ss-ac-results">				<div class="ss-ac-results-header">					<h4 class="ss-title ss-ac-results-title">Search Results for <strong>"{{ ac.q }}"</strong></h4>				</div>				<div ng-if="ac.merchandising.content.header.length > 0" id="ss-ac-merch-header" class="ss-ac-merchandising"					ss-merchandising="ac.header"></div>				<div ng-if="ac.merchandising.content.banner.length > 0" id="ss-ac-merch-banner" class="ss-ac-merchandising"					ss-merchandising="ac.banner"></div>				<div ng-if="ac.results.length" class="ss-ac-item-container ss-flex-wrap">					<article class="ss-ac-item" ng-repeat="result in ac.results | limitTo:4">						<a ng-href="{{ result.url }}" ss-no-ps ss-nav-selectable>							<div class="ss-ac-item-image">								<div class="ss-image-wrapper"									ng-style="{'background-image': 'url(' + result.thumbnailImageUrl + ')'}"									alt="{{ result.name }}" title="{{ result.name }}"></div>									<div class="ss-image-wrapper-fade"></div>							</div>							<div class="ss-ac-item-details">								<p class="ss-ac-item-name">{{ result.name | truncate:40:'&hellip;' }}</p>								<div class="ss-ac-item-price">									<p ng-if="result.msrp && (result.msrp * 1) > (result.price * 1)"										class="ss-ac-item-msrp">{{ result.msrp | currency }}</p>									<p class="ss-ac-item-regular"										ng-class="{'ss-ac-item-on-sale': result.msrp && (result.msrp * 1) > (result.price * 1)}">										{{ result.price | currency }}</p>								</div>							</div>						</a>					</article>				</div>				<div ng-if="ac.results.length" class="ss-ac-see-more-container">					<h4 class="ss-ac-see-more">						<a href="{{ ac.location.remove('perpage').remove('query').remove('q').add('query',ac.q).url() }}" ng-click="ac.visible = false;"							class="ss-ac-see-more-link ss-title" ss-nav-selectable>							See All {{ ac.pagination.totalResults }} {{ ac.breadcrumbs.length > 1 ? 'filtered' : '' }}							Result{{ ac.pagination.totalResults > 1 ? 's' : '' }} for "{{ ac.q }}"						</a>					</h4>				</div>				<div ng-if="!ac.results.length" class="ss-ac-no-results">					<p>No results found for "{{ ac.q }}". Please try another search.</p>				</div>				<div ng-if="ac.merchandising.content.footer.length > 0" id="ss-ac-merch-footer" class="ss-ac-merchandising"					ss-merchandising="ac.footer"></div>			</div>		</div>	</div>
+</script>
+<!-- Autocomplete Overlay -->
+<script name="Results - Loading" target="#searchspring-ac-overlay-container" type="text/ss-template">
+ <div class="searchspring-ac-overlay"></div>
+</script>
+<!-- SearchSpring Sidebar -->
+<script module="search" name="SearchSpring Sidebar" target="#searchspring-sidebar" type="text/ss-template">
+ <div ng-if="pagination.totalResults" class="ss-slideout-toolbar">		<em ng-hide="facets.length === 0 && filterSummary.length === 0" class="facetMobile">			<img src="/images/managed/filter.svg" alt="filter icon" class="noRespFix" width="17" height="16"> Filter Options		</em>	</div>	<aside class="ss-sidebar-container">		<div id="searchspring-total-results-title"></div>		<div ng-if="facets.length === 0" class="ss-filter-messages"></div>		<div ng-if="facets.length" class="ss-facets facetMobileFilter"></div>				<a ng-if="facets.length === 0 && context.category" ng-href="/sell-rolex-watch" class="ss-filter-banner">			<img src="https://www.bobswatches.com/image/sell-my-watch.png" alt="Sell My Watch">		</a>	</aside>
+</script>
+<!-- Filter Messages -->
+<script name="Filter Messages" target=".ss-filter-messages" type="text/ss-template">
+ <!----<p ng-if="pagination.totalResults === 0 && filterSummary.length === 0" class="ss-filter-message-content">		There are no results to refine. If you need additional help, please try our search "<strong>SUGGESTIONS</strong>".	</p>---->	<p ng-if="pagination.totalResults === 0 && filterSummary.length" class="ss-filter-message-content">		If you are not seeing any results, try removing some of your selected filters.	</p>	<p ng-if="pagination.totalResults && filterSummary.length === 0" class="ss-filter-message-content">		There are no filters to refine by.	</p>
+</script>
+<!-- Facets -->
+<script name="Facets" target=".ss-facets" type="text/ss-template">
+ <div class="ss-slideout-header">	<div class="ss-filter-header">		<img src="/images/managed/close.svg" alt="Close" class="facetMobileClose noRespFix" aria-hidden="true" width="15"			height="14">			<h4 class="ss-title">Filters</h4>	</div>			<div class="ss-facetMobile-summary">				<div class="ss-summary"></div>			</div>	</div>		<em ng-if="altCategory" class="heading">Buy New &amp; Used <br> {{ altCategory }}</em>	<div class="widget search">		<form id="searchspring-refine_search" ng-submit="location().remove('page').remove('rq').add('rq', query.rq).go()"			ng-if="pagination.totalResults">			<input type="text" name="rq" id="searchspring-refine_query" class="inputText"				placeholder="Search Within Results" ng-model="query.rq" autocomplete="off" aria-label="Search Within Results" />			<input class="inputSubmit" type="image" name="submit" src="/images/managed/search.svg" alt="search icon" title="submit search">		</form>	</div>		<!-- Added so the generated 'Compare Watches' button is injected here -->	<div class="ss-compare-cont"></div>		<article ng-repeat="facet in facets" ng-switch="facet.type" id="ss-{{ facet.field }}"		class="ss-facet-container ss-facet-container-{{ facet.type ? facet.type : 'list' }} widget"		ng-class="{'showAll': !facet.collapse, '': facet.collapse}">		<div class="ss-facet-options">			<ul>				<li>					<strong ng-click="facet.collapse = !facet.collapse">{{ facet.label }} <svg ng-if="facet.collapse" width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1395 736q0 13-10 23l-466 466q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l393 393 393-393q10-10 23-10t23 10l50 50q10 10 10 23z"></path></svg>					<svg ng-if="!facet.collapse" width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1395 1184q0 13-10 23l-50 50q-10 10-23 10t-23-10l-393-393-393 393q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg> </strong>					<div ng-switch-when="hierarchy" class="ss-hierarchy">						<div ng-repeat="value in facet.values | limitTo:facet.overflow.limit" class="ss-hierarchy-option"							ng-class="{'ss-hierarchy-current': value.active, 'ss-hierarchy-return': value.history && !value.active}">							<a ng-if="!value.active" href="{{ value.url }}" class="ss-hierarchy-link closeFacet">								{{ value.label }} <span ng-if="!value.history"									ng-class="{'ss-hierarchy-current': value.active, 'ss-hierarchy-return': value.history && !value.active}">									<span class="ss-facet-count">({{ value.count }})</span></span>							</a>							<strong>{{ value.active ? value.label : '' }}</strong>						</div>					</div>					<ul ng-switch-default class="ss-list ss-scrollbar">						<li ng-repeat="value in facet.values | limitTo:facet.overflow.limit" class="ss-list-option">							<a href="{{ value.url }}" class="closeFacet" ng-class="{'seocart_NavigationCurrent': value.active}">								<svg ng-if="value.active" width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg">									<path d="M1 5.5L5 9.5L13.5 1" stroke="white" stroke-width="1.6"></path>								</svg>								<span class="html">{{ value.label }}</span>								<span class="ss-facet-count count">({{ value.count }})</span>							</a>						</li>					</ul>					<ul ng-switch-when="palette" class="ss-list"						ng-class="{'ss-scrollbar': facet.overflow.remaining != facet.overflow.count}">						<li ng-repeat="value in facet.values | limitTo:facet.overflow.limit" class="ss-list-option">							<a href="{{ value.url }}" class="hasFilterColor closeFacet"								ng-class="{'seocart_NavigationCurrent': value.active}">								<div class="filterColor ss-palette-color-{{ value.value  | handleize }}"></div>								<svg ng-if="value.active" width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg">									<path d="M1 5.5L5 9.5L13.5 1" stroke="white" stroke-width="1.6"></path>								</svg>								<span class="html">{{ value.label }} <span										ng-if="selectedModel.length">{{ selectedModel }}</span></span>								<span class="ss-facet-count count">({{ value.count }})</span>							</a>						</li>					</ul>				</li>				<li ng-if="facet.overflow.set(facet.limitCount).count" ng-click="facet.overflow.toggle()" class="viewMore">					{{ facet.overflow.remaining ? '+ View More' : '- View Less' }}</li>			</ul>		</div>	</article>		<div class="ss-filter-buttons">				<div ng-if="filterSummary.length > 1" class="clearAll">			<a href="{{ filterSummaryClearAllUrl }}">				<span class="close">					<i class="fa fa-times" aria-hidden="true"></i>				</span> Clear All Filters			</a>		</div>	</div>	<div ng-if="merchandising.content.left.length > 0" id="ss-merch-left" class="ss-merchandising" ss-merchandising="left">	</div>
+</script>
+<!-- Filter Summary -->
+<script name="Filter Summary" target=".ss-summary" type="text/ss-template">
+ <ul class="selected-facets">		<li ng-if="filterSummary.length > 1" class="clearAll unbxd-selected-facet-holder">			<a href="{{ filterSummaryClearAllUrl }}">				Clear All Filters&nbsp;				<span class="close"><svg width="1792" fill="#757575" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1277 1122q0-26-19-45l-181-181 181-181q19-19 19-45 0-27-19-46l-90-90q-19-19-46-19-26 0-45 19l-181 181-181-181q-19-19-45-19-27 0-46 19l-90 90q-19 19-19 46 0 26 19 45l181 181-181 181q-19 19-19 45 0 27 19 46l90 90q19 19 46 19 26 0 45-19l181-181 181 181q19 19 45 19 27 0 46-19l90-90q19-19 19-46zm387-226q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z"></path></svg>				</span>			</a>		</li>		<li ng-repeat="filter in filterSummary" class="unbxd-selected-facet-holder">			<a href="{{ filter.remove.url }}" class="unbxd-selected-facet">				<span class="ss-summary-value">{{ filter.filterValue }}</span>&nbsp;				<span class="close"><svg width="1792" fill="#757575" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1277 1122q0-26-19-45l-181-181 181-181q19-19 19-45 0-27-19-46l-90-90q-19-19-46-19-26 0-45 19l-181 181-181-181q-19-19-45-19-27 0-46 19l-90 90q-19 19-19 46 0 26 19 45l181 181-181 181q-19 19-19 45 0 27 19 46l90 90q19 19 46 19 26 0 45-19l181-181 181 181q19 19 45 19 27 0 46-19l90-90q19-19 19-46zm387-226q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z"></path></svg>				</span>			</a>		</li>	</ul>
+</script>
+<!-- Pagination -->
+<script name="Pagination" target=".ss-pagination" type="text/ss-template">
+ <div class="categoryPaginationWrapper">		<div class="ss-pagination-count">{{pagination.begin}} - {{pagination.end}} of {{pagination.totalResults}} results</div>		<div class="categoryPaginationContainer">			<div class="categoryPagination">				<div class="categoryPaginationButton categoryPaginationButtonPrev categoryPaginationButtonPrevFirst">					<a ng-href="{{ pagination.first.url }}" ng-if="pagination.currentPage != 1" aria-label="button-prev-first"><svg width="15" height="10" viewBox="0 0 15 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.7627 5L14.197 8.43431L13.0657 9.56568L8.49997 5L13.0657 0.434311L14.197 1.56568L10.7627 5Z" fill="black"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M3.06569 5L6.5 8.43431L5.36863 9.56568L0.802944 5L5.36863 0.434311L6.5 1.56568L3.06569 5Z" fill="black"></path></svg>					<span class="sr-only"><<</span>					</a>				</div>				<div class="categoryPaginationButton categoryPaginationButtonPrev">					<a ng-href="{{ pagination.previous.url }}"						ng-class="{'ss-active-pagination-button' : pagination.currentPage == 1}" aria-label="button-prev-first">						<svg width="7" height="10" viewBox="0 0 7 10" fill="none" xmlns="http://www.w3.org/2000/svg">							<path d="M5.5 9L1.5 5L5.5 1" stroke="black" stroke-width="1.6"></path>						</svg>						<span class="sr-only"><</span>					</a>				</div>				<div class="categoryPaginationPages">					<a ng-repeat="page in pagination.getPages(3)" ng-href="{{ page.url }}"						[href]="page.active ? 'javascript:void(0)' | safeUrl : page.url" class="unbxd-page"						ng-class="{'ss-active-pagination-number' : page.active }">						<span ng-if="!page.active">{{ page.number }}</span>						<span ng-if="page.active">{{ page.number }}</span>					</a>				</div>				<div class="categoryPaginationButton categoryPaginationButtonNext ">					<a ng-href="{{ pagination.next.url }}"						ng-class="{'ss-active-pagination-button' : pagination.currentPage == pagination.totalPages}"						aria-label="button-next">						<svg width="7" height="10" viewBox="0 0 7 10" fill="none" xmlns="http://www.w3.org/2000/svg">							<path d="M1.5 9L5.5 5L1.5 1" stroke="black" stroke-width="1.6"></path>						</svg>						<span class="sr-only">></span>					</a>				</div>				<div class="categoryPaginationButton categoryPaginationButtonNext categoryPaginationButtonNextLast">					<a ng-href="{{ pagination.last.url }}" ng-if="pagination.currentPage != pagination.totalPages" aria-label="button-next-last"><svg width="15" height="10" viewBox="0 0 15 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.23729 5L0.802979 8.43431L1.93435 9.56568L6.50003 5L1.93435 0.434311L0.802979 1.56568L4.23729 5Z" fill="black"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M11.9343 5L8.5 8.43431L9.63137 9.56568L14.1971 5L9.63137 0.434311L8.5 1.56568L11.9343 5Z" fill="black"></path></svg>						<span class="sr-only">>></span>					</a>				</div>			</div>		</div>	</div>
+</script>
+<!-- Results Header Title -->
+<script name="Results Title Header" target="#searchspring-results-header" type="text/ss-template">
+ <h1 ng-if="pagination.totalResults" class="ss-title ss-results-header-title">		SEARCH RESULT{{ pagination.totalResults == 1 ? '' : 'S' }} {{ q ? ' for ' : '' }} <span ng-if="q"			class="ss-results-query"><strong>"{{ q }}"</strong></span>	</h1>	<!---<div ng-if="pagination.totalResults === 0" class="cms_region  cms_TextandImages cms_TextandImages_1630"		style="padding-top: 2em;">		<h1 style="font-weight:normal;">Sorry, we didnt find any results {{ q ? 'for' : '' }} <strong ng-if="q"				class="ss-results-query">"{{ q }}"</strong></h1>	</div>--->	<div class="clearBoth"></div>	<!---<div id="searchspring-total-results-title"></div>--->
+</script>
+<!-- Results Header Title -->
+<script name="Results Title Header" target="#searchspring-total-results-title" type="text/ss-template">
+ <div ng-if="pagination.totalResults" class="productTotal ss-total-results-title">		<span class="ss-results-count-total"><strong>{{ pagination.totalResults }} </strong> product{{ pagination.totalResults == 1 ? '' : 's' }}</span>		<a ng-if="sellWatch" href="/{{sellWatch.url}}" class="sell-watch-text-link ss-total-sell-watch">Sell My {{sellWatch.name}}</a>			<!---product{{ pagination.totalResults == 1 ? '' : 's' }} found--->	</div>
+</script>
+<!-- Results & No Results -->
+<script module="search" name="Results &amp; No Results" target="#searchspring-content" type="text/ss-template">
+ <div class="ss-content-container" ng-class="{'ss-filter-summary' : filterSummary.length}">		<header class="ss-header-container">			<div ng-if="merchandising.content.header.length > 0" id="ss-merch-header" class="ss-merchandising"				ss-merchandising="header"></div>		</header>		<h2 ng-if="originalQuery" class="ss-oq">			Search instead for "<a class="ss-oq-link" href="{{ originalQuery.url }}">{{ originalQuery.value }}</a>"		</h2>		<div ng-if="didYouMean.query.length" id="did_you_mean" style="display: block;">			<h2>Did you mean : <a					href="{{ location().remove(context.search).add(context.search, didYouMean.query).url() }}">{{ didYouMean.query }}</a>				?</h2>		</div>		<div class="ss-summary-toolbar" ng-class="{'ss-toolbar-only': filterSummary.length == 0}">			<div ng-if="filterSummary.length" class="ss-summary facetNavigation_CurrentFilter"></div>				<div ng-if="pagination.totalResults" ng-class="{'ss-no-summary': filterSummary.length == 0}" class="ss-toolbar ss-toolbar-top search-sort-view"></div>		</div>		<div ng-if="pagination.totalResults" class="ss-results"></div>		<div ng-if="pagination.totalResults === 0" class="ss-no-results"></div>	</div>
+</script>
+<!-- Results -->
+<script name="Results" target=".ss-results" type="text/ss-template">
+ <div ng-if="merchandising.content.banner.length > 0" id="ss-merch-banner" class="ss-merchandising"		ss-merchandising="banner"></div>	<div class="ss-item-container seocart_Category_wrapper"></div>	<div ng-if="merchandising.content.footer.length > 0" id="ss-merch-footer" class="ss-merchandising"		ss-merchandising="footer"></div>	<div ng-if="pagination.totalPages > 1" class="ss-pagination"></div>
+</script>
+<!-- Results - Loading -->
+<script name="Results - Loading" target="#searchspring-loading" type="text/ss-template">
+ <div class="ss-results-loading" ng-class="{'ss-active': loading}">		<div class="ss-results-loading-bar"></div>	</div>
+</script>
+<!-- Results - Items -->
+<script name="Results - Items" target=".ss-results .ss-item-container" type="text/ss-template">
+ <div ng-repeat="result in results track by result.uid" class="itemWrapper">		<div class="item item-uid-{{ result.uid }}" itemscope="" itemtype="http://schema.org/Product">			<form method="post" action="//www.bobswatches.com/cart">				<a href="{{ result.url }}" itemprop="url" intellisuggest>					<meta itemprop="productID" content="{{ result.uid }}">					<meta itemprop="sku" content="{{ result.sku }}">					<meta itemprop="mpn" content="{{ result.mpn }}">					<meta itemprop="brand" content="{{ result.brand }}">                    <meta itemprop="url" content="{{ result.url }}">					<meta itemprop="description" content="{{ result.name }}">					<input type="hidden" name="id" value="{{ result.uid }}">					<input type="hidden" name="quantity" value="1">	                                    <div id="item-image-{{ result.uid }}" class="itemimage">	                    <!-- <img itemprop="image" ng-src="{{ result.thumbnailImageUrl }}" loading="lazy" width="142" height="300"	                        alt="{{ result.name }}" title="{{ result.name }}" class="loaded respFix"	                        style="max-width: 142px;"> -->	                        	                        <div class="seocart_WishListButtonWrapper position-absolute">								<button class="wishlist" name="addToWishlist" value="Wish List"									data-pid="{{ result.uid }}"									data-product-name="{{ result.name }}"									data-a="wishlist"									data-sa="a"									ng-click="dataLayer.push({'event': 'Wishlist','product': '{{ result.name }}'});">								</button>							</div>	                        	                        <img itemprop="image" ng-src="{{ result.thumbnailImageUrl }}" loading="lazy" width="142" height="300" onerror="this.src='//cdn.searchspring.net/ajax_search/img/default_image.png';" alt="{{ result.name }}" title="{{ result.name }}" class="loaded respFix" style="max-width: 142px;">							                    </div>                    <p class="productTitle">                        <span itemprop="name"><span>{{ result.brand }} {{ result.custom_field_12 }}</span> {{ result.custom_field_4 }}<br> {{ result.custom_field_2 }}<br>{{ result.custom_field_3 }}</span>                    </p>	                	                <ul class="itemprice ">						<li ng-if="result.availability != 'out of stock' " class="buyprice buyit {{activeCategory == 'Rolex' ? 'buy-button-only' : ''}} " itemprop="offers" itemscope="" itemtype="//schema.org/Offer">							<span itemprop="priceCurrency" content="USD">$</span><span itemprop="price"								content="{{ result.price }}">{{ result.price == 0 ? 'On Hold' : result.price | number }}</span>							<span class="buttonBuy {{activeCategory == 'Rolex' ? 'extended' : ''}} ">								Buy	                        </span>							<link itemprop="availability" href="//schema.org/InStock">							<meta itemprop="priceValidUntil" content="{{ priceValidDate }}">						</li>						<li ng-if="result.availability == 'out of stock' " class="buyprice buyit waitlist">							&nbsp;							<span class="buttonBuy">Waitlist</span>							<link itemprop="availability" href="http://schema.org/OutOfStock">						</li>						<li ng-if="result.wholesale_price != '0.02' && activeCategory != 'Rolex' " class="sellprice">							{{ result.wholesale_price != '0.01' ? '$': '' }}{{ result.wholesale_price != '0.01' ? (result.wholesale_price | number) : 'Get Quote'}}							<span ng-click='goTo(result, $event)'								class="buttonSell" intellisuggest>Sell							</span>						</li>					</ul>				</a>			</form>			<div class="clearBoth"></div>		</div>	</div>
+</script>
+<!-- No Results -->
+<script name="No Results" target=".ss-no-results" type="text/ss-template">
+ <div ng-if="merchandising.content.banner.length > 0" id="ss-merch-banner" class="ss-merchandising"		ss-merchandising="banner"></div>			<div ng-if="context.category" class="ss-desktop-banner" style="margin-left: 120px;">		<a ng-href="/luxury-watches/">			<img src="/images/bobs-watches-desktop-left-sidebar.png" alt="Sell Your Rolex">		</a>	</div>	<div ng-if="context.category" class="ss-mobile-banner">		<a ng-href="/luxury-watches/">			<img src="/images/mobile-banner.png" alt="Sell Your Rolex">		</a>	</div>	<div ng-if="filterSummary.length && (slideout.triggered || facets.horizontal)"		class="ss-summary ss-summary-horizontal"></div>	<div ng-if="pagination.totalResults === 0 && !context.category" class="recommended-products" ss-personalized-recommendations profile="no-results" shopperId="{{context.shopper.id}}"></div>	</div>	<div ng-if="merchandising.content.footer.length > 0" id="ss-merch-footer" class="ss-merchandising"		ss-merchandising="footer"></div>
+</script>
+<!-- Toolbar - Top -->
+<script name="Toolbar - Top" target=".ss-toolbar-top" type="text/ss-template">
+ <form>		<a ng-if="sellWatch" href="/{{sellWatch.url}}" class="sell-watch-text-link ss-toolbar-sell-watch">Sell My {{sellWatch.name}}</a>		<div class="search-sort-option per-page">			<strong>Per Page:</strong>			<select ng-model="pagination.perPage" ng-options="n for n in [30, 60, 90]"></select>		</div>		<div class="search-sort-option sort-by">			<strong>Sort:</strong>			<select ng-model="sorting.current" ng-options="option.label for option in sorting.options"></select>		</div>	</form>
+</script>
+<style name="mobile products ">
+ @media only screen and (max-width: 660px){ .seocart_Category_wrapper .itemWrapper {    max-width: 100%;    width: 100%;    padding-top: 5px; }  .item h2 a span span, .item p.productTitle a span span { 	letter-spacing: 0; 	/*text-transform: none;*/ }  /*.siteWidth {*/ /*   padding-left: 2%;*/ /*   padding-right: 2%;*/	/*}*/}/*Mobile Facet Styling*/.facetMobileFilter .unbxd-selected-facet-holder {    display: flex;    text-decoration: none;    background: var(--color-gray-lightest);    padding: .05rem .5rem .05rem .7rem;    outline: none;    border: 1px solid var(--color-gray-medium);    border-radius: 20px;    font-size: 14px;    position: relative;    align-items: center;    justify-content: center;    flex-direction: row-reverse;}.facetMobileFilter .ss-filter-buttons .clearAll a{    border-bottom: 1px solid black;    text-align: center;    padding-left: 0;}/*.facetMobileFilter ul li {*//*    display: inline-block;*//*}*/.facetMobileFilter .ss-filter-header{	display: flex;    flex-flow: row-reverse;    width: 100%;    justify-content: flex-end;    flex: 0 1 auto;}#facetNav .facetMobileFilter .ss-slideout-header .ss-title {    flex-basis: 90%;}.facetMobileFilter .ss-summary.ss-targeted {    margin-top: 7%;}#facetNav .ss-sidebar-container .facetMobileFilter .ss-slideout-header {    flex-direction: column;    position: sticky;    top: -17px;    background: white;    z-index: 1;    padding-top: 2%;}ul.selected-facets {    display: flex;    flex-flow: row wrap;    padding: 0;    white-space: nowrap;}/*Mobile Facet Buttons*/.facetMobileFilter .ss-filter-buttons {    display: flex;    flex-flow: column;    justify-content: center;    align-items: center;    position: relative;    top: -9px;}.facetMobileFilter button.ss-facet-close-bttn {    background: #444444;    color: white;    border: none;    width: 90%;    text-transform: uppercase;    font-weight: 600;    font-size: 17px;}.facetMobileFilter .ss-apply-wrapper {    width: 100%;    text-align: center;}/*.facetMobileFilter .selected-facets .clearAll{*//*	display:none;*//*}*//*removes checkbox*/#facetNav .facetMobileFilter .ss-facetMobile-summary a:before, #facetNav .facetMobileFilter .ss-filter-buttons a:before{	display:none;}#facetNav .facetMobileFilter .ss-filter-buttons a, #facetNav .facetMobileFilter .ss-facetMobile-summary a{	padding: 5px;	line-height: 2;}/*pagination*/@media only screen and (max-width: 450px){	.ss-pagination .categoryPaginationContainer .categoryPaginationPages{		display: flex;	}	.categoryPagination .ss-pagination-count{	    font-size: 12px;	}	.categoryPaginationContainer .categoryPaginationPages a, .categoryPaginationContainer .categoryPaginationPages strong, .categoryPaginationContainer .categoryPaginationPages span.hellip {	    margin: 0 0.5rem;	}		.facetMobileFilter button.ss-facet-close-bttn{		display: inline-block;	}		.ss-toolbar a.sell-watch-text-link.ss-toolbar-sell-watch {    	display: none;	}		.ss-sidebar-container .productTotal.ss-total-results-title {	    display: flex;	    justify-content: space-between;	    align-items: center;	}}@media only screen and (min-width: 451px){	.categoryPagination .ss-pagination-count{		position: relative;	    left: -55%;	}	}.ss-facet-close-bttn{	display:none;}
+</style>
+<style name="product grid ">
+ /*.item h2 a span span, .item p.productTitle a span span{*//*  	white-space: nowrap;*//*  	overflow: hidden;*//*	text-overflow: ellipsis;*//*	display: block;*//*}*/.categoryPaginationWrapper {    display: flex;    justify-content: space-between;    align-items: center;}.ss-pagination-count.ng-binding{	margin: 3rem 0 1rem;}.ss-targeted .productTitle span span {    /* text-transform: uppercase; */    font-weight: bold;    font-size: 17px;    color: #937227;    white-space: nowrap;  	overflow: hidden;	text-overflow: ellipsis;	display: block;}.ss-targeted .productTitle > span:hover {    color: #1e1e1e;    text-decoration: none;}.ss-targeted .item a {	display: block;}.ss-targeted .itemimage::before {	position: absolute;    display: block;    content: "";    width: 100%;    padding-top: 100%;    z-index: 999;}.ss-shop-no-results #searchspring-ac-overlay-container .searchspring-ac-overlay {     z-index: 1;}/*NO RESULTS*/@media only screen and (min-width: 1100px){	.ss-no-results{		position: relative;    	left: -10%;	}}@media only screen and (min-width: 1100px){	.ss-shop-no-results #noResultsHeader div [ss-autocomplete] .ss-ac-container {	    top: 15px;	    width: 95vw;	    left: 596px;	}}@media only screen and (max-width: 1100px){	#noResultsHeader  [ss-autocomplete] {	    left: -3px;	}}#noResultsHeader [ss-autocomplete] .ss-ac-container .ss-ac-inner-container:after { 	left: 500px;	right: unset;}	#noResultsHeader [ss-autocomplete] .ss-ac-container .ss-ac-inner-container:before { 	left: 501px;	right: unset;}.ss-no-results-page.ss-search-page .itemResults #searchspring-content .ss-content-container.ss-filter-summary {    margin-top: 5px;}body.ss-no-results-page.ss-search-page .itemResults #searchspring-content .facetNavigation_CurrentFilter {	position: unset;}
+</style>
+<style name="buy and sell buttons ">
+ .ss-targeted .item .itemprice li.buyprice span.buttonBuy {    text-decoration: none;    white-space: nowrap;    margin: 0 auto;    display: block;}.ss-targeted .item .itemprice span.buttonSell {	display: block;	margin: 0 auto;}
+</style>
+<style name="ss-compare-cont">
+ .ss-compare-cont {	min-height: 62px;}
+</style>
+<style name="Collapsible Facet">
+ .ss-facet-container.showAll ul li ul, .ss-facet-container.showAll .viewMore {    display: block;}.ss-facet-container ul li ul, .ss-facet-container ul .viewMore {    display: none;}i.fa.fa-angle-down {    font-size: 20px;    font-weight: bold;}.ss-summary svg, .ss-facet-container svg{	width: 20px;	height: 20px;}.facetMobileFilter .close{	display: inline-block;}#searchspring-content .close svg{	display:none;}
+</style>
+<style name="toolbar">
+ a.sell-watch-text-link {    position: relative;    left: -2%;    color: #70bdff;}.col-12 #searchspring-total-results-title{	display: none;}.ss-summary-toolbar {    display: flex;    flex-flow: row;    flex: 0 1 auto;    padding-top: 3%;}.ss-summary-toolbar.ss-toolbar-only{	padding-top: 0;}body.ss-search-page .itemResults #searchspring-content.ss-targeted .facetNavigation_CurrentFilter{	top: 0;	margin-right: 0;	flex-basis: 35%;}body.ss-search-page .itemResults #searchspring-content .search-sort-view {    flex-basis: 60%;    padding-top: 0.7rem;}body.ss-search-page #searchspring-content .ss-no-summary.search-sort-view{	flex-basis: 100%;}body.ss-search-page .itemResults #searchspring-content .facetNavigation_CurrentFilter ul{	padding: 14px 0;}@media only screen and (min-width: 1650px){	body.ss-search-page .itemResults #searchspring-content .facetNavigation_CurrentFilter ul{		padding: 7px 0 14px 0;	}}@media only screen and (min-width: 1590px){	body.ss-search-page .itemResults #searchspring-content.ss-targeted .facetNavigation_CurrentFilter{		flex-basis: 60%;		}		body.ss-search-page .itemResults #searchspring-content .search-sort-view {	    flex-basis: 40%;	}		body.ss-search-page #searchspring-content .ss-no-summary.search-sort-view{	flex-basis: 100%;	}}@media only screen and (max-width: 1194px){	.ss-summary-toolbar {	   flex-flow: column;	}		.productTotal.ss-total-results-title.ng-scope {	    display: flex;	    justify-content: space-between;	    align-items: center;	    padding-bottom: 0;	}	.ss-toolbar a.sell-watch-text-link{		display: none;	}		#searchspring-total-results-title a.sell-watch-text-link.ss-total-sell-watch.ng-binding.ng-scope {	    display: inline-block;	    text-transform: capitalize;	    font-size: 16px;	}		body.ss-search-page .itemResults #searchspring-content .search-sort-view {	    padding: 10px 0!important;	}		div#searchspring-sidebar {	    padding-top: 0;	}}@media only screen and (max-width: 1200px){	.category .itemResults .search-sort-view .search-sort-option select {	    width: auto;	}	}#searchspring-total-results-title a.sell-watch-text-link, 	#searchspring-total-results-title a.sell-watch-text-link.ss-total-sell-watch::before{	display: none;}@media only screen and (max-width: 450px){	span.ss-results-count-total.ng-binding {	    font-size: 16px;    	flex-basis: 47%;	}			.selected-facets li.unbxd-selected-facet-holder.ng-scope {    	margin: 2%;	}		div#searchspring-sidebar {	    padding-top: 5px;	}	.ss-summary-toolbar {	    padding-top: 0;	}		body.ss-search-page .itemResults #searchspring-content .search-sort-view form {	    padding-top: 7px;	    padding-bottom: 7px;	}}@media only screen and (min-width: 1200px){	.ss-filter-buttons .clearAll{		display:none;	}	#searchspring-content .facetNavigation_CurrentFilter ul li{		padding-top: 0.7rem;	}}
+</style>
+<style name="Sidebar">
+ #facetNav #searchspring-sidebar .widget ul li > strong {    display: flex;    justify-content: space-between;    align-items: center;}.ss-facet-options ul.ss-list.ss-scrollbar {    line-height: 40px;}/*#facetNav .ss-facet-options .ss-list a:before {*//*    top: 16px;*//*}*/#facetNav .ss-facet-options ul li a span.html {    padding-left: 10px;}
+</style>
+<style name="accessibility fic">
+ .sr-only {  position: absolute;  width: 1px;  height: 1px;  padding: 0;  margin: -1px;  overflow: hidden;  clip: rect(0,0,0,0);  border: 0;}
+</style>
+<style name="recs title">
+ body .ss-recs-horizontal-no-results .ss-recs-title h1{	font-size: 24px;}body .ss-recs-horizontal-no-results .ss-recs-carousel-container .ss-recs-items-container .ss-recs-item-container .ss-recs-item .ss-recs-item-name span span{	text-transform: none;	font-family: 'utopia std';	color: black;	font-size: 24px;	font-weight: normal;	line-height: 28px;    margin-bottom: 4px;}.ss-recs-horizontal-no-results .ss-recs-carousel-container .ss-recs-items-container .ss-recs-item-container .ss-recs-item .ss-recs-item-name, .ss-no-results .no-results, .ss-no-results .smaller-text{	letter-spacing: 1px;}.ss-recs-horizontal-no-results .ss-recs-carousel-container .ss-recs-items-container .ss-recs-item-container .ss-recs-item .ss-recs-item-name p{	font-family: proxima_nova_rgregular, sans-serif;}
+</style>
+<style name="recs hover line">
+ .ss-recs-horizontal-no-results .ss-recs-carousel-container .ss-recs-items-container .ss-recs-item-container:hover{	color: var(--color-gray-dark);}.ss-recs-horizontal-no-results .ss-recs-carousel-container .ss-recs-items-container .ss-recs-item-container:hover:after{	opacity: 1;    transform: scaleX(1);}.ss-recs-horizontal-no-results .ss-recs-carousel-container .ss-recs-items-container .ss-recs-item-container:after{	content: "";    display: block;    opacity: 0;    transform: scaleX(0);    transition: transform .314s cubic-bezier(1,.25,0,.75) 0s,opacity .2s ease-in-out;    position: relative;    width: 50%;    height: 1px;    bottom: -4px;    left: 0;    margin: 0 auto;    background-color: var(--color-black);}/*.ss-recs-horizontal-no-results .ss-recs-carousel-container .ss-recs-items-container .ss-recs-item-container:hover {*//*    -webkit-box-shadow: none !important;*//*    box-shadow: none !important;*//*}*/    .ss-recs-price{	padding-bottom: 1.4rem; }
+</style>
+<style name="Ac view more ">
+ .ss-ac-container .ss-ac-see-more-container .ss-ac-see-more .ss-ac-see-more-link, .ss-ac-see-more-view-all{	font-size: 19px !important;	color: var(--color-blue);}
+</style>
+<style>
+ .extended{	width: 280px !important;}.buy-button-only {	margin-right: 0 !important;}
+</style>
+<div class="designstudio-button" id="designstudio-button" style="position: fixed; z-index: 999998; font-size: 14px; right: 0px; bottom: 3.57143em;">
+ <button class="transparent-button" id="transparent-button" style="background: transparent !important; border: none !important; cursor: pointer !important; position: absolute !important; left: 0 !important; top: 0 !important; bottom: 0 !important; right: 0 !important; width: 100% !important; height: 100% !important; display: block !important; text-indent: -99999px !important; text-align: left !important; padding: 0 !important; overflow: hidden !important; z-index: 1 !important; border-radius: 0 !important; margin: 0 !important; -webkit-appearance: none !important; box-shadow: none !important; line-height: 100% !important; " type="button">
+  Live Chat
+ </button>
+ <iframe class="designstudio-animated designstudio-slideInRight" height="60" id="iframe-designstudio-button" name="designstudio-button-frame" scrolling="no" style="border:none;display:block;margin:0.7142857142857143em;width:4.285714285714286em;height:4.285714285714286em;" tabindex="-1" title="Live Chat Button" translate="no" width="60">
+ </iframe>
+</div>

@@ -69,6 +69,37 @@ class AISWatches:
 
         return price_and_link_list
 
+class BobsWatches:
+
+    def get_prices_links(self, browser):
+        url = "https://www.bobswatches.com/rolex/explorer_ii-16570-white#/filter:custom_field_4:16570/filter:custom_field_9:White"
+
+        browser.get(url)
+
+        time.sleep(3)
+
+        innerHTML = browser.execute_script("return document.body.innerHTML")
+
+        soup = BeautifulSoup(innerHTML, 'html.parser')
+
+        watches = soup.find_all('div', attrs={'class': 'itemWrapper ng-scope'})
+
+        price_and_link_list = []
+
+        for watch in watches:
+
+            price = int(watch.find('span', attrs={'class': 'ng-binding', 'itemprop' : 'price'}).string.replace(",", ""))
+
+            link = "https://www.bobswatches.com/" + str(watch.find("a").get("href"))
+
+            price_and_link_list.append((price, link))
+
+        return price_and_link_list
+
+
+
+
+
 
 
 

@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 
 from datetime import date
 
-from gray_sellers import WatchFinder, AISWatches
+from gray_sellers import WatchFinder, AISWatches, BobsWatches
 
 
 # url = "https://www.watchfinder.com/Rolex/Explorer%20II/16570/watches?filterDial=White"
@@ -43,7 +43,7 @@ browser = webdriver.Chrome(os.path.join(os.getcwd(), 'chromedriver'))
 
 # watchfinder = WatchFinder()
 
-stores = [WatchFinder(), AISWatches()]
+stores = [WatchFinder(), AISWatches(), BobsWatches()]
 
 
 print("Pulling from " + str(len(stores)) + " stores")
@@ -54,6 +54,8 @@ for store in stores:
     price_and_link_list += store.get_prices_links(browser)
 
 print("Found " + str(len(price_and_link_list)) + " watches")
+
+price_and_link_list.sort(key = lambda x : x[0])
 
 
 
