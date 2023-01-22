@@ -21,27 +21,9 @@ from datetime import date
 from gray_sellers import WatchFinder, AISWatches, BobsWatches
 
 
-# url = "https://www.watchfinder.com/Rolex/Explorer%20II/16570/watches?filterDial=White"
-
-
 
 browser = webdriver.Chrome(os.path.join(os.getcwd(), 'chromedriver'))
 
-
-# watchfinder = WatchFinder()
-
-# price_and_link_list = watchfinder.get_prices_links(url, browser)
-
-# AIS = AISWatches()
-
-# ais_list = AIS.get_prices_links("https://aiswatches.com/explorer/", browser)
-
-# print(ais_list)
-
-# price_and_link_list = price_and_link_list + ais_list
-
-
-# watchfinder = WatchFinder()
 
 stores = [WatchFinder(), AISWatches(), BobsWatches()]
 
@@ -58,11 +40,6 @@ print("Found " + str(len(price_and_link_list)) + " watches")
 price_and_link_list.sort(key = lambda x : x[0])
 
 
-
-# print("here we go")
-# print(price_and_link_list)
-# print("phew")
-
 browser.quit()
 
 
@@ -72,10 +49,7 @@ with open("prices_with_link.txt", "w") as f:
 
 
 
-
-
 today_avg = 0
-
 
 
 
