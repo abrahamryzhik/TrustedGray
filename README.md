@@ -19,10 +19,9 @@ And finally `index.html` has all the html for the webpage to view all the inform
 ## Future Changes and Goals
 1. Add support for more sellers.
 2. Add multiple items to track.
-3. Give users a page to view all prices sorted in ascending order with links (this may happen earlier than 1 and 2 since it is easy, but it is lower priority).
-4. Store data in a json file to make life easier and let me add cool things like the time the webpage was updated (like 3 I may do this before 1 and 2 since it's easier even though it is lower priority).
-5. Automate updates rather than having me run a script every day.
-6. Make the webpage look better.
+3. Store data in a json file to make life easier and let me add cool things like the time the webpage was updated (I may do this before 1 and 2 since it's easier even though it is lower priority).
+4. Automate updates rather than having me run a script every day.
+5. Make the webpage look better.
 
 ## Main Packages Used
 
