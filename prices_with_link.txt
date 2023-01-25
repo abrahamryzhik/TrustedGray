@@ -1,8 +1,9 @@
-8895 https://www.bobswatches.com//mens-rolex-explorer-ii-16570-stainless-steel.html
 8895 https://www.bobswatches.com//rolex-explorer-ii-16570-polar-dial.html
+8895 https://www.bobswatches.com//mens-rolex-explorer-ii-16570-stainless-steel.html
 8995 https://www.bobswatches.com//mens-rolex-explorer-ii-ref-16570-white-polar-dial.html
 9070 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/230008
 9195 https://www.bobswatches.com//rolex-explorer-ii-16570-white-polar-dial.html
+9275.0 https://davidsw.com/shop/watch/rolex/rolex-16570-explorer-ii-with-white-dial-80/
 9365 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/232242
 9775.0 https://aiswatches.com/rolex-polar-explorer-ii-16570-p-serial-white-dial-box-papers-rsc-serviced/
 9775.0 https://aiswatches.com/rolex-polar-explorer-ii-16570-y-serial-white-dial-box-paper-1/
@@ -18,3 +19,4 @@
 11235 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/235967
 11550 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/238727
 11550 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/229673
+12675.0 https://davidsw.com/shop/watch/rolex/rolex-16570-explorer-ii-with-white-dial-86/

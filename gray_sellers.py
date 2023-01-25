@@ -96,6 +96,35 @@ class BobsWatches:
 
         return price_and_link_list
 
+class DavidSW:
+
+    def get_prices_links(self, browser):
+        url = "https://davidsw.com/product-category/watch/rolex/explorer-ii/?filter_case-size=40mm&filter_dial-color=white"
+
+        browser.get(url)
+
+        time.sleep(3)
+
+        innerHTML = browser.execute_script("return document.body.innerHTML")
+
+        soup = BeautifulSoup(innerHTML, 'html.parser')
+
+        watches = soup.find_all('div', attrs={'class': 'product-small box'})
+
+        price_and_link_list = []
+
+        for watch in watches:
+
+            price = float(watch.find("span",attrs={'class': 'woocommerce-Price-amount amount'}).bdi.text.replace("$", "").replace(",", ""))
+
+            link = watch.a.get("href")
+
+            price_and_link_list.append((price, link))
+
+        return price_and_link_list
+
+
+
 
 
 

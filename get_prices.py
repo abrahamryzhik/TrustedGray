@@ -18,14 +18,14 @@ from bs4 import BeautifulSoup
 
 from datetime import date
 
-from gray_sellers import WatchFinder, AISWatches, BobsWatches
+from gray_sellers import *
 
 
 
 browser = webdriver.Chrome(os.path.join(os.getcwd(), 'chromedriver'))
 
 
-stores = [WatchFinder(), AISWatches(), BobsWatches()]
+stores = [WatchFinder(), AISWatches(), BobsWatches(), DavidSW()]
 
 
 print("Pulling from " + str(len(stores)) + " stores")
