@@ -182,6 +182,37 @@ class MandB:
 
         return price_and_link_list
 
+class CrownAndCaliber:
+
+    def get_prices_links(self, browser):
+        url = "https://www.crownandcaliber.com/collections/rolex-explorer-ii-watches#/filter:mfield_global_case_size:39.5:41.5/filter:mfield_global_dial_color:White"
+
+        browser.get(url)
+
+        time.sleep(4)
+
+        innerHTML = browser.execute_script("return document.body.innerHTML")
+
+        soup = BeautifulSoup(innerHTML, 'html.parser')
+
+        watches = soup.find_all('div', attrs={'class': 'popular-watches--card text-center ng-scope'})
+
+        price_and_link_list = []
+
+        for watch in watches:
+
+            link = "https:" + watch.a.get("href")
+
+            price = int(watch.find('span', attrs={'class': 'current-price product-price__price ng-binding'}).string.replace("$", "").replace(",", ""))
+
+            price_and_link_list.append((price, link))
+
+        return price_and_link_list
+
+
+
+
+
 
 
 
