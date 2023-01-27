@@ -17,11 +17,10 @@ There are four main files used to generate our results.
 And finally `index.html` has all the html for the webpage to view all the information we've gathered. There are also a bunch of text files which mostly have random nonsense that I use for reference. Hopefully they'll be gone soon.
 
 ## Future Changes and Goals
-1. Add support for more sellers.
-2. Add multiple items to track.
-3. Store data in a json file to make life easier and let me add cool things like the time the webpage was updated (I may do this before 1 and 2 since it's easier even though it is lower priority).
-4. Automate updates rather than having me run a script every day.
-5. Make the webpage look better.
+1. Add multiple items to track.
+2. Store data in a json file to make life easier and let me add cool things like the time the webpage was updated (I may do this before 1 since it's easier even though it is lower priority).
+3. Automate updates rather than having me run a script every day.
+4. Make the webpage look better.
 
 ## Main Packages Used
 
