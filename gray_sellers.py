@@ -153,6 +153,38 @@ class WatchBox:
         return price_and_link_list
 
 
+class MandB:
+
+    def get_prices_links(self, browser):
+        url = "https://mandbwatches.com/product-category/rolex/rolex-explorer-ii/"
+
+        browser.get(url)
+
+        time.sleep(3)
+
+        innerHTML = browser.execute_script("return document.body.innerHTML")
+
+        soup = BeautifulSoup(innerHTML, 'html.parser')
+
+        watches = soup.find('ul', attrs={'class': 'products'}).find_all('li')
+
+        price_and_link_list = []
+
+        for watch in watches:
+
+            if " 16570" in watch.h3.text:
+
+                link = watch.a.get('href')
+
+                price = float(watch.find('span', attrs={'class': 'amount'}).string.replace("$", "").replace(",", ""))
+
+                price_and_link_list.append((price, link))
+
+        return price_and_link_list
+
+
+
+
 
 
 

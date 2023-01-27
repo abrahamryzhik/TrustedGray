@@ -25,7 +25,7 @@ from gray_sellers import *
 browser = webdriver.Chrome(os.path.join(os.getcwd(), 'chromedriver'))
 
 
-stores = [WatchFinder(), AISWatches(), BobsWatches(), DavidSW(), WatchBox()]
+stores = [WatchFinder(), AISWatches(), BobsWatches(), DavidSW(), WatchBox(), MandB()]
 
 
 print("Pulling from " + str(len(stores)) + " stores")

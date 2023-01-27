@@ -1,0 +1,724 @@
+<div class="main-holder" id="motopress-main">
+ <!--Begin #motopress-main-->
+ <header class="motopress-wrapper header">
+  <div class="container">
+   <div class="row">
+    <div class="span12" data-motopress-id="63d3949fe3aa8" data-motopress-wrapper-file="wrapper/wrapper-header.php" data-motopress-wrapper-type="header">
+     <style>
+      @media screen and (min-width: 300px) and (max-width: 550px) {
+    .inmobile{display:none;}
+	.contactDivz{ padding-top:50px !important; font-size:16px ; font-weight:bold;color:#333333;}
+	.EmailContact{font-size:16px; color:#333333; padding-top:5px; padding-left:5px;}
+}
+
+@media screen and (min-width: 555px) {
+    .forpc{vertical-align:bottom !important; padding-top:100px !important; padding-left:20px;}
+}
+
+@media screen and (min-width: 470px) and (max-width: 750px) 
+{
+    .search-form__h{ padding-left:180px !important;}
+}
+
+@media screen and (min-width: 750px) 
+{
+.EmailContact{font-size:19px; color:#333333; padding-top:5px; padding-left:5px;}
+}
+
+@media screen and (max-width: 650px) 
+{
+.logo{ padding-right:34px;}
+.EmailContact{font-size:16px; color:#333333; padding-top:5px; padding-left:5px;}
+}
+
+@media screen and (min-width: 755px) and (max-width: 850px) 
+{
+.EmailContact{font-size:12px; color:#333333; padding-top:5px; padding-left:1px;}
+.contactDivz{font-size:14px ; font-weight:bold; width:250px; padding-right:5px; text-align:left;  }
+}
+
+@media screen and (min-width: 870px) and (max-width: 2000px) 
+{
+.contactDivz{font-size:19px; color:#333333; font-weight:bold;}
+}
+     </style>
+     <div align="center" class="row">
+      <div style="float:inherit;">
+       <div align="left" class="span8">
+        <div class="shop-nav">
+         <ul class="shop-menu" id="shopnav">
+          <li>
+           <a class="register-link" href="https://mandbwatches.com/wp-login.php?action=register&amp;redirect_to=/product-category/rolex/rolex-explorer-ii/" title="Registration">
+            Registration
+           </a>
+          </li>
+          <li>
+           <a href="https://mandbwatches.com/wp-login.php?action=login&amp;redirect_to=/product-category/rolex/rolex-explorer-ii/" title="Log In">
+            Log In
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2147" id="menu-item-2147">
+           <a href="https://mandbwatches.com/delivery/">
+            Delivery
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2149" id="menu-item-2149">
+           <a href="https://mandbwatches.com/checkout/">
+            Checkout
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2148" id="menu-item-2148">
+           <a href="https://mandbwatches.com/my-account/">
+            My Account
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div style=" padding-left:50px;">
+         <!-- BEGIN LOGO -->
+         <div class="logo pull-right-1">
+          <a class="logo_h logo_h__img" href="https://mandbwatches.com/">
+           <img alt="M and B Watches" src="http://mandbwatches.com/wp-content/uploads/2015/10/logo-Copy1.png" title=""/>
+          </a>
+         </div>
+         <!-- END LOGO -->
+        </div>
+       </div>
+      </div>
+      <div style="float:inherit;">
+       <div class="span3">
+        <!-- BEGIN SEARCH FORM -->
+        <div class="search-form search-form__h hidden-phone clearfix">
+         <form accept-charset="utf-8" action="https://mandbwatches.com/" class="navbar-form pull-right" id="search-header" method="get">
+          <input class="search-form_it" name="s" placeholder="SEARCH" type="text"/>
+          <input class="search-form_is btn btn-primary" id="search-form_is" type="submit" value="Go"/>
+         </form>
+        </div>
+        <!-- END SEARCH FORM -->
+        <br/>
+        <div class="forpc">
+         <div class="contactDivz">
+          CALL US : (817) - 296-0364
+         </div>
+         <br/>
+         <div>
+          <b class="EmailContact">
+           EMAIL:mandbwatches@gmail.com
+          </b>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div align="left" class="row" style="padding-left:80px;">
+      <div align="center" class="inmobile">
+       <div class="span6">
+       </div>
+      </div>
+      <div class="span12" data-motopress-static-file="static/static-shop-nav.php" data-motopress-type="static">
+      </div>
+      <div class="clearfix">
+      </div>
+      <div class="span6" data-motopress-static-file="static/static-logo.php" data-motopress-type="static">
+      </div>
+      <div class="span6" data-motopress-static-file="static/static-search.php" data-motopress-type="static">
+      </div>
+     </div>
+     <div class="row">
+      <div class="span12" data-motopress-static-file="static/static-nav.php" data-motopress-type="static">
+       <!-- BEGIN MAIN NAVIGATION -->
+       <nav class="nav nav__primary clearfix">
+        <ul class="sf-menu sf-js-enabled" id="topnav">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-2131">
+          <a href="https://mandbwatches.com/">
+           Home
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-2146">
+          <a href="https://mandbwatches.com/shop/">
+           Shop
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-2180">
+          <a href="https://mandbwatches.com/service/">
+           WATCH Service
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-2449">
+          <a href="https://mandbwatches.com/resources/">
+           Resources
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-2133">
+          <a href="https://mandbwatches.com/about/">
+           About
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-2128">
+          <a href="https://mandbwatches.com/contacts/">
+           Contacts
+          </a>
+         </li>
+        </ul>
+        <select class="select-menu">
+         <option value="#">
+          Navigate to...
+         </option>
+         <option value="https://mandbwatches.com/">
+          Home
+         </option>
+         <option value="https://mandbwatches.com/shop/">
+          Shop
+         </option>
+         <option value="https://mandbwatches.com/service/">
+          WATCH Service
+         </option>
+         <option value="https://mandbwatches.com/resources/">
+          Resources
+         </option>
+         <option value="https://mandbwatches.com/about/">
+          About
+         </option>
+         <option value="https://mandbwatches.com/contacts/">
+          Contacts
+         </option>
+        </select>
+       </nav>
+       <div class="pseudoStickyBlock" style="position: relative; display: block;">
+       </div>
+       <!-- END MAIN NAVIGATION -->
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </header>
+ <div class="motopress-wrapper content-holder clearfix woocommerce">
+  <div class="container">
+   <div class="row">
+    <div class="span12" data-motopress-static-file="static/static-title.php" data-motopress-type="static">
+     <section class="title-section">
+      <h1 class="title-header">
+       ROLEX EXPLORER II
+      </h1>
+     </section>
+     <!-- .title-section -->
+    </div>
+   </div>
+   <div class="row">
+    <div class="span8 right" id="content">
+     <h1 class="page-title">
+      ROLEX EXPLORER II
+     </h1>
+     <p class="woocommerce-result-count">
+      Showing all 2 results
+     </p>
+     <form class="woocommerce-ordering" method="get">
+      <select class="orderby" name="orderby">
+       <option selected="selected" value="menu_order">
+        Default sorting
+       </option>
+       <option value="popularity">
+        Sort by popularity
+       </option>
+       <option value="rating">
+        Sort by average rating
+       </option>
+       <option value="date">
+        Sort by newness
+       </option>
+       <option value="price">
+        Sort by price: low to high
+       </option>
+       <option value="price-desc">
+        Sort by price: high to low
+       </option>
+      </select>
+     </form>
+     <ul class="products">
+      <li class="first post-17302 product type-product status-publish has-post-thumbnail product_cat-product-category-4 product_cat-product-category-1 product_cat-rolex product_cat-rolex-explorer-ii product_cat-product-category-5 product_cat-watches-for-sale pa_dial-rolex-polar-white-dial pa_model-explorer-ii pa_model-number-548 pa_serial-number-p-xxxxxx-2000-2 pa_bezel-rolex-steel-bezel pa_bracelet-brushed-stainless-steel-oyster-bracelet pa_crystal-sapphire pa_size-will-fit-up-to-a-7-14-wrist featured shipping-taxable purchasable product-type-simple product-cat-product-category-4 product-cat-product-category-1 product-cat-rolex product-cat-rolex-explorer-ii product-cat-product-category-5 product-cat-watches-for-sale instock">
+       <a href="https://mandbwatches.com/product/rolex-explorer-ii-40mm-16570-stainless-steel-polar-white-dial-w-papers-unpolished/">
+        <div class="prod-inner-wrap">
+         <img alt="IMG_7012" class="attachment-shop_catalog wp-post-image" height="250" src="https://mandbwatches.com/wp-content/uploads/2022/10/IMG_7012-250x250.jpg" width="250"/>
+        </div>
+        <h3>
+         Rolex Explorer II 40MM 16570 Stainless...
+        </h3>
+        <span class="price">
+         <span class="amount">
+          $9,950.00
+         </span>
+        </span>
+       </a>
+       <a class="btn" href="https://mandbwatches.com/product/rolex-explorer-ii-40mm-16570-stainless-steel-polar-white-dial-w-papers-unpolished/">
+        Details
+       </a>
+       <a class="button add_to_cart_button product_type_simple" data-product_id="17302" data-product_sku="17302" data-quantity="1" href="/product-category/rolex/rolex-explorer-ii/?add-to-cart=17302" rel="nofollow">
+        Add to cart
+       </a>
+      </li>
+      <li class="post-17388 product type-product status-publish has-post-thumbnail product_cat-product-category-4 product_cat-product-category-1 product_cat-rolex product_cat-rolex-explorer-ii product_cat-product-category-5 product_cat-watches-for-sale pa_dial-rolex-polar-white-dial pa_model-explorer-ii pa_model-number-548 pa_serial-number-y-xxxxxx-2002-3 pa_bezel-rolex-steel-bezel pa_bracelet-brushed-stainless-steel-oyster-bracelet pa_crystal-sapphire pa_size-will-fit-up-to-a-7-14-wrist featured shipping-taxable purchasable product-type-simple product-cat-product-category-4 product-cat-product-category-1 product-cat-rolex product-cat-rolex-explorer-ii product-cat-product-category-5 product-cat-watches-for-sale instock">
+       <a href="https://mandbwatches.com/product/rolex-explorer-ii-40mm-16570-stainless-steel-polar-white-dial-w-papers-unpolished-2/">
+        <div class="prod-inner-wrap">
+         <img alt="IMG_7905 (1)" class="attachment-shop_catalog wp-post-image" height="250" src="https://mandbwatches.com/wp-content/uploads/2022/11/IMG_7905-1-250x250.jpg" width="250"/>
+        </div>
+        <h3>
+         Rolex Explorer II 40MM 16570 Stainless...
+        </h3>
+        <span class="price">
+         <span class="amount">
+          $8,950.00
+         </span>
+        </span>
+       </a>
+       <a class="btn" href="https://mandbwatches.com/product/rolex-explorer-ii-40mm-16570-stainless-steel-polar-white-dial-w-papers-unpolished-2/">
+        Details
+       </a>
+       <a class="button add_to_cart_button product_type_simple" data-product_id="17388" data-product_sku="17388" data-quantity="1" href="/product-category/rolex/rolex-explorer-ii/?add-to-cart=17388" rel="nofollow">
+        Add to cart
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="span4 sidebar" data-motopress-sidebar-file="sidebar.php" data-motopress-type="static-sidebar" id="sidebar">
+     <div class="widget" id="woocommerce_product_categories-2">
+      <h2>
+       Brands
+      </h2>
+      <ul class="product-categories">
+       <li class="cat-item cat-item-31">
+        <a href="https://mandbwatches.com/product-category/product-category-2/">
+         LADIES WATCHES
+        </a>
+       </li>
+       <li class="cat-item cat-item-42">
+        <a href="https://mandbwatches.com/product-category/product-category-4/">
+         LUXURY WATCHES
+        </a>
+       </li>
+       <li class="cat-item cat-item-32">
+        <a href="https://mandbwatches.com/product-category/product-category-1/">
+         MEN’s WATCHES
+        </a>
+       </li>
+       <li class="cat-item cat-item-62 cat-parent current-cat-parent">
+        <a href="https://mandbwatches.com/product-category/rolex/">
+         ROLEX
+        </a>
+        <ul class="children">
+         <li class="cat-item cat-item-68">
+          <a href="https://mandbwatches.com/product-category/rolex/rolex-datejust-president/">
+           ROLEX DATEJUST
+          </a>
+         </li>
+         <li class="cat-item cat-item-67">
+          <a href="https://mandbwatches.com/product-category/rolex/rolex-daydate-president/">
+           ROLEX DAYDATE PRESIDENT
+          </a>
+         </li>
+         <li class="cat-item cat-item-63">
+          <a href="https://mandbwatches.com/product-category/rolex/rolex-daytona/">
+           ROLEX DAYTONA
+          </a>
+         </li>
+         <li class="cat-item cat-item-71 current-cat">
+          <a href="https://mandbwatches.com/product-category/rolex/rolex-explorer-ii/">
+           ROLEX EXPLORER II
+          </a>
+         </li>
+         <li class="cat-item cat-item-1349">
+          <a href="https://mandbwatches.com/product-category/rolex/gmt-master/">
+           ROLEX GMT MASTER
+          </a>
+         </li>
+         <li class="cat-item cat-item-66">
+          <a href="https://mandbwatches.com/product-category/rolex/rolex-gmt-master-ii/">
+           ROLEX GMT MASTER II
+          </a>
+         </li>
+         <li class="cat-item cat-item-70">
+          <a href="https://mandbwatches.com/product-category/rolex/rolex-sea-dweller/">
+           ROLEX SEA-DWELLER
+          </a>
+         </li>
+         <li class="cat-item cat-item-65">
+          <a href="https://mandbwatches.com/product-category/rolex/rolex-submariner/">
+           ROLEX SUBMARINER
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="cat-item cat-item-45">
+        <a href="https://mandbwatches.com/product-category/product-category-5/">
+         SPORT WATCHES
+        </a>
+       </li>
+       <li class="cat-item cat-item-35">
+        <a href="https://mandbwatches.com/product-category/product-category-3/">
+         VINTAGE WATCHES
+        </a>
+       </li>
+       <li class="cat-item cat-item-86">
+        <a href="https://mandbwatches.com/product-category/watches-for-sale/">
+         WATCHES FOR SALE
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="widget" id="woocommerce_products-2">
+      <h2>
+       Watches
+      </h2>
+      <ul class="product_list_widget">
+       <li>
+        <a href="https://mandbwatches.com/product/rolex-datejust-26mm-79174-18k-white-goldsteel-factory-blue-vignette-diamond-dial-w-papers/" title="Rolex Datejust 26MM 79174 18K White Gold/Steel Factory Blue Vignette Diamond Dial w/ Papers">
+         <img alt="IMG_9315" class="attachment-shop_thumbnail wp-post-image" height="90" src="https://mandbwatches.com/wp-content/uploads/2023/01/IMG_9315-90x90.jpg" width="90"/>
+         <span class="product-title">
+          Rolex Datejust 26MM 79174 18K White Gold/Steel Factory Blue Vignette Diamond Dial w/ Papers
+         </span>
+        </a>
+        <span class="amount">
+         $4,950.00
+        </span>
+       </li>
+       <li>
+        <a href="https://mandbwatches.com/product/rolex-explorer-ii-40mm-16570-stainless-steel-polar-white-dial-w-papers-unpolished-2/" title="Rolex Explorer II 40MM 16570 Stainless Steel Polar White Dial w/ Papers - Unpolished">
+         <img alt="IMG_7905 (1)" class="attachment-shop_thumbnail wp-post-image" height="90" src="https://mandbwatches.com/wp-content/uploads/2022/11/IMG_7905-1-90x90.jpg" width="90"/>
+         <span class="product-title">
+          Rolex Explorer II 40MM 16570 Stainless Steel Polar White Dial w/ Papers - Unpolished
+         </span>
+        </a>
+        <span class="amount">
+         $8,950.00
+        </span>
+       </li>
+       <li>
+        <a href="https://mandbwatches.com/product/rolex-submariner-14060m-4linestainless-steel-black-dial-bezel-random-serial/" title='Rolex Submariner 14060M "4 Liner" Stainless Steel Black Dial &amp; Bezel - Random Serial'>
+         <img alt="IMG_7655" class="attachment-shop_thumbnail wp-post-image" height="90" src="https://mandbwatches.com/wp-content/uploads/2022/11/IMG_7655-90x90.jpg" width="90"/>
+         <span class="product-title">
+          Rolex Submariner 14060M "4 Liner" Stainless Steel Black Dial &amp; Bezel - Random Serial
+         </span>
+        </a>
+        <span class="amount">
+         $10,950.00
+        </span>
+       </li>
+       <li>
+        <a href="https://mandbwatches.com/product/rolex-day-date-president-36mm-18039b-18k-gold-salmon-diamond-dial-2/" title="Rolex Day-Date President 36MM 18039B 18K Gold Salmon Diamond Dial">
+         <img alt="IMG_7352" class="attachment-shop_thumbnail wp-post-image" height="90" src="https://mandbwatches.com/wp-content/uploads/2022/11/IMG_7352-90x90.jpg" width="90"/>
+         <span class="product-title">
+          Rolex Day-Date President 36MM 18039B 18K Gold Salmon Diamond Dial
+         </span>
+        </a>
+        <span class="amount">
+         $17,995.00
+        </span>
+       </li>
+       <li>
+        <a href="https://mandbwatches.com/product/rolex-gmt-master-ii-16710-stainless-steel-redblue-pepsi-bezel-black-dial-w-papers-solid-end-link-model/" title='Rolex GMT Master II 16710 Stainless Steel Red/Blue "Pepsi" Bezel Black Dial w/ Papers - Solid End Link Model'>
+         <img alt="IMG_7269" class="attachment-shop_thumbnail wp-post-image" height="90" src="https://mandbwatches.com/wp-content/uploads/2022/11/IMG_7269-90x90.jpg" width="90"/>
+         <span class="product-title">
+          Rolex GMT Master II 16710 Stainless Steel Red/Blue "Pepsi" Bezel Black Dial w/ Papers - Solid End Link Model
+         </span>
+        </a>
+        <span class="amount">
+         $13,950.00
+        </span>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <hr/>
+ <br/>
+ <br/>
+ <div align="center" style="padding-right:80px;">
+  <div id="logo-slider-wraper">
+   <ul class="cycle-slideshow" data-cycle-fx="scrollHorz" data-cycle-next="#prev" data-cycle-prev="#next" data-cycle-slides="&gt; li" data-cycle-speed="600" data-cycle-timeout="4000" id="logo-slider">
+    <li class="slide">
+     <img alt="" class="logo-img" src="http://mandbwatches.com/wp-content/uploads/2015/10/CGI-grey.png"/>
+     <img alt="" class="logo-img" src="http://mandbwatches.com/wp-content/uploads/2015/10/logo-1_1.png"/>
+     <img alt="" class="logo-img" src="http://mandbwatches.com/wp-content/uploads/2015/10/rolexbanner_left_side_animation.png"/>
+     <img alt="" class="logo-img" src="http://mandbwatches.com/wp-content/uploads/2015/10/watch_and_jewelry.jpg"/>
+    </li>
+    <li class="slide">
+     <img alt="" class="logo-img" src="http://mandbwatches.com/wp-content/uploads/2015/10/wn_01.png"/>
+     <img alt="" class="logo-img" src="http://mandbwatches.com/wp-content/uploads/2015/10/wwt_grey.png"/>
+    </li>
+   </ul>
+   <div class="slider-controls">
+    <a href="#" id="prev">
+     &lt;
+    </a>
+    <a href="#" id="next">
+     &gt;
+    </a>
+   </div>
+  </div>
+ </div>
+ <br/>
+ <footer class="motopress-wrapper footer">
+  <div class="container">
+   <div class="row">
+    <div class="span12" data-motopress-id="63d394a0045c1" data-motopress-wrapper-file="wrapper/wrapper-footer.php" data-motopress-wrapper-type="footer">
+     <div class="row footer-widgets">
+      <div class="span3" data-motopress-sidebar-id="footer-sidebar-1" data-motopress-type="dynamic-sidebar">
+       <div class="visible-all-devices" id="text-5">
+        <h3>
+         INFORMATION
+        </h3>
+        <div class="textwidget">
+         <style>
+          .visible-all-devices>a{ color:#FFFFFF !important;}
+.visible-all-devices>a:hover{ color:#CCCCCC !important;}
+         </style>
+         <div class="visible-all-devices">
+          <a href="http://http://mandbwatches.com">
+           Home
+          </a>
+          <br/>
+          <a href="http://mandbwatches.com/shop/">
+           Shop
+          </a>
+          <br/>
+          <a href="http://mandbwatches.com/blog/">
+           Blog
+          </a>
+          <br/>
+          <a href="http://mandbwatches.com/service/">
+           Service
+          </a>
+          <br/>
+          <a href="http://mandbwatches.com/about/">
+           About
+          </a>
+          <br/>
+          <a href="http://mandbwatches.com/contacts/">
+           Contact
+          </a>
+          <br/>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="span3" data-motopress-sidebar-id="footer-sidebar-2" data-motopress-type="dynamic-sidebar">
+       <div class="visible-all-devices" id="text-6">
+        <h3>
+         Customer Service
+        </h3>
+        <div class="textwidget">
+         <style>
+          .textwidget>a{ color:#FFFFFF !important;}
+.textwidget>a:hover{ color:#CCCCCC !important;}
+         </style>
+         <!--
+<a href="http://mandbwatches.com/payment/">Payment Methods</a><br>
+
+<a href="http://mandbwatches.com/shipping/">Shipping Methods<a/><br>
+
+<a href="http://mandbwatches.com/security/">Security</a><br/>
+
+<a href="http://mandbwatches.com/warranty/">Warranty</a></br>
+
+<a href="http://mandbwatches.com/returns/">Returns Policy</a></br>
+
+<a href="http://mandbwatches.com/privacy-policy-2/">Privacy Policy<br>
+!-->
+         we are rewriting our policies,
+         <br/>
+         please contact us for questions
+        </div>
+       </div>
+      </div>
+      <div class="span3" data-motopress-sidebar-id="footer-sidebar-3" data-motopress-type="dynamic-sidebar">
+       <div class="visible-all-devices" id="my_socialnetworkswidget-2">
+        <h3>
+         Follow Us
+        </h3>
+        <!-- BEGIN SOCIAL NETWORKS -->
+        <ul class="social social__list unstyled">
+         <li class="social_li">
+          <a class="social_link social_link__facebook" data-original-title="facebook" href="https://facebook.com/mandbwatches" rel="tooltip" target="_blank">
+           <span class="social_ico">
+            <img alt="" src="https://mandbwatches.com/wp-content/themes/theme47276/images/icons/facebook.png"/>
+           </span>
+           <span class="social_label">
+            Facebook
+           </span>
+          </a>
+         </li>
+         <li class="social_li">
+          <a class="social_link social_link__twitter" data-original-title="twitter" href="https://twitter.com/mandbwatches" rel="tooltip" target="_blank">
+           <span class="social_ico">
+            <img alt="" src="https://mandbwatches.com/wp-content/themes/theme47276/images/icons/twitter.png"/>
+           </span>
+           <span class="social_label">
+            Twitter
+           </span>
+          </a>
+         </li>
+         <li class="social_li">
+          <a class="social_link social_link__flickr" data-original-title="instagram" href="https://instagram.com/mandbwatches/" rel="tooltip" target="_blank">
+           <span class="social_ico">
+            <img alt="" src="https://mandbwatches.com/wp-content/themes/theme47276/images/icons/flickr.png"/>
+           </span>
+           <span class="social_label">
+            Instagram
+           </span>
+          </a>
+         </li>
+        </ul>
+        <!-- END SOCIAL NETWORKS -->
+       </div>
+      </div>
+      <div class="span3" data-motopress-sidebar-id="footer-sidebar-4" data-motopress-type="dynamic-sidebar">
+       <div class="visible-all-devices" id="widget_cherry_vcard-2">
+        <h3>
+         CONTACT US
+        </h3>
+        <address class="vcard">
+         <strong class="adr">
+         </strong>
+         <div class="meta_format">
+          <i class="icon-phone">
+          </i>
+          <span class="tel">
+           <span class="value">
+            <a href="tel:(817)-296-0364">
+             (817)-296-0364
+            </a>
+           </span>
+          </span>
+         </div>
+         <div class="meta_format">
+          <i class="icon-envelope-alt">
+          </i>
+          <a class="email" href="mailto:mandbwatches@gmail.com">
+           mandbwatches@gmail.com
+          </a>
+         </div>
+        </address>
+       </div>
+      </div>
+     </div>
+     <div class="copyright_div">
+      <div class="row copyright">
+       <div class="span6 pull-right" data-motopress-static-file="static/static-footer-nav.php" data-motopress-type="static">
+       </div>
+       <div class="span6 pull-left" data-motopress-static-file="static/static-footer-text.php" data-motopress-type="static">
+        <div class="footer-text" id="footer-text">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div align="center" style="padding-left:20px; padding-right:20px;font-size:9px; padding-top:5px; padding-bottom:10px;">
+   M and B Watches is an independent fine timepiece retailer and is not affiliated with nor endorsed in any way with Rolex SA, Officine Panerai, Omega, Breitling, Audemars Piguet, IWC, Tag Heuer, Ulysse Nardin, Patek Philippe, A. Lange and Sohne, Bell &amp; Ross, Blancpain, Breguet, Cartier, Chopard, FP Journe, Glashutte, Hublot, Jaeger LeCoultre, Vacheron Constantin, Tudor, Sinn, Seiko, or Richard Mille. All watches are sold here as pre-owned. M and B watches is not an authorized dealer of any of the aforementioned brands or any of their subsidiaries. Any reference to the brands, registered trademarks, and models belong solely to them.
+  </div>
+  <div align="center" style="width:100%; padding-top:5px; ; background-color:#CCCCCC">
+   <div align="center" style="z-index:100000; color:#000000">
+    <br/>
+    <br/>
+    © 2005 - 2015 All Rights Reserved , M and B Watches
+    <br/>
+    Website developed by
+    <a href="http://www.aztontech.com" style="color:#FF0000;">
+     Azton Technologies
+    </a>
+    <div>
+    </div>
+   </div>
+  </div>
+ </footer>
+ <!--End #motopress-main-->
+</div>
+<div class="visible-desktop" id="back-top-wrapper">
+ <p id="back-top">
+  <a href="#top">
+   <span>
+   </span>
+  </a>
+ </p>
+</div>
+<script src="https://mandbwatches.com/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/jquery.flexslider-min.js?ver=2.2.2" type="text/javascript">
+</script>
+<script type="text/javascript">
+ /* <![CDATA[ */
+var items_custom = [[0,1],[480,2],[768,3],[980,4],[1170,5]];
+/* ]]> */
+</script>
+<script src="https://mandbwatches.com/wp-content/plugins/cherry-plugin/includes/js/cherry-plugin.js?ver=1.2.8.1" type="text/javascript">
+</script>
+<script src="https://mandbwatches.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20" type="text/javascript">
+</script>
+<script type="text/javascript">
+ /* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/mandbwatches.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script src="https://mandbwatches.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3" type="text/javascript">
+</script>
+<script type="text/javascript">
+ /* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/product-category\/rolex\/rolex-explorer-ii\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"https:\/\/mandbwatches.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script src="//mandbwatches.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.4.7" type="text/javascript">
+</script>
+<script src="//mandbwatches.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" type="text/javascript">
+</script>
+<script type="text/javascript">
+ /* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/product-category\/rolex\/rolex-explorer-ii\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script src="//mandbwatches.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.4.7" type="text/javascript">
+</script>
+<script src="//mandbwatches.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1" type="text/javascript">
+</script>
+<script type="text/javascript">
+ /* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/product-category\/rolex\/rolex-explorer-ii\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script src="//mandbwatches.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.4.7" type="text/javascript">
+</script>
+<script src="https://mandbwatches.com/wp-content/themes/CherryFramework/js/superfish.js?ver=1.5.3" type="text/javascript">
+</script>
+<script src="https://mandbwatches.com/wp-content/themes/CherryFramework/js/jquery.mobilemenu.js?ver=1.0" type="text/javascript">
+</script>
+<script src="https://mandbwatches.com/wp-content/themes/CherryFramework/js/jquery.magnific-popup.min.js?ver=0.9.3" type="text/javascript">
+</script>
+<script src="https://mandbwatches.com/wp-content/themes/CherryFramework/js/jplayer.playlist.min.js?ver=2.3.0" type="text/javascript">
+</script>
+<script src="https://mandbwatches.com/wp-content/themes/CherryFramework/js/jquery.jplayer.min.js?ver=2.6.0" type="text/javascript">
+</script>
+<script src="https://mandbwatches.com/wp-content/themes/CherryFramework/js/tmstickup.js?ver=1.0.0" type="text/javascript">
+</script>
+<script src="https://mandbwatches.com/wp-content/themes/CherryFramework/js/device.min.js?ver=1.0.0" type="text/javascript">
+</script>
+<script src="https://mandbwatches.com/wp-content/themes/CherryFramework/js/jquery.zaccordion.min.js?ver=2.1.0" type="text/javascript">
+</script>
+<script src="https://mandbwatches.com/wp-content/themes/CherryFramework/js/camera.min.js?ver=1.3.4" type="text/javascript">
+</script>
+<script src="https://mandbwatches.com/wp-content/themes/theme47276/js/custom-script.js?ver=1.0" type="text/javascript">
+</script>
+<script src="http://mandbwatches.com/wp-content/plugins/logo-slider/lgs_jquery.cycle2.js?ver=4.3.1" type="text/javascript">
+</script>
+<script>
+ (function($) {
+$(window).load(function() {
+if ($('.widget_shopping_cart_content').is(':empty')) {
+$('.widget_shopping_cart_content').text('No products in the cart.');
+}
+});
+})(jQuery);
+</script>
+<script type="text/javascript">
+ deleteCookie('cf-cookie-banner');
+</script>
+<!-- this is used by many Wordpress features and for plugins to work properly -->
