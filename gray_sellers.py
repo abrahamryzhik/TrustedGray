@@ -123,6 +123,39 @@ class DavidSW:
 
         return price_and_link_list
 
+class WatchBox:
+
+    def get_prices_links(self, browser):
+        url = "https://www.thewatchbox.com/watches/rolex/rolex-explorer-ii/?srule=Newest&fn1=dialColor&fv1=silverwhite"
+
+        browser.get(url)
+
+        time.sleep(5)
+
+        innerHTML = browser.execute_script("return document.body.innerHTML")
+
+        soup = BeautifulSoup(innerHTML, 'html.parser')
+
+        watches = soup.find_all('a', attrs={'class': 'link grid-carousel-link'})
+
+        price_and_link_list = []
+
+        for watch in watches:
+
+            if watch.find('span', attrs={'class': 'grid__id'}).string[:5] == "16570":
+
+                link = "https://www.thewatchbox.com" + watch.get("href")
+
+                price = int(watch.find('div', attrs={'class': 'grid__price'}).text.replace("$", "").replace(",", ""))
+
+                price_and_link_list.append((price, link))
+
+        return price_and_link_list
+
+
+
+
+
 
 
 
