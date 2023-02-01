@@ -25,7 +25,7 @@ from gray_sellers import *
 browser = webdriver.Chrome(os.path.join(os.getcwd(), 'chromedriver'))
 
 
-stores = [WatchFinder(), AISWatches(), BobsWatches(), DavidSW(), WatchBox(), CrownAndCaliber()]
+stores = [WatchFinder(), AISWatches(), BobsWatches(), DavidSW(), WatchBox(), MandB(), CrownAndCaliber()]
 
 
 print("Pulling from " + str(len(stores)) + " stores")
@@ -33,7 +33,16 @@ print("Pulling from " + str(len(stores)) + " stores")
 price_and_link_list = []
 
 for store in stores:
-    price_and_link_list += store.get_prices_links(browser)
+    # print("Processing: " + str(store))
+    try:
+        new_listings = store.get_prices_links(browser)
+        price_and_link_list += new_listings
+        print(str(store) + ": " + str(len(new_listings)) + " watches")
+
+
+    except:
+        print("Failed to load " + str(store))
+
 
 print("Found " + str(len(price_and_link_list)) + " watches")
 

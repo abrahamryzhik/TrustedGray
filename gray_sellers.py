@@ -4,6 +4,10 @@ import time
 
 class WatchFinder:
 
+    def __str__(self):
+
+        return "WatchFinder"
+
     def get_prices_links(self, browser):
 
         url = "https://www.watchfinder.com/Rolex/Explorer%20II/16570/watches?filterDial=White&filterBracelet=Bracelet"
@@ -39,6 +43,9 @@ class WatchFinder:
 
 class AISWatches:
 
+    def __str__(self):
+        return "AIS Watches"
+
     def get_prices_links(self, browser):
 
         url = "https://aiswatches.com/explorer/"
@@ -71,6 +78,9 @@ class AISWatches:
 
 class BobsWatches:
 
+    def __str__(self):
+        return "Bob\'s Watches"
+
     def get_prices_links(self, browser):
         url = "https://www.bobswatches.com/rolex/explorer_ii-16570-white#/filter:custom_field_4:16570/filter:custom_field_9:White"
 
@@ -98,6 +108,9 @@ class BobsWatches:
 
 class DavidSW:
 
+    def __str__(self):
+        return "DavidSW"
+
     def get_prices_links(self, browser):
         url = "https://davidsw.com/product-category/watch/rolex/explorer-ii/?filter_case-size=40mm&filter_dial-color=white"
 
@@ -124,6 +137,9 @@ class DavidSW:
         return price_and_link_list
 
 class WatchBox:
+
+    def __str__(self):
+        return "WatchBox"
 
     def get_prices_links(self, browser):
         url = "https://www.thewatchbox.com/watches/rolex/rolex-explorer-ii/?srule=Newest&fn1=dialColor&fv1=silverwhite"
@@ -155,6 +171,9 @@ class WatchBox:
 
 class MandB:
 
+    def __str__(self):
+        return "M&B Watches"
+
     def get_prices_links(self, browser):
         url = "https://mandbwatches.com/product-category/rolex/rolex-explorer-ii/"
 
@@ -183,6 +202,9 @@ class MandB:
         return price_and_link_list
 
 class CrownAndCaliber:
+
+    def __str__(self):
+        return "Crown and Caliber"
 
     def get_prices_links(self, browser):
         url = "https://www.crownandcaliber.com/collections/rolex-explorer-ii-watches#/filter:mfield_global_case_size:39.5:41.5/filter:mfield_global_dial_color:White"
