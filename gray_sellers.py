@@ -2,6 +2,10 @@ from bs4 import BeautifulSoup
 
 import time
 
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 class WatchFinder:
 
     def __str__(self):
@@ -14,7 +18,16 @@ class WatchFinder:
 
         browser.get(url)
 
-        time.sleep(3)
+        #time.sleep(3)
+
+        wait = WebDriverWait(browser, 10)
+        #element = wait.until(EC.element_to_be_clickable((By.ID, 'search-app')))
+
+        element = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, 'div[data-testid=\'watchPrice\']')))
+
+
+        
+        #time.sleep(1)
 
         innerHTML = browser.execute_script("return document.body.innerHTML")
 
@@ -52,7 +65,11 @@ class AISWatches:
 
         browser.get(url)
 
-        time.sleep(3)
+        # time.sleep(3)
+
+        wait = WebDriverWait(browser, 10)
+        element = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, '.prodImg')))
+        #time.sleep(1)
 
         innerHTML = browser.execute_script("return document.body.innerHTML")
 
@@ -86,7 +103,12 @@ class BobsWatches:
 
         browser.get(url)
 
-        time.sleep(3)
+        #time.sleep(3)
+
+        wait = WebDriverWait(browser, 10)
+        element = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, '.itemimage')))
+        #time.sleep(1)
+
 
         innerHTML = browser.execute_script("return document.body.innerHTML")
 
@@ -116,7 +138,11 @@ class DavidSW:
 
         browser.get(url)
 
-        time.sleep(3)
+        #time.sleep(3)
+
+        wait = WebDriverWait(browser, 10)
+        element = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, '.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail.lazy-load-active')))
+        #time.sleep(1)
 
         innerHTML = browser.execute_script("return document.body.innerHTML")
 
@@ -146,7 +172,17 @@ class WatchBox:
 
         browser.get(url)
 
-        time.sleep(5)
+        #time.sleep(5)
+
+        wait = WebDriverWait(browser, 10)
+        element = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, '.home-banner-img')))
+        #print("here")
+        browser.execute_script("window.scrollTo(0, 150)") 
+        #print("ok")
+        time.sleep(0.5)
+        #print("looking")
+        element = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, '.grid__price')))
+        browser.execute_script("window.scrollTo(0, 50)") 
 
         innerHTML = browser.execute_script("return document.body.innerHTML")
 
@@ -179,7 +215,10 @@ class MandB:
 
         browser.get(url)
 
-        time.sleep(3)
+        #time.sleep(3)
+
+        wait = WebDriverWait(browser, 10)
+        element = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, '.prod-inner-wrap')))
 
         innerHTML = browser.execute_script("return document.body.innerHTML")
 
@@ -211,7 +250,12 @@ class CrownAndCaliber:
 
         browser.get(url)
 
-        time.sleep(4)
+        # time.sleep(4)
+
+        wait = WebDriverWait(browser, 10)
+        element = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, '.grid-view-item__link')))
+
+        
 
         innerHTML = browser.execute_script("return document.body.innerHTML")
 
