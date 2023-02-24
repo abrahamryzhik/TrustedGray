@@ -2,6 +2,7 @@
 8765 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/230008
 8850 https://www.thewatchbox.com/shop/4657300.html
 8885 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/236074
+8950 https://www.thewatchbox.com/shop/4777322.html
 9000 https://www.crownandcaliber.com/products/rolex-explorer-ii-16570-10-10-rol-t6d7yb
 9000 https://www.crownandcaliber.com/products/rolex-explorer-ii-16570-10-10-rol-mg7xp9
 9050 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/232242
