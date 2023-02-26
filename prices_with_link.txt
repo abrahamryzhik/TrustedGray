@@ -8,7 +8,6 @@
 9150 https://www.crownandcaliber.com/products/rolex-explorer-ii-16570-10-10-rol-ngl42x
 9150 https://www.crownandcaliber.com/products/rolex-explorer-ii-16570-10-10-rol-rcg6ap
 9450 https://www.thewatchbox.com/shop/4652947.html
-9550 https://www.crownandcaliber.com/products/rolex-explorer-ii-16570-10-10-rol-5l72p9
 9550 https://www.crownandcaliber.com/products/rolex-explorer-ii-16570-10-10-rol-xm8dgq
 9600 https://www.crownandcaliber.com/products/rolex-explorer-ii-16570-10-10-rol-40mq2n
 9775.0 https://aiswatches.com/rolex-polar-explorer-ii-16570-p-serial-white-dial-box-papers-rsc-serviced/
@@ -21,7 +20,6 @@
 10660 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/239520
 10660 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/216068
 10690 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/231123
-10705 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/229673
 10855 https://www.watchfinder.com/Rolex/Explorer II/16570/1780/item/235967
 10895 https://www.bobswatches.com//rolex-explorer-ii-16570-white-dial-watch.html
 10975.0 https://aiswatches.com/rolex-polar-explorer-ii-16570-v-serial-white-dial-3186-movement-box-papers/
