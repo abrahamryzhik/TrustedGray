@@ -5,6 +5,15 @@
 <h1>Tracking trusted gray market sellers!</h1>
 <p>The goal of this website is to track prices across trusted sellers only and give you access to the best prices avilable.</p>
 
+<label for="cars">Choose a watch to view:</label>
+
+<select name="watch_selection" id="cars">
+  <option value="16570">Rolex Explorer II 16570</option>
+  <option value="BLNR">Rolex GMT Master II BLNR Batman/girl</option>
+</select>
+
+<div id="selection_text"></div>
+
 <div>Currently tracking Rolex 16570.</div>
 <img src="16570stockimage.webp" alt="Watch photo" width="200">
 <br>
@@ -17,6 +26,14 @@
 
 <div>Here is a price graph showing the average price of a 16570 in the tracking period!</div>
 <img src="watches/16570/price_graph.png" alt="Price graph" width="400">
+
+<script type="text/javascript">
+	var e = document.getElementById("watch_selection");
+
+	document.getElementById('selection_text').innerText = "You have selected " + e.value;
+
+
+</script>
 
 
 <script type="text/javascript">
