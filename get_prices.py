@@ -52,7 +52,7 @@ price_and_link_list.sort(key = lambda x : x[0])
 browser.quit()
 
 
-with open("prices_with_link.txt", "w") as f:
+with open("watches/16570/prices_with_link.txt", "w") as f:
     f.write('\n'.join([str(price_and_link_list[i][0]) + " " + price_and_link_list[i][1] for i in range(len(price_and_link_list))]))
     #f.write('\n'.join([watch_prices[i] + " " + watch_links[i] for i in range(len(watch_links))]))
 
@@ -87,11 +87,11 @@ print("The avergae price of a 16570 today is $" + str(round(today_avg, 2)))
 print("The cheapest 16570 today is $" + str(min_price))
 print("It is available at " + min_link)
 
-with open("price_history.txt", "a") as f:
+with open("watches/16570/price_history.txt", "a") as f:
     f.write('\n')
     f.write(str(date.today()) + "," + str(today_avg)) 
 
-with open("today_summary.txt", "w") as f:
+with open("watches/16570/today_summary.txt", "w") as f:
     f.write("The average price of a 16570 today is $" + str(round(today_avg, 2)) + ". <br>")
     f.write("The cheapest 16570 today is $" + str(min_price) + ". <br>")
     f.write("It is available at " + min_link)

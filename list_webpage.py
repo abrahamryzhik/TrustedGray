@@ -20,6 +20,6 @@ for price, link in prices_and_link:
 
 html_str += "</body></html>"
 
-with open("all-prices/16570.html", "w") as f:
+with open("watches/16570/listings.html", "w") as f:
 	f.write(html_str)
 
