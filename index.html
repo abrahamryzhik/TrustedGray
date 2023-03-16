@@ -7,15 +7,16 @@
 
 <label for="cars">Choose a watch to view:</label>
 
-<select name="watch_selection" id="cars">
+<select name="watch_selection" id="watch_selection">
   <option value="16570">Rolex Explorer II 16570</option>
   <option value="BLNR">Rolex GMT Master II BLNR Batman/girl</option>
 </select>
+<button type="button" onclick="viewWatch();">View</button>
 
 <div id="selection_text"></div>
 
-<div>Currently tracking Rolex 16570.</div>
-<img src="16570stockimage.webp" alt="Watch photo" width="200">
+<!-- <div>Currently tracking Rolex 16570.</div> -->
+<img id="watch_image" src="watches/16570/16570.webp" alt="Watch photo" width="200">
 <br>
 <!-- <div><object data="today_summary.txt"></object></div> -->
 
@@ -28,9 +29,17 @@
 <img src="watches/16570/price_graph.png" alt="Price graph" width="400">
 
 <script type="text/javascript">
-	var e = document.getElementById("watch_selection");
 
-	document.getElementById('selection_text').innerText = "You have selected " + e.value;
+	function viewWatch(){
+		// document.getElementById('selection_text').innerHTML = "clicked";
+		var e = document.getElementById("watch_selection");
+
+		document.getElementById('selection_text').innerHTML = "Currently tracking " + e.options[e.selectedIndex].text;
+
+		document.getElementById('watch_image').src = "watches/" + e.value + "/" + e.value + ".webp";
+
+	}
+	
 
 
 </script>
