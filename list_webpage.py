@@ -1,6 +1,6 @@
 file_dump = []
 
-with open("prices_with_link.txt", "r") as f:
+with open("watches/16570/prices_with_link.txt", "r") as f:
 	file_dump = f.readlines()
 
 # print(file_dump)

@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 lines = []
 
-with open("price_history.txt", "r") as f:
+with open("watches/16570/price_history.txt", "r") as f:
 	lines = f.readlines()
 
 
